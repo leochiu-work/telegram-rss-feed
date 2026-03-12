@@ -1,0 +1,32 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "rss-bot"
+version = "0.1.0"
+description = "Telegram RSS Feed Bot running as GitHub Actions scheduled workflow"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0",
+    "httpx>=0.27",
+    "python-dotenv>=1.0",
+    "pyyaml>=6.0",
+]
+
+[project.scripts]
+rss-bot = "rss_bot.main:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/rss_bot"]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.0",
+    "pytest-httpx>=0.30",
+    "pytest-mock>=3.12",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

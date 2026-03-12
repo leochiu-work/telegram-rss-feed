@@ -1,0 +1,12 @@
+{
+  "https://feeds.example.com/rss": {
+    "seen_guids": [],
+    "last_run": "2026-03-12T10:23:13.440276+00:00",
+    "seeded": true
+  },
+  "https://another.com/feed.xml": {
+    "seen_guids": [],
+    "last_run": "2026-03-12T10:24:28.408256+00:00",
+    "seeded": true
+  }
+}

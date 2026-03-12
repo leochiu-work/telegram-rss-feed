@@ -1,0 +1,7 @@
+feeds:
+  - url: https://finance.yahoo.com/news/rssindex
+    name: Yahoo News
+
+settings:
+  max_items_per_run: 5
+  state_path: data/state.json

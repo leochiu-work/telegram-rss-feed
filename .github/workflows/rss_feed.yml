@@ -1,0 +1,45 @@
+name: RSS Feed Bot
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # every hour
+  workflow_dispatch:        # manual trigger for testing
+
+permissions:
+  contents: write           # needed for git push
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    concurrency:
+      group: rss-bot-state        # prevents parallel runs corrupting state
+      cancel-in-progress: false   # wait, don't cancel in-flight runs
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: astral-sh/setup-uv@v4
+        with:
+          python-version-file: ".python-version"
+
+      - run: uv sync --frozen
+
+      - name: Run RSS bot
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+        run: uv run rss-bot
+
+      - name: Commit state if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/state.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update RSS feed state [skip ci]"
+            git push
+          fi
