@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "could-investing-10-000-nuscale-232500316.html",
-      "why-hycroft-mining-stock-triumphed-232244495.html",
-      "supply-chain-network-stock-down-231016976.html",
-      "?src=A00220&yptr=yahoo",
-      "papa-john-weighs-irth-capital-120834249.html",
       "accenture-acn-poised-benefit-ai-131608070.html",
       "micron-technology-inc-mu-good-131721167.html",
       "concerns-huge-capital-expenditure-data-131929903.html",
@@ -510,9 +505,14 @@
       "7-boomer-money-habits-millennials-120000313.html",
       "why-advisors-doubling-down-munis-120000184.html",
       "stock-18-annual-yield-pays-123002351.html",
-      "75-resumes-never-reach-human-123000358.html"
+      "75-resumes-never-reach-human-123000358.html",
+      "soon-ex-husband-maxed-credit-140000549.html",
+      "uber-expands-robotaxi-empire-nissan-140002115.html",
+      "nio-outperforming-even-u-stocks-130002642.html",
+      "whats-driving-grains-higher-135246943.html",
+      "grant-cardone-says-dont-emergency-133036414.html"
     ],
-    "last_run": "2026-03-16T21:17:24.608170+00:00",
+    "last_run": "2026-03-16T22:14:12.914786+00:00",
     "seeded": true
   }
 }
