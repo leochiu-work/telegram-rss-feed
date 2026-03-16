@@ -11,10 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "forbes-reveals-worlds-richest-people-223008937.html",
-      "mortgage-refinance-rates-today-tuesday-march-10-2026-100031024.html",
-      "exxonmobil-board-backs-plan-shift-224515827.html",
-      "gold-ira-vs-physical-gold-224654072.html",
       "factbox-tech-companies-tap-debt-225411778.html",
       "prediction-artificial-intelligence-ai-stock-223000486.html",
       "how-to-get-overdraft-fees-refunded-214822745.html",
@@ -509,9 +505,14 @@
       "ntcsa-signs-helicopter-purchase-agreement-110326223.html",
       "kratos-defense-security-solutions-inc-110327649.html",
       "btig-cuts-aerovironment-inc-avav-110329745.html",
-      "nvidia-stock-investors-just-got-110800859.html"
+      "nvidia-stock-investors-just-got-110800859.html",
+      "universal-logistics-q4-profit-plunges-113000902.html",
+      "ARGUS_2675_AnalystReport_1773659061000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "frog-dead-north-america-power-114843990.html",
+      "julius-baer-announces-board-overhaul-121116493.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-wall-street-crosses-fingers-for-hormuz-reopening-224643780.html"
     ],
-    "last_run": "2026-03-16T11:22:55.008927+00:00",
+    "last_run": "2026-03-16T12:24:35.977998+00:00",
     "seeded": true
   }
 }
