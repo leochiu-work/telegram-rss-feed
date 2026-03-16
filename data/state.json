@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bank-america-stays-bullish-csx-010111011.html",
-      "latin-american-e-commerce-giant-223300937.html",
-      "deutsche-bank-lowers-accenture-acn-010500672.html",
-      "ubs-raises-nextera-energy-nee-010707701.html",
-      "bank-america-sees-upside-mckesson-010900121.html",
       "scotiabank-lifts-t-t-price-011104967.html",
       "goldman-sachs-now-largest-institutional-223310326.html",
       "deutsche-bank-sees-higher-value-011709476.html",
@@ -510,9 +505,14 @@
       "stock-market-today-dow-sp-500-nasdaq-rise-as-wall-street-crosses-fingers-for-hormuz-reopening-224643385.html",
       "tax-refunds-are-bigger-this-year-why-thats-not-better-for-taxpayers-165828869.html",
       "banks-launch-sale-ea-buyouts-145920199.html",
-      "hurst-expands-corporate-finance-business-152008674.html"
+      "hurst-expands-corporate-finance-business-152008674.html",
+      "1-incredible-ai-stock-wall-160500499.html",
+      "making-roth-conversion-mistake-betr-154500960.html",
+      "truckload-linehaul-rate-index-nears-155824575.html",
+      "how-to-invest-in-cryptocurrency-for-beginners-155910593.html",
+      "bitcoin-depot-btm-q4-2025-160758263.html"
     ],
-    "last_run": "2026-03-16T15:29:29.369632+00:00",
+    "last_run": "2026-03-16T16:28:41.033080+00:00",
     "seeded": true
   }
 }
