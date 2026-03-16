@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dell-technologies-raises-dividend-20-233002703.html",
-      "dave-ramsey-says-economy-fine-223050145.html",
-      "investors-rotate-mid-cap-energy-233000385.html",
-      "diesel-markets-upended-middle-east-233832629.html",
-      "paying-cash-for-healthcare-could-help-cut-your-medical-bills-201855339.html",
       "kroger-kr-stock-gets-price-005204424.html",
       "oracle-orcl-q3-2026-earnings-223334671.html",
       "wolfe-research-turns-neutral-starbucks-005635674.html",
@@ -510,9 +505,14 @@
       "mix-cyclical-structural-demand-headwinds-132011218.html",
       "artisan-value-fund-views-paypal-132231772.html",
       "exclusive-openai-courts-private-equity-132509339.html",
-      "toubani-begins-construction-kobada-gold-132734610.html"
+      "toubani-begins-construction-kobada-gold-132734610.html",
+      "emerald-growth-equity-strategy-sold-135838515.html",
+      "us-home-builder-sentiment-edges-140202940.html",
+      "alphabet-goog-gaining-double-tailwinds-140647471.html",
+      "encyclopedia-britannica-sues-openai-over-141324436.html",
+      "restaurant-group-itacho-sushi-shuts-141538651.html"
     ],
-    "last_run": "2026-03-16T13:37:35.795301+00:00",
+    "last_run": "2026-03-16T14:33:12.748578+00:00",
     "seeded": true
   }
 }
