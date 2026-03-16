@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "usa-rare-earth-usar-climbs-013728630.html",
-      "war-causes-sharp-rise-in-diesel-prices-posing-risk-of-higher-shipping-costs-4XoMFhyh8aY53xWxLykg?siteid=yhoof2&yptr=yahoo",
-      "wipro-wit-surges-10-4-014300559.html",
-      "t1-energy-te-soars-11-014513470.html",
-      "dyne-therapeutics-dyn-climbs-11-014758156.html",
       "mortgage-rate-predictions-for-the-next-5-years-ai-forecast-through-2030-195826526.html",
       "kodiak-ai-kdk-q4-2025-223746125.html",
       "best-money-market-account-rates-today-tuesday-march-10-2026-100057215.html",
@@ -510,9 +505,14 @@
       "cloudflare-net-mastercard-ma-partner-085549666.html",
       "cognex-cgnx-one-best-ai-085557355.html",
       "morgan-stanley-raises-dell-dell-085528188.html",
-      "retiring-2026-4-ways-under-091805908.html"
+      "retiring-2026-4-ways-under-091805908.html",
+      "nio-inc-nio-climbs-22-094112617.html",
+      "fastly-fsly-surges-22-tech-094121284.html",
+      "warren-buffett-returned-6-000-094500143.html",
+      "ray-dalio-says-america-debt-101100408.html",
+      "chipotle-stock-long-term-buy-102000707.html"
     ],
-    "last_run": "2026-03-16T18:26:17.366159+00:00",
+    "last_run": "2026-03-16T19:27:06.889186+00:00",
     "seeded": true
   }
 }
