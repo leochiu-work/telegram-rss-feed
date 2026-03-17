@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "national-grid-ngg-among-best-035618386.html",
-      "firstenergy-invest-950-million-ohio-035641933.html",
-      "northwest-natural-holding-nwn-price-035606988.html",
-      "brent-crude-oil-tops-100-030802210.html",
-      "cathie-wood-bets-joby-sean-013031348.html",
       "money-coach-maxes-roth-ira-140000056.html",
       "5-retirement-essentials-ll-want-140000399.html",
       "why-madison-small-cap-fund-140201144.html",
@@ -510,9 +505,14 @@
       "aptiv-stock-performance-compared-other-114319137.html",
       "oil-supply-disruptions-rocking-chip-113002731.html",
       "crypto-company-abra-public-blank-112925853.html",
-      "week-jerome-powell-penultimate-meeting-113345882.html"
+      "week-jerome-powell-penultimate-meeting-113345882.html",
+      "lam-research-lcrx-gained-strong-124620275.html",
+      "alphabet-goog-gained-shift-ai-124758877.html",
+      "why-merck-mrk-surged-q4-124932271.html",
+      "fiserv-fisv-tanked-missed-earnings-125048986.html",
+      "nvidia-stock-rises-ahead-of-gtc-event-LIT4Cvv5QlB4BcpVXrfr?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-17T20:15:49.130801+00:00",
+    "last_run": "2026-03-17T21:16:28.344093+00:00",
     "seeded": true
   }
 }
