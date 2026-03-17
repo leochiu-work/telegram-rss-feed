@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "replay-fireside-chat-xanadu-founder-210832124.html",
-      "1-software-stock-buy-rebounds-210700769.html",
-      "lower-mortgage-review-210518636.html",
-      "refinance-mortgage-162831396.html",
-      "investments-vs-your-paycheck-why-take-home-pay-wins-for-workers-this-tax-season-175605269.html",
       "benchmark-reaffirms-buy-qxo-inc-221942404.html",
       "stephens-roth-capital-raise-price-221602851.html",
       "raymond-james-upgrades-oscar-health-221353135.html",
@@ -510,9 +505,14 @@
       "alibaba-baba-consolidates-ai-operations-155511047.html",
       "limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
       "best-warren-buffett-stocks-buy-160500718.html",
-      "tech-stocks-today-microsoft-shakes-up-ai-leadership-nvidias-jensen-huang-kicks-off-gtc-event-144220414.html"
+      "tech-stocks-today-microsoft-shakes-up-ai-leadership-nvidias-jensen-huang-kicks-off-gtc-event-144220414.html",
+      "best-tech-etf-invest-2-170500875.html",
+      "neuronetics-inc-q4-2025-earnings-164648622.html",
+      "how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
+      "oracle-burning-cash-pursuit-hypergrowth-170900675.html",
+      "bentley-to-cut-jobs-ahead-of-long-delayed-ev-rollout-171352106.html"
     ],
-    "last_run": "2026-03-17T16:29:55.324569+00:00",
+    "last_run": "2026-03-17T17:27:05.695510+00:00",
     "seeded": true
   }
 }
