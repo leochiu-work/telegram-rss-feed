@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "average-us-long-term-mortgage-160309434.html",
-      "why-d-davidson-raised-target-161347064.html",
-      "why-bws-financial-sees-a10-161356311.html",
-      "honda-downgraded-equal-weight-overweight-161655598.html",
-      "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
       "tax-refunds-are-larger-this-year-why-thats-not-good-news-for-taxpayers-165828242.html",
       "sleep-number-corporation-q4-2025-165837101.html",
       "harvard-bioscience-inc-q4-2025-165842053.html",
@@ -510,9 +505,14 @@
       "could-lithia-motors-lad-beneficiary-163153928.html",
       "bank-america-securities-continues-bullish-163145268.html",
       "polymarket-five-minute-bets-capture-140000351.html",
-      "ishares-msci-usa-quality-garp-134500293.html"
+      "ishares-msci-usa-quality-garp-134500293.html",
+      "sirius-holdings-siri-plans-pay-163148197.html",
+      "aes-corporation-aes-buy-earnings-163150031.html",
+      "exclusive-silvers-wild-swings-havent-153122170.html",
+      "morgan-stanley-not-worried-equitable-163151027.html",
+      "top-2-mega-cap-stocks-152500074.html"
     ],
-    "last_run": "2026-03-17T01:38:43.377443+00:00",
+    "last_run": "2026-03-17T03:05:37.490354+00:00",
     "seeded": true
   }
 }
