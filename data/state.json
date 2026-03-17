@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "techtarget-inc-q4-2025-earnings-001325981.html",
-      "guardian-pharmacy-services-inc-q4-001221358.html",
-      "tillys-inc-q4-2025-earnings-001042321.html",
-      "frequency-electronics-inc-q3-2026-000946797.html",
-      "crypto-traders-turn-hyperliquid-oil-000742569.html",
       "national-grid-ngg-among-best-035618386.html",
       "firstenergy-invest-950-million-ohio-035641933.html",
       "northwest-natural-holding-nwn-price-035606988.html",
@@ -510,9 +505,14 @@
       "stocks-set-open-higher-bond-103643186.html",
       "state-street-corporation-stock-stt-100823041.html",
       "bitcoin-surges-past-73-000-100716647.html",
-      "nebius-signs-ai-capacity-deal-100907987.html"
+      "nebius-signs-ai-capacity-deal-100907987.html",
+      "could-broadcom-become-next-nvidia-113000471.html",
+      "aptiv-stock-performance-compared-other-114319137.html",
+      "oil-supply-disruptions-rocking-chip-113002731.html",
+      "crypto-company-abra-public-blank-112925853.html",
+      "week-jerome-powell-penultimate-meeting-113345882.html"
     ],
-    "last_run": "2026-03-17T19:27:19.227282+00:00",
+    "last_run": "2026-03-17T20:15:49.130801+00:00",
     "seeded": true
   }
 }
