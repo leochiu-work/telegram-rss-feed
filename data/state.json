@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "money-coach-maxes-roth-ira-140000056.html",
-      "5-retirement-essentials-ll-want-140000399.html",
-      "why-madison-small-cap-fund-140201144.html",
-      "stock-market-today-dow-sp-500-nasdaq-rise-as-oil-retreats-gdp-growth-slows-more-than-expected-225332081.html",
-      "actis-divests-orygen-grupo-romero-141508646.html",
       "adobes-architect-leaving-building-140652415.html",
       "elon-musk-talks-trillion-dollar-150111702.html",
       "ARGUS_46424_MarketOutlook_1773400156000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -510,9 +505,14 @@
       "alphabet-goog-gained-shift-ai-124758877.html",
       "why-merck-mrk-surged-q4-124932271.html",
       "fiserv-fisv-tanked-missed-earnings-125048986.html",
-      "nvidia-stock-rises-ahead-of-gtc-event-LIT4Cvv5QlB4BcpVXrfr?siteid=yhoof2&yptr=yahoo"
+      "nvidia-stock-rises-ahead-of-gtc-event-LIT4Cvv5QlB4BcpVXrfr?siteid=yhoof2&yptr=yahoo",
+      "allows-union-pacific-unp-sustain-131633018.html",
+      "current-price-oil-march-16-133449951.html",
+      "ram-smid-composite-trimmed-position-132809998.html",
+      "makes-donnelley-financial-solutions-dfin-133024928.html",
+      "could-buying-nuscale-power-today-133500177.html"
     ],
-    "last_run": "2026-03-17T21:16:28.344093+00:00",
+    "last_run": "2026-03-17T22:13:41.145341+00:00",
     "seeded": true
   }
 }
