@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "exelon-corporation-stock-underperforming-dow-184038488.html",
-      "obamacare-slow-death-debilitating-centene-183932732.html",
-      "sugar-prices-fall-back-mondays-182828264.html",
-      "hedge-fund-beryl-capital-initiated-182800385.html",
-      "steel-stock-just-hiked-dividend-182644941.html",
       "cheapest-pet-insurance-191646538.html",
       "nat-gas-prices-rally-iran-190738241.html",
       "european-gas-rises-as-qatar-lng-halt-ripples-through-market-1b9494bf?siteid=yhoof2&yptr=yahoo",
@@ -510,9 +505,14 @@
       "ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "emerald-growth-equity-strategy-sold-130251369.html",
       "emerald-growth-equity-strategy-increased-130742210.html",
-      "federal-governors-warns-ai-could-131601117.html"
+      "federal-governors-warns-ai-could-131601117.html",
+      "rzg-delivers-larger-gains-slyg-141405201.html",
+      "artisan-small-cap-fund-picked-141343200.html",
+      "why-cathie-wood-latest-tesla-141428262.html",
+      "citi-trends-ctrn-q4-2025-141434172.html",
+      "stock-market-today-dow-sp-500-nasdaq-rise-as-oil-tops-100-again-fed-meeting-kicks-off-133532286.html"
     ],
-    "last_run": "2026-03-17T13:36:46.421859+00:00",
+    "last_run": "2026-03-17T14:31:39.333229+00:00",
     "seeded": true
   }
 }
