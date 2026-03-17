@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "palantir-pltr-outlier-iran-war-153415335.html",
-      "frontera-sell-colombian-operations-parex-153730057.html",
-      "ubs-maintains-hold-rating-apple-153523394.html",
-      "citi-stanchart-evacuate-dubai-offices-153727887.html",
-      "bernstein-think-nvidia-nvda-153545547.html",
       "oracle-corporation-q3-2026-earnings-123000761.html",
       "cadre-holdings-inc-q4-2025-123000466.html",
       "infinity-natural-resources-inc-q4-123000269.html",
@@ -510,9 +505,14 @@
       "oil-100-bigger-threat-ai-200500359.html",
       "archer-aviation-inc-achr-good-200609980.html",
       "ares-capital-corporation-arcc-good-200820858.html",
-      "2-no-brainer-ai-stocks-202000080.html"
+      "2-no-brainer-ai-stocks-202000080.html",
+      "middle-east-crisis-could-triple-230000796.html",
+      "save-first-10-000-age-210000091.html",
+      "thermo-fisher-scientific-inc-tmo-215504441.html",
+      "boston-scientific-corp-bsx-pull-215420535.html",
+      "drove-shiba-inus-double-digit-204935980.html"
     ],
-    "last_run": "2026-03-17T07:28:06.206411+00:00",
+    "last_run": "2026-03-17T08:21:00.710349+00:00",
     "seeded": true
   }
 }
