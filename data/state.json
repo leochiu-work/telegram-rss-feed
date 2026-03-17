@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "benchmark-reaffirms-buy-qxo-inc-221942404.html",
-      "stephens-roth-capital-raise-price-221602851.html",
-      "raymond-james-upgrades-oscar-health-221353135.html",
-      "b-riley-bmo-capital-raise-221055747.html",
-      "commercial-ships-struck-near-strait-of-hormuz-41599b7f?siteid=yhoof2&yptr=yahoo",
       "why-nebius-stock-surged-today-231346393.html",
       "dividend-stock-yielding-almost-3-233002323.html",
       "alliant-credit-union-review-215451782.html",
@@ -510,9 +505,14 @@
       "neuronetics-inc-q4-2025-earnings-164648622.html",
       "how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
       "oracle-burning-cash-pursuit-hypergrowth-170900675.html",
-      "bentley-to-cut-jobs-ahead-of-long-delayed-ev-rollout-171352106.html"
+      "bentley-to-cut-jobs-ahead-of-long-delayed-ev-rollout-171352106.html",
+      "nucor-stock-outperforming-dow-081641829.html",
+      "idexx-laboratories-stock-outperforming-p-081914150.html",
+      "elon-musk-talks-nasdaq-p-092500985.html",
+      "wise-convert-15-401-k-103000336.html",
+      "one-stock-watch-rare-earth-090000189.html"
     ],
-    "last_run": "2026-03-17T17:27:05.695510+00:00",
+    "last_run": "2026-03-17T18:26:13.855862+00:00",
     "seeded": true
   }
 }
