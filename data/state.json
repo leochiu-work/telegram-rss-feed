@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oppfi-inc-q4-2025-earnings-164309607.html",
-      "richard-haass-warns-the-geopolitical-risk-tax-will-burden-markets-for-years-to-come-164035978.html",
-      "iran-war-could-bring-down-164000275.html",
-      "health-care-roundup-market-talk-fa7d94f2?siteid=yhoof2&yptr=yahoo",
-      "campbell-soup-company-q2-2026-164123608.html",
       "see-imax-shares-rising-institutional-172844991.html",
       "soybeans-rallying-wednesday-173115727.html",
       "ai-is-reshaping-2025-taxes-3-risks-to-know-before-you-file-120000919.html",
@@ -510,9 +505,14 @@
       "really-stop-contributing-401-k-110000705.html",
       "real-estate-investor-grant-cardone-110000932.html",
       "nebius-intends-raise-3-75-110156379.html",
-      "3-warren-buffett-stocks-hold-110500440.html"
+      "3-warren-buffett-stocks-hold-110500440.html",
+      "meta-meta-sees-17-surge-120812813.html",
+      "alphabet-googl-youtube-growth-drives-120814770.html",
+      "?src=A00220&yptr=yahoo",
+      "had-invested-1-000-mcdonald-121503442.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-stall-as-oil-tops-100-again-dispelling-hopes-for-market-reprieve-225045655.html"
     ],
-    "last_run": "2026-03-17T11:20:47.256220+00:00",
+    "last_run": "2026-03-17T12:23:40.795157+00:00",
     "seeded": true
   }
 }
