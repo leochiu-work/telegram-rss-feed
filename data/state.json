@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "broadwind-inc-q4-2025-earnings-204413932.html",
-      "ur-energy-inc-q4-2025-204404314.html",
-      "mortgage-rates-rise-again-remain-205000536.html",
-      "quince-hits-10b-valuation-giant-205017528.html",
-      "4-gold-storage-myths-debunked-204749637.html",
       "replay-fireside-chat-xanadu-founder-210832124.html",
       "1-software-stock-buy-rebounds-210700769.html",
       "lower-mortgage-review-210518636.html",
@@ -510,9 +505,14 @@
       "emerson-electric-co-emr-billionaire-144755468.html",
       "america-2-kinds-households-1-150500284.html",
       "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html",
-      "nfra-finds-gaps-controls-indian-151449077.html"
+      "nfra-finds-gaps-controls-indian-151449077.html",
+      "zebra-technologies-zbra-reports-1-155502385.html",
+      "alibaba-baba-consolidates-ai-operations-155511047.html",
+      "limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
+      "best-warren-buffett-stocks-buy-160500718.html",
+      "tech-stocks-today-microsoft-shakes-up-ai-leadership-nvidias-jensen-huang-kicks-off-gtc-event-144220414.html"
     ],
-    "last_run": "2026-03-17T15:28:57.934621+00:00",
+    "last_run": "2026-03-17T16:29:55.324569+00:00",
     "seeded": true
   }
 }
