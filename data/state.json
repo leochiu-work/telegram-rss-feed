@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "why-nebius-stock-surged-today-231346393.html",
-      "dividend-stock-yielding-almost-3-233002323.html",
-      "alliant-credit-union-review-215451782.html",
-      "descartes-reports-record-quarter-announces-231530779.html",
-      "atlassian-to-cut-about-10-of-workforce-as-it-ramps-up-ai-spending-61dadade?siteid=yhoof2&yptr=yahoo",
       "techtarget-inc-q4-2025-earnings-001325981.html",
       "guardian-pharmacy-services-inc-q4-001221358.html",
       "tillys-inc-q4-2025-earnings-001042321.html",
@@ -510,9 +505,14 @@
       "idexx-laboratories-stock-outperforming-p-081914150.html",
       "elon-musk-talks-nasdaq-p-092500985.html",
       "wise-convert-15-401-k-103000336.html",
-      "one-stock-watch-rare-earth-090000189.html"
+      "one-stock-watch-rare-earth-090000189.html",
+      "chicago-man-300k-cash-400k-110000554.html",
+      "stocks-set-open-higher-bond-103643186.html",
+      "state-street-corporation-stock-stt-100823041.html",
+      "bitcoin-surges-past-73-000-100716647.html",
+      "nebius-signs-ai-capacity-deal-100907987.html"
     ],
-    "last_run": "2026-03-17T18:26:13.855862+00:00",
+    "last_run": "2026-03-17T19:27:19.227282+00:00",
     "seeded": true
   }
 }
