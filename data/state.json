@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tax-refunds-are-larger-this-year-why-thats-not-good-news-for-taxpayers-165828242.html",
-      "sleep-number-corporation-q4-2025-165837101.html",
-      "harvard-bioscience-inc-q4-2025-165842053.html",
-      "navigator-nvgs-q4-2025-earnings-171112656.html",
-      "tech-stocks-today-anthropic-says-pentagon-ban-could-cost-it-billions-nebius-stock-rises-on-nvidia-investment-134456628.html",
       "p-futures-waver-middle-east-103346865.html",
       "jim-cramer-intuit-stick-one-103053647.html",
       "im-62-900-000-401-142054024.html",
@@ -510,9 +505,14 @@
       "aes-corporation-aes-buy-earnings-163150031.html",
       "exclusive-silvers-wild-swings-havent-153122170.html",
       "morgan-stanley-not-worried-equitable-163151027.html",
-      "top-2-mega-cap-stocks-152500074.html"
+      "top-2-mega-cap-stocks-152500074.html",
+      "meet-monster-stock-continues-crush-165800023.html",
+      "analysts-lower-price-targets-corebridge-163154392.html",
+      "3-reasons-why-bittensor-skyrocketed-170844092.html",
+      "iran-war-fed-conundrum-other-170002007.html",
+      "u-intervention-venezuela-could-help-170000389.html"
     ],
-    "last_run": "2026-03-17T03:05:37.490354+00:00",
+    "last_run": "2026-03-17T04:40:38.998334+00:00",
     "seeded": true
   }
 }
