@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "energy-secretary-chris-wright-says-120000628.html",
-      "average-person-wants-passive-income-130041885.html",
-      "jet-fuel-prices-rising-could-040218339.html",
-      "threatened-undermined-trump-blasts-banks-121900188.html",
-      "best-stocks-buy-500-now-130500608.html",
       "3-low-cost-vanguard-etfs-135000039.html",
       "buzzfeed-under-pressure-issuing-going-135539330.html",
       "more-workers-are-taking-a-phased-approach-to-retirement--and-employers-are-starting-to-help-100007087.html",
@@ -510,9 +505,14 @@
       "tyson-stock-performance-compared-other-113859771.html",
       "w-r-berkley-stock-underperforming-113637112.html",
       "builders-firstsource-stock-underperforming-nasdaq-114959868.html",
-      "huya-q4-earnings-call-highlights-115007600.html"
+      "huya-q4-earnings-call-highlights-115007600.html",
+      "leidos-holdings-stock-outperforming-p-130225591.html",
+      "why-emerald-growth-equity-strategy-130102353.html",
+      "canadian-financier-to-buy-stake-in-economist-magazine-ea2c363a?siteid=yhoof2&yptr=yahoo",
+      "thermo-fisher-scientific-tmo-surged-125858594.html",
+      "highest-cd-rates-by-state-224514443.html"
     ],
-    "last_run": "2026-03-18T20:15:53.243282+00:00",
+    "last_run": "2026-03-18T21:16:08.144854+00:00",
     "seeded": true
   }
 }
