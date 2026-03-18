@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "billionaire-leo-koguan-now-owns-155906497.html",
-      "mortgage-rates-rise-on-global-concerns-mortgage-and-refinance-interest-rates-today-100000316.html",
-      "dear-lucid-motors-stock-fans-160002664.html",
-      "crypto-currents-goldman-tops-ripple-160137187.html",
-      "federal-government-just-proposed-pell-160212920.html",
       "vera-bradley-inc-q4-2026-165642764.html",
       "g-iii-apparel-group-ltd-165404890.html",
       "mcdonalds-plans-3-menu-latest-170050772.html",
@@ -510,9 +505,14 @@
       "tax-refunds-jump-10-to-almost-3700-best-ways-to-use-that-extra-cash-200949583.html",
       "buy-dip-ulta-stock-195502134.html",
       "dear-amd-stock-fans-mark-194559289.html",
-      "nvidia-rises-ceo-jensen-huang-194832820.html"
+      "nvidia-rises-ceo-jensen-huang-194832820.html",
+      "ai-mega-spend-tax-cash-202840299.html",
+      "exotic-pet-insurance-171019111.html",
+      "dell-workforce-drops-10-fiscal-202455738.html",
+      "boeing-asks-suppliers-check-middle-202848931.html",
+      "prediction-artificial-intelligence-ai-stock-202700729.html"
     ],
-    "last_run": "2026-03-18T07:27:52.184208+00:00",
+    "last_run": "2026-03-18T08:20:53.746312+00:00",
     "seeded": true
   }
 }
