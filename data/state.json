@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ask-advisor-im-61-900k-144258219.html",
-      "adobe-stock-drops-after-ceo-narayen-announces-he-will-step-down-after-18-years-212518124.html",
-      "adobe-shares-drop-ceo-exit-091951216.html",
-      "global-ev-sales-slip-again-093000885.html",
-      "wall-street-own-stock-getting-093026150.html",
       "american-water-works-stock-underperforming-102159246.html",
       "brown-brown-stock-underperforming-nasdaq-102939630.html",
       "gulf-oil-producers-already-lost-103000561.html",
@@ -510,9 +505,14 @@
       "invisible-metals-powering-trillion-dollar-090000487.html",
       "750k-roth-ira-receive-1-110000666.html",
       "okta-ceo-ai-is-moving-so-quickly-companies-must-change-40-of-what-they-are-doing-every-year-194523131.html",
-      "fueling-fastest-growing-small-midsize-092233976.html"
+      "fueling-fastest-growing-small-midsize-092233976.html",
+      "frc-updates-guidance-comply-explain-100834192.html",
+      "desperate-homeowners-renters-giving-food-100000358.html",
+      "rate-hike-fails-lift-aussie-095929692.html",
+      "amazon-launches-1-hour-shipping-100457426.html",
+      "traders-snap-protection-against-extreme-100805185.html"
     ],
-    "last_run": "2026-03-18T18:26:20.758913+00:00",
+    "last_run": "2026-03-18T19:24:36.740683+00:00",
     "seeded": true
   }
 }
