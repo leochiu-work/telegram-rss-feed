@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ondas-onds-4m-defense-gets-154628438.html",
-      "rbc-capital-raises-pt-kinetik-154630870.html",
-      "ionq-ionq-announces-collaboration-applied-154632330.html",
-      "ubs-raises-pt-echostar-sats-154633771.html",
-      "crowdstrike-vs-palo-alto-networks-155954100.html",
       "better-ai-stock-buy-now-170500550.html",
       "kyivstar-group-ltd-kyiv-good-165155283.html",
       "oracle-corporation-orcl-good-stock-165236058.html",
@@ -510,9 +505,14 @@
       "analyst-says-oracle-still-early-145843079.html",
       "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
       "save-plan-officially-ends--heres-what-happens-to-your-student-loans-now-164707510.html",
-      "strategy-acquires-22-337-bitcoin-145700272.html"
+      "strategy-acquires-22-337-bitcoin-145700272.html",
+      "soybeans-falling-monday-morning-due-124009589.html",
+      "corn-falling-back-monday-am-124009370.html",
+      "prediction-broadcoms-stock-price-end-124000651.html",
+      "encompass-health-corp-ehc-declined-123034748.html",
+      "madison-small-cap-fund-standout-123855508.html"
     ],
-    "last_run": "2026-03-17T23:13:09.729268+00:00",
+    "last_run": "2026-03-18T00:38:32.429750+00:00",
     "seeded": true
   }
 }
