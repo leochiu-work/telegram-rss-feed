@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "jim-cramer-general-mills-management-144153930.html",
-      "jim-cramer-says-food-companies-144156018.html",
-      "jim-cramer-says-conagra-nightmare-144154702.html",
-      "schd-vs-vym-vs-dgro-145407227.html",
-      "workers-arent-quitting-their-jobs-heres-why-thats-a-problem-for-the-labor-market-150049677.html",
       "jensen-huang-says-agentic-ai-152500440.html",
       "jim-cramer-b-g-foods-144150724.html",
       "jim-cramer-campbell-recent-quarter-144151071.html",
@@ -510,9 +505,14 @@
       "best-defense-stock-buy-dip-140801544.html",
       "coinbase-coin-still-best-crypto-140919053.html",
       "what-the-oil-futures-curve-is-saying-about-iran-HqmStZOICFAMqpiouQjD?siteid=yhoof2&yptr=yahoo",
-      "hedge-funds-buying-roku-roku-141100014.html"
+      "hedge-funds-buying-roku-roku-141100014.html",
+      "shell-rotella-paying-parking-deal-153045370.html",
+      "gm-lg-retool-tennessee-battery-152718358.html",
+      "stocks-climb-strength-chip-travel-151746354.html",
+      "most-stocks-aren-t-worth-151921584.html",
+      "amid-challenges-high-end-furniture-152132992.html"
     ],
-    "last_run": "2026-03-18T22:12:52.371225+00:00",
+    "last_run": "2026-03-18T23:12:14.018530+00:00",
     "seeded": true
   }
 }
