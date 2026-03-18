@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "heritage-global-hgbl-q4-2025-221033684.html",
-      "freight-market-sending-two-completely-222512547.html",
-      "corn-closes-thursday-gains-222249767.html",
-      "soybeans-hold-onto-thursday-rally-222249149.html",
-      "one-fund-just-sold-8-221353649.html",
       "only-3-u-airlines-remain-230000725.html",
       "seaworld-sued-over-alleged-mishandling-205545630.html",
       "chinese-banks-boost-loans-tech-230410968.html",
@@ -510,9 +505,14 @@
       "ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "kevin-o-leary-retire-500k-121100202.html",
       "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-tops-104-again-with-fed-decision-on-deck-225450151.html",
-      "asked-cpa-receipts-actually-matter-121904777.html"
+      "asked-cpa-receipts-actually-matter-121904777.html",
+      "costco-wholesale-recession-proof-business-130500100.html",
+      "critical-metals-corp-crml-taps-130939142.html",
+      "usa-rare-earth-usar-expands-131056294.html",
+      "makes-axon-enterprise-axon-lucrative-131231683.html",
+      "how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html"
     ],
-    "last_run": "2026-03-18T12:24:31.522710+00:00",
+    "last_run": "2026-03-18T13:37:14.654673+00:00",
     "seeded": true
   }
 }
