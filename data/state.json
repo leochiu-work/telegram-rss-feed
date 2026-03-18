@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "engineers-gate-builds-85-million-214051774.html",
-      "north-sea-drilling-won-t-220000586.html",
-      "oil-edge-markets-brace-largest-213007844.html",
-      "eon-resources-stock-jumps-oil-213746236.html",
-      "fdvv-vs-hdv-2-high-213353255.html",
       "heritage-global-hgbl-q4-2025-221033684.html",
       "freight-market-sending-two-completely-222512547.html",
       "corn-closes-thursday-gains-222249767.html",
@@ -510,9 +505,14 @@
       "hsbc-raises-price-target-ypf-110326369.html",
       "why-piper-sandler-increased-crescent-110328052.html",
       "rubi-raises-7-5m-funding-110738177.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-225450963.html"
+      "stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-225450963.html",
+      "lg-gm-lfp-ess-batteries-121648236.html",
+      "ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "kevin-o-leary-retire-500k-121100202.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-oil-tops-104-again-with-fed-decision-on-deck-225450151.html",
+      "asked-cpa-receipts-actually-matter-121904777.html"
     ],
-    "last_run": "2026-03-18T11:21:57.009714+00:00",
+    "last_run": "2026-03-18T12:24:31.522710+00:00",
     "seeded": true
   }
 }
