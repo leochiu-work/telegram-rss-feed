@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "how-much-800k-mortgage-monthly-payment-203111869.html",
-      "mortgage-rate-predictions-next-5-years-ai-forecast-2030-195826488.html",
-      "crwd-stock-alert-why-morgan-183920174.html",
-      "telus-says-investigating-hack-systems-183045360.html",
-      "dividend-etf-showdown-nobl-bets-183547181.html",
       "airbnb-stock-just-crashed-below-211714956.html",
       "tqqq-qld-not-typical-etfs-205814770.html",
       "once-upon-farm-net-sales-211350820.html",
@@ -510,9 +505,14 @@
       "4-strategies-organized-tax-season-230007946.html",
       "100-oil-could-deliver-63-230000864.html",
       "why-tower-semiconductor-stock-jumped-231426434.html",
-      "oil-futures-explained-can-regular-investors-really-trade-them-141230299.html"
+      "oil-futures-explained-can-regular-investors-really-trade-them-141230299.html",
+      "morning-brief-awaiting-the-feds-take-on-a-fraught-moment-100013832.html",
+      "best-high-yield-savings-interest-rates-today-wednesday-march-18-2026-100018851.html",
+      "best-cd-rates-today-wednesday-march-18-2026-100036940.html",
+      "best-money-market-account-rates-today-wednesday-march-18-2026-100041568.html",
+      "zelestra-signs-renewable-contracts-totalling-100557579.html"
     ],
-    "last_run": "2026-03-18T09:24:02.370695+00:00",
+    "last_run": "2026-03-18T10:24:02.539243+00:00",
     "seeded": true
   }
 }
