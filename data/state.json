@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "jensen-huang-says-agentic-ai-152500440.html",
-      "jim-cramer-b-g-foods-144150724.html",
-      "jim-cramer-campbell-recent-quarter-144151071.html",
-      "trump-host-investors-memecoin-again-153037182.html",
-      "3-artificial-intelligence-stocks-worth-153500156.html",
       "jim-cramer-calls-united-states-144148589.html",
       "prediction-xrp-worth-less-2-164302247.html",
       "veteran-analyst-drops-surprising-gold-164700949.html",
@@ -510,9 +505,14 @@
       "gm-lg-retool-tennessee-battery-152718358.html",
       "stocks-climb-strength-chip-travel-151746354.html",
       "most-stocks-aren-t-worth-151921584.html",
-      "amid-challenges-high-end-furniture-152132992.html"
+      "amid-challenges-high-end-furniture-152132992.html",
+      "oil-hits-100-energy-dividends-130044217.html",
+      "does-oracle-orcl-compelling-upside-125540262.html",
+      "ventas-stock-outperforming-nasdaq-125821174.html",
+      "investors-earned-10-5m-real-130049164.html",
+      "why-oil-shocks-turn-markets-into-a-game-of-whack-a-mole-130142557.html"
     ],
-    "last_run": "2026-03-18T23:12:14.018530+00:00",
+    "last_run": "2026-03-19T00:38:55.758177+00:00",
     "seeded": true
   }
 }
