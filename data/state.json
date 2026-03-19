@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "sonoco-son-announces-70-per-020924423.html",
-      "lazard-laz-updates-february-aum-020356333.html",
-      "digg-cuts-jobs-facing-ai-225253683.html",
-      "oracle-shares-jump-strong-outlook-225900319.html",
-      "walmart-v-costco-better-dividend-230002945.html",
       "truist-cuts-huntington-bancshares-hban-023929023.html",
       "wells-fargo-starts-coverage-hasbro-024251643.html",
       "oppenheimer-raises-verizon-vz-price-024848629.html",
@@ -510,9 +505,14 @@
       "world-trade-growth-set-slow-140734609.html",
       "alibaba-group-reports-revenue-miss-140800426.html",
       "stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html",
-      "oil-prices-hold-above-110-as-israel-iran-target-major-energy-infrastructure-throughout-the-gulf-140956302.html"
+      "oil-prices-hold-above-110-as-israel-iran-target-major-energy-infrastructure-throughout-the-gulf-140956302.html",
+      "startup-cargo-airline-7air-changes-144814155.html",
+      "yieldmax-pypy-riding-way-down-150225209.html",
+      "us-home-sales-drop-near-145021973.html",
+      "buy-vanguard-p-500-etf-150500801.html",
+      "financial-stocks-on-pace-for-worst-first-quarter-since-2020-as-private-credit-cracks-flash-yellow-warning-150941672.html"
     ],
-    "last_run": "2026-03-19T14:23:23.323118+00:00",
+    "last_run": "2026-03-19T15:21:38.630592+00:00",
     "seeded": true
   }
 }
