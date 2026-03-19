@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dave-ramsey-advice-could-cost-101500723.html",
-      "lower-mortgage-rates-now-offer-094500371.html",
-      "heloc-home-equity-loan-interest-rates-today-saturday-march-14-2026-100000675.html",
-      "mortgage-refinance-interest-rates-today-saturday-march-14-2026-100000864.html",
-      "could-oracle-become-americas-next-100300081.html",
       "iren-limited-iren-announces-purchase-024135268.html",
       "iovance-biotherapeutics-iova-announces-positive-024128258.html",
       "paul-krugman-warns-potentially-really-105000251.html",
@@ -510,9 +505,14 @@
       "ubs-raises-sustainable-infrastructure-hasi-075434085.html",
       "piper-sandler-raises-totalenergies-tte-075452586.html",
       "samsung-elec-amd-sign-mou-080250711.html",
-      "one-credit-union-empowers-employees-082401849.html"
+      "one-credit-union-empowers-employees-082401849.html",
+      "beyond-data-western-digital-stores-104606866.html",
+      "hotter-expected-ppi-reading-drags-103115015.html",
+      "norway-equinor-makes-oil-discovery-103000536.html",
+      "us-drivers-face-long-term-100301925.html",
+      "plastic-packaging-regulations-kenya-impact-090958459.html"
     ],
-    "last_run": "2026-03-19T18:23:14.814793+00:00",
+    "last_run": "2026-03-19T19:22:28.488728+00:00",
     "seeded": true
   }
 }
