@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "certara-conference-2025-revenue-hits-041237232.html",
-      "strong-analyst-confidence-intuitive-surgical-071538416.html",
-      "ai-drive-strong-company-performance-071533740.html",
-      "mizuho-cites-booking-bkng-top-071540605.html",
-      "best-2-consumer-staples-stocks-043500106.html",
       "meta-eyes-massive-20-workforce-075609161.html",
       "servicenow-now-launches-ai-powered-071532020.html",
       "morgan-stanley-revisits-mercadolibre-meli-071535388.html",
@@ -510,9 +505,14 @@
       "ionq-ionq-shares-behaved-jim-160639549.html",
       "arista-anet-shares-higher-jim-160805341.html",
       "middle-east-chaos-continues-drain-161010273.html",
-      "terra-power-south-korean-company-161514112.html"
+      "terra-power-south-korean-company-161514112.html",
+      "chicago-atlantic-bdc-inc-q4-164925867.html",
+      "rubi-raises-7-5m-carbon-165911148.html",
+      "intuitive-machines-inc-q4-2025-165201407.html",
+      "solo-brands-inc-q4-2025-165307419.html",
+      "layoffs-hit-crypto-industry-twice-165948720.html"
     ],
-    "last_run": "2026-03-19T16:24:19.566644+00:00",
+    "last_run": "2026-03-19T17:25:29.555622+00:00",
     "seeded": true
   }
 }
