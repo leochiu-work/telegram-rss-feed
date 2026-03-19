@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oppenheimer-initiates-coreweave-crwv-buy-203611677.html",
-      "jefferies-maintains-buy-haleon-plc-203613155.html",
-      "garmin-quantumscape-synaptics-three-under-214101326.html",
-      "bofa-lowers-pt-nu-holdings-203616578.html",
-      "1-unbelievable-stat-makes-bullish-215000057.html",
       "amrize-ltd-amrz-launches-evertect-203534207.html",
       "3-ways-side-hustle-might-221104230.html",
       "ge-healthcare-gehc-receives-fda-203535014.html",
@@ -510,9 +505,14 @@
       "analysts-revise-ai-hyperscaler-debt-180842090.html",
       "micron-just-might-best-ai-185825514.html",
       "iran-war-could-trigger-global-190000026.html",
-      "where-world-sugar-futures-prices-190002248.html"
+      "where-world-sugar-futures-prices-190002248.html",
+      "rubrik-selloff-could-cybersecurity-hidden-192600073.html",
+      "copper-shortage-threatens-data-centre-200100745.html",
+      "nvidia-palantir-partnering-sovereign-ai-193200058.html",
+      "dollar-pressured-rising-stocks-193131692.html",
+      "snowflake-seen-standout-software-story-192400383.html"
     ],
-    "last_run": "2026-03-19T06:27:19.788452+00:00",
+    "last_run": "2026-03-19T07:25:26.054275+00:00",
     "seeded": true
   }
 }
