@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "meta-eyes-massive-20-workforce-075609161.html",
-      "servicenow-now-launches-ai-powered-071532020.html",
-      "morgan-stanley-revisits-mercadolibre-meli-071535388.html",
-      "northcoast-upgrades-intuit-intu-neutral-071536846.html",
-      "us-israel-iran-war-news-2026?siteid=yhoof2&yptr=yahoo",
       "dave-ramsey-advice-could-cost-101500723.html",
       "lower-mortgage-rates-now-offer-094500371.html",
       "heloc-home-equity-loan-interest-rates-today-saturday-march-14-2026-100000675.html",
@@ -510,9 +505,14 @@
       "rubi-raises-7-5m-carbon-165911148.html",
       "intuitive-machines-inc-q4-2025-165201407.html",
       "solo-brands-inc-q4-2025-165307419.html",
-      "layoffs-hit-crypto-industry-twice-165948720.html"
+      "layoffs-hit-crypto-industry-twice-165948720.html",
+      "enphase-energy-enph-batteries-added-075356175.html",
+      "ubs-raises-sustainable-infrastructure-hasi-075434085.html",
+      "piper-sandler-raises-totalenergies-tte-075452586.html",
+      "samsung-elec-amd-sign-mou-080250711.html",
+      "one-credit-union-empowers-employees-082401849.html"
     ],
-    "last_run": "2026-03-19T17:25:29.555622+00:00",
+    "last_run": "2026-03-19T18:23:14.814793+00:00",
     "seeded": true
   }
 }
