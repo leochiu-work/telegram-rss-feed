@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "private-credit-fund-bdc-lco-e26d6a0d?siteid=yhoof2&yptr=yahoo",
-      "soybeans-ease-lower-weekend-220037354.html",
-      "auto-industry-groups-urge-trump-213803217.html",
-      "trump-administration-set-receive-10-220832252.html",
-      "us-receive-10-billion-fee-222905291.html",
       "sonoco-son-announces-70-per-020924423.html",
       "lazard-laz-updates-february-aum-020356333.html",
       "digg-cuts-jobs-facing-ai-225253683.html",
@@ -510,9 +505,14 @@
       "education-tax-credit-162959157.html",
       "tech-stocks-today-micron-stock-falls-after-blowout-earnings-report-nvidia-wraps-up-gtc-event-144220119.html",
       "xrp-vs-bitcoin-vs-ethereum-132035939.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-225027491.html"
+      "stock-market-today-dow-sp-500-nasdaq-futures-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-225027491.html",
+      "does-state-farm-owe-money-140000231.html",
+      "world-trade-growth-set-slow-140734609.html",
+      "alibaba-group-reports-revenue-miss-140800426.html",
+      "stock-market-today-dow-sp-500-nasdaq-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-133439504.html",
+      "oil-prices-hold-above-110-as-israel-iran-target-major-energy-infrastructure-throughout-the-gulf-140956302.html"
     ],
-    "last_run": "2026-03-19T13:34:52.212079+00:00",
+    "last_run": "2026-03-19T14:23:23.323118+00:00",
     "seeded": true
   }
 }
