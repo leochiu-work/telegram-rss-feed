@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "carpenter-technology-crs-announces-brian-183050353.html",
-      "vertiv-holdings-vrt-generate-capital-183058772.html",
-      "applied-materials-amat-partners-micron-183107515.html",
-      "ge-vernova-gev-selected-supply-183117575.html",
-      "byd-just-announced-5-minute-185000296.html",
       "woodward-wwd-announces-agreement-acquire-183024837.html",
       "tapestry-tpr-fq2-2026-revenue-183030885.html",
       "barrick-mining-b-appoints-chief-183039652.html",
@@ -510,9 +505,14 @@
       "solaris-energy-infrastructure-sei-initiated-153603761.html",
       "vista-energy-vist-price-target-153511847.html",
       "cftc-clears-path-phantom-wallet-153500927.html",
-      "opendoor-technologies-surges-6-fueling-152059564.html"
+      "opendoor-technologies-surges-6-fueling-152059564.html",
+      "wells-fargo-sets-230-target-164430742.html",
+      "citi-trends-inc-q4-2025-164630592.html",
+      "bakkt-holdings-inc-q4-2025-164314913.html",
+      "market-nothing-why-stocks-stuck-163858355.html",
+      "general-mills-offloads-brazil-assets-133413730.html"
     ],
-    "last_run": "2026-03-19T03:09:07.700262+00:00",
+    "last_run": "2026-03-19T04:43:50.211554+00:00",
     "seeded": true
   }
 }
