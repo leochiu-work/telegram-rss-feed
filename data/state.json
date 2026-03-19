@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "pastor-says-dave-ramsey-pushed-112447615.html",
-      "trump-says-prices-plummeting-downward-111700206.html",
-      "inherit-ira-dont-latest-tax-114500547.html",
-      "cost-pulling-credit-reports-could-113000284.html",
-      "3-top-tech-stocks-could-112300425.html",
       "chicago-senior-stunned-getting-4-111500776.html",
       "long-credit-card-debt-really-123104132.html",
       "wont-believe-much-money-berkshire-122900774.html",
@@ -510,9 +505,14 @@
       "morgan-stanley-maintains-buy-block-114231761.html",
       "nu-holdings-nu-announces-appointment-114626634.html",
       "stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-with-fed-decision-on-deck-200307065.html",
-      "essex-property-stock-underperforming-p-114457076.html"
+      "essex-property-stock-underperforming-p-114457076.html",
+      "lululemon-dip-buy-bull-bear-131540024.html",
+      "ARGUS_3537_AnalystReport_1773939705000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "two-interactive-software-inc-ttwo-130125575.html",
+      "microsoft-corporation-msft-slid-despite-131856432.html",
+      "here-s-how-markets-are-reacting-after-hotter-than-expected-ppi-t9t64YbzjAmfeqAaD1Vf?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-19T20:15:20.603448+00:00",
+    "last_run": "2026-03-19T21:15:05.184983+00:00",
     "seeded": true
   }
 }
