@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "berkshire-hathaway-inc-brk-target-185134753.html",
-      "together-ai-leverages-nvidia-powered-185239442.html",
-      "coca-cola-femsa-b-c-185340434.html",
-      "evercore-sees-early-signs-operating-185621352.html",
-      "ubs-cuts-bj-wholesale-club-185656800.html",
       "aegon-ltd-aeg-launches-shanghai-191620401.html",
       "jefferies-cites-cloud-growth-ai-191833940.html",
       "elon-musk-unmasks-joint-project-193625414.html",
@@ -510,9 +505,14 @@
       "expeditors-stock-expd-underperforming-industrial-150043593.html",
       "reet-vs-hauz-one-fund-145602251.html",
       "world-of-hyatt-business-credit-card-review-130429772.html",
-      "how-does-the-fed-decision-affect-mortgage-rates-203137727.html"
+      "how-does-the-fed-decision-affect-mortgage-rates-203137727.html",
+      "tecogen-inc-q4-2025-earnings-164548055.html",
+      "one-stop-systems-inc-q4-164539202.html",
+      "general-mills-inc-q3-2026-164156653.html",
+      "fed-rate-predictions-2026-154647304.html",
+      "el-pollo-loco-upgraded-loyalty-164255838.html"
     ],
-    "last_run": "2026-03-20T03:04:08.364885+00:00",
+    "last_run": "2026-03-20T04:38:21.065747+00:00",
     "seeded": true
   }
 }
