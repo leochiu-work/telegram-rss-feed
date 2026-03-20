@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "constellation-energy-corporation-ceg-good-200924094.html",
-      "salesforce-inc-crm-good-stock-201012022.html",
-      "marsh-mclennan-companies-inc-mrsh-201106929.html",
-      "pepsico-inc-pep-good-stock-201156408.html",
-      "top-2-index-funds-beat-205000180.html",
       "ubiquiti-inc-ui-good-stock-213250262.html",
       "teva-pharmaceutical-industries-teva-good-213426461.html",
       "fidelity-fdvv-vs-proshares-nobl-213803588.html",
@@ -510,9 +505,14 @@
       "save-plan-officially-ends-heres-what-happens-to-your-student-loans-now-164707646.html",
       "47-years-ago-warren-buffett-174250807.html",
       "alibaba-just-launched-ai-unit-173154446.html",
-      "telecom-stock-19-past-why-173952175.html"
+      "telecom-stock-19-past-why-173952175.html",
+      "average-car-loan-interest-rates-212521067.html",
+      "acea-drop-looks-more-technical-182331288.html",
+      "ukraine-war-drone-company-just-183017162.html",
+      "reet-offers-greater-scale-gqre-182604571.html",
+      "2-homeland-security-stocks-well-182658263.html"
     ],
-    "last_run": "2026-03-20T05:27:43.287785+00:00",
+    "last_run": "2026-03-20T06:25:04.325919+00:00",
     "seeded": true
   }
 }
