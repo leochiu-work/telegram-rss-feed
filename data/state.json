@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "netflix-stock-soared-since-walked-212300060.html",
-      "newmarket-corporation-neu-bear-case-232817976.html",
-      "quantumscape-stock-down-63-finally-213300887.html",
-      "solanas-precious-metal-tease-evokes-213054897.html",
-      "itot-vs-vtv-broad-market-213054487.html",
       "taiwans-foxconn-books-2-fall-063111205.html",
       "posco-invest-global-artificial-graphite-091708571.html",
       "oil-price-spike-likely-to-keep-rates-on-hold-but-deepen-divisions-among-fed-officials-this-week-090015969.html",
@@ -510,9 +505,14 @@
       "mha-names-craig-mcsherry-banking-145012675.html",
       "heico-corporation-hei-capitalizing-aerospace-145128125.html",
       "why-amazon-com-amzn-continues-145452367.html",
-      "gasoline-prices-hit-highest-level-since-2022-as-oil-tops-100-144545346.html"
+      "gasoline-prices-hit-highest-level-since-2022-as-oil-tops-100-144545346.html",
+      "allegiant-travel-algt-sun-country-155618797.html",
+      "sei-investments-seic-partners-ibm-155626104.html",
+      "booz-allen-hamilton-bah-invests-155634775.html",
+      "baggage-insurance-160031971.html",
+      "flight-chaos-grows-as-tsa-shortages-storms-hit-what-to-know-about-trip-cancellation-insurance-143909546.html"
     ],
-    "last_run": "2026-03-20T15:20:15.766164+00:00",
+    "last_run": "2026-03-20T16:18:43.307006+00:00",
     "seeded": true
   }
 }
