@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46439_StockPicks_1773662228000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "mix-cyclical-structural-demand-headwinds-132011218.html",
-      "artisan-value-fund-views-paypal-132231772.html",
-      "exclusive-openai-courts-private-equity-132509339.html",
-      "toubani-begins-construction-kobada-gold-132734610.html",
       "emerald-growth-equity-strategy-sold-135838515.html",
       "us-home-builder-sentiment-edges-140202940.html",
       "alphabet-goog-gaining-double-tailwinds-140647471.html",
@@ -510,9 +505,14 @@
       "us-bank-regulators-unveil-long-100218776.html",
       "hung-debt-complaints-collections-calls-100000703.html",
       "morning-brief-3-big-questions-2-answers-and-rate-cut-hopes-remain-alive-100036355.html",
-      "ancient-bitcoin-whales-offload-over-101113332.html"
+      "ancient-bitcoin-whales-offload-over-101113332.html",
+      "most-retirees-no-plan-savings-111205700.html",
+      "ARGUS_3634_AnalystReport_1774028974000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "uk-regulator-probes-adobe-over-110854824.html",
+      "fl-retiree-lost-her-135k-111500540.html",
+      "eu-companies-pursue-sustainability-reporting-111400566.html"
     ],
-    "last_run": "2026-03-20T20:11:20.494210+00:00",
+    "last_run": "2026-03-20T21:11:27.094619+00:00",
     "seeded": true
   }
 }
