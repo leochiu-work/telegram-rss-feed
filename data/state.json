@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "lincoln-national-lnc-restart-share-163156791.html",
-      "analysts-react-adt-inc-adt-163200767.html",
-      "analysts-reacted-sm-energy-sm-163157055.html",
-      "prudential-financial-pru-buy-despite-163159657.html",
-      "conagra-brands-set-invest-220-163500265.html",
       "analysts-message-gold-investors-fed-174700286.html",
       "best-money-market-account-rates-today-sunday-march-15-2026-174019210.html",
       "best-cd-rates-today-sunday-march-15-2026-174715097.html",
@@ -510,9 +505,14 @@
       "heloc-home-equity-loan-interest-rates-today-wednesday-march-18-2025-100000875.html",
       "bit-digital-inc-btbt-positioned-122730653.html",
       "amazon-stock-price-aws-ai-revenue-e85e5d1f?siteid=yhoof2&yptr=yahoo",
-      "hive-digital-technologies-ltd-hive-122649392.html"
+      "hive-digital-technologies-ltd-hive-122649392.html",
+      "ciena-corporation-cien-gaining-hyperscaler-133530471.html",
+      "lululemon-lulu-q4-2025-earnings-133354073.html",
+      "aclara-resources-inc-araaf-makes-133405654.html",
+      "align-technology-algn-sees-strong-133227266.html",
+      "ati-inc-ati-expands-share-133138620.html"
     ],
-    "last_run": "2026-03-20T00:36:50.374524+00:00",
+    "last_run": "2026-03-20T01:38:44.690265+00:00",
     "seeded": true
   }
 }
