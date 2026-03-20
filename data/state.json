@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "universal-logistics-q4-profit-plunges-113000902.html",
-      "ARGUS_2675_AnalystReport_1773659061000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "frog-dead-north-america-power-114843990.html",
-      "julius-baer-announces-board-overhaul-121116493.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-rise-as-wall-street-crosses-fingers-for-hormuz-reopening-224643780.html",
       "ARGUS_46439_StockPicks_1773662228000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "mix-cyclical-structural-demand-headwinds-132011218.html",
       "artisan-value-fund-views-paypal-132231772.html",
@@ -510,9 +505,14 @@
       "u-facility-could-break-china-090000240.html",
       "ask-advisor-withdrew-60k-retirement-100000102.html",
       "micron-shares-slip-hefty-spending-090317180.html",
-      "boj-ueda-keeps-april-rate-091416439.html"
+      "boj-ueda-keeps-april-rate-091416439.html",
+      "equinor-restructures-trading-midstream-units-095633277.html",
+      "us-bank-regulators-unveil-long-100218776.html",
+      "hung-debt-complaints-collections-calls-100000703.html",
+      "morning-brief-3-big-questions-2-answers-and-rate-cut-hopes-remain-alive-100036355.html",
+      "ancient-bitcoin-whales-offload-over-101113332.html"
     ],
-    "last_run": "2026-03-20T19:18:40.631219+00:00",
+    "last_run": "2026-03-20T20:11:20.494210+00:00",
     "seeded": true
   }
 }
