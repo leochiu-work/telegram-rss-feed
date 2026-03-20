@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "abbott-laboratories-abt-unveils-xience-215549070.html",
-      "merck-co-mrk-doing-mitigate-215651699.html",
-      "viking-holdings-vik-announces-taking-215903643.html",
-      "community-bank-9-billion-assets-224614698.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-waver-as-oil-rises-with-us-and-iran-targeting-energy-infrastructure-224643791.html",
       "jim-cramer-pepsico-don-t-144138553.html",
       "jim-cramer-says-stick-bank-144141699.html",
       "jim-cramer-says-certainly-start-144142636.html",
@@ -510,9 +505,14 @@
       "if-you-divorce-who-gets-the-gold-195224805.html",
       "crude-oil-prices-rise-iran-191822533.html",
       "nat-gas-prices-rebound-european-191646284.html",
-      "4-gold-storage-myths-debunked-204749637.html"
+      "4-gold-storage-myths-debunked-204749637.html",
+      "stocks-sharply-lower-iran-war-203858595.html",
+      "sofi-firing-back-against-short-203828145.html",
+      "highest-rated-healthcare-stock-buy-204704934.html",
+      "bitcoin-fails-break-75-000-204844325.html",
+      "heloc-rates-hit-lowest-level-204918300.html"
     ],
-    "last_run": "2026-03-20T07:24:00.566656+00:00",
+    "last_run": "2026-03-20T08:17:28.197816+00:00",
     "seeded": true
   }
 }
