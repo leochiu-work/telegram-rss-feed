@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "best-cd-rates-today-monday-march-16-2026-100013190.html",
-      "best-money-market-account-rates-today-monday-march-16-2026-100026225.html",
-      "what-time-is-this-weeks-fed-meeting-120032072.html",
-      "when-is-the-next-fed-meeting-full-schedule-150709698.html",
-      "venture-global-secures-8-6bn-100930190.html",
       "l3harris-technologies-lhx-focus-middle-110324520.html",
       "ntcsa-signs-helicopter-purchase-agreement-110326223.html",
       "kratos-defense-security-solutions-inc-110327649.html",
@@ -510,9 +505,14 @@
       "wetherspoon-profit-warning-shows-britain-165309213.html",
       "stock-market-today-dow-sp-500-nasdaq-sink-as-oil-swings-amid-iran-war-jitters-225246829.html",
       "tech-stocks-today-supermicro-stock-dives-after-us-charges-employees-with-smuggling-nvidia-chips-to-china-144220474.html",
-      "not-trying-beat-market-anymore-170108632.html"
+      "not-trying-beat-market-anymore-170108632.html",
+      "news-corporation-stock-nwsa-underperforming-083118314.html",
+      "southwest-airlines-stock-performance-compared-083141285.html",
+      "factset-research-systems-stock-performance-082803094.html",
+      "mid-america-apartment-stock-underperforming-082420760.html",
+      "p-500-headed-correction-080500483.html"
     ],
-    "last_run": "2026-03-20T17:18:38.898783+00:00",
+    "last_run": "2026-03-20T18:18:06.991199+00:00",
     "seeded": true
   }
 }
