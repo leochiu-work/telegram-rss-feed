@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "middle-east-crisis-could-triple-230000796.html",
-      "save-first-10-000-age-210000091.html",
-      "thermo-fisher-scientific-inc-tmo-215504441.html",
-      "boston-scientific-corp-bsx-pull-215420535.html",
-      "drove-shiba-inus-double-digit-204935980.html",
       "amazon-com-amzn-deepens-ai-065733731.html",
       "meta-platforms-meta-reportedly-considering-065740800.html",
       "analysts-remain-optimistic-asml-holding-065748360.html",
@@ -510,9 +505,14 @@
       "t-mobile-verizon-t-discounts-133737921.html",
       "coca-cola-ko-best-forever-132148478.html",
       "chevron-cvx-best-stock-benefit-132440515.html",
-      "surprise-america-chosen-favorite-fast-135600393.html"
+      "surprise-america-chosen-favorite-fast-135600393.html",
+      "usa-rare-earth-vs-mp-143500977.html",
+      "palo-alto-networks-acquired-3-144000062.html",
+      "retiring-overseas-answering-readers-big-questions-143003952.html",
+      "nextech3d-ai-hits-profitability-milestone-144502309.html",
+      "the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-150447796.html"
     ],
-    "last_run": "2026-03-21T14:10:12.065336+00:00",
+    "last_run": "2026-03-21T15:09:17.209507+00:00",
     "seeded": true
   }
 }
