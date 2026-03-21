@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "general-motors-gm-carbravo-platform-163142987.html",
-      "better-investment-buy-now-1-144000084.html",
-      "ARGUS_2762_AnalystReport_1773681533000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "florida-trucking-company-raised-158-142133037.html",
-      "unilever-vs-mccormick-two-consumer-143956804.html",
       "analysts-saying-viatris-inc-vtrs-163147535.html",
       "tic-solutions-q4-earnings-call-124953679.html",
       "bernstein-reiterates-buy-rating-united-163143406.html",
@@ -510,9 +505,14 @@
       "bp-granted-approval-advance-gulf-230303857.html",
       "morgan-stanley-raises-enterprise-products-230251064.html",
       "do-closed-bank-accounts-affect-credit-score-164534735.html",
-      "ensign-group-touts-2026-growth-230926992.html"
+      "ensign-group-touts-2026-growth-230926992.html",
+      "torrid-holdings-inc-q4-2025-001254826.html",
+      "curis-inc-q4-2025-earnings-001230568.html",
+      "electrocore-inc-q4-2025-earnings-001206782.html",
+      "beijing-spends-120-billion-lock-000000397.html",
+      "flag-ship-acquisition-unveils-jet-000333136.html"
     ],
-    "last_run": "2026-03-21T06:18:19.499456+00:00",
+    "last_run": "2026-03-21T07:17:26.876837+00:00",
     "seeded": true
   }
 }
