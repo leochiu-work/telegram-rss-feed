@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "net-zero-zealots-putting-gen-140000114.html",
-      "could-lithia-motors-lad-beneficiary-163153928.html",
-      "bank-america-securities-continues-bullish-163145268.html",
-      "polymarket-five-minute-bets-capture-140000351.html",
-      "ishares-msci-usa-quality-garp-134500293.html",
       "sirius-holdings-siri-plans-pay-163148197.html",
       "aes-corporation-aes-buy-earnings-163150031.html",
       "exclusive-silvers-wild-swings-havent-153122170.html",
@@ -510,9 +505,14 @@
       "claiming-medicare-just-beginning-amid-040200725.html",
       "iranian-strikes-lng-plant-heighten-040100586.html",
       "why-march-too-talk-taxes-040100016.html",
-      "costco-makes-investment-thats-great-033300454.html"
+      "costco-makes-investment-thats-great-033300454.html",
+      "bullish-analyst-sentiment-nxp-semiconductors-064702661.html",
+      "wall-street-saying-allegro-microsystems-064655113.html",
+      "ask-advisor-made-310-000-110000024.html",
+      "oil-prices-ease-asian-shares-050643748.html",
+      "1-dividend-etf-could-turn-060500058.html"
     ],
-    "last_run": "2026-03-21T08:11:20.750874+00:00",
+    "last_run": "2026-03-21T09:12:22.119459+00:00",
     "seeded": true
   }
 }
