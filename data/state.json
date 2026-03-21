@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "invesco-ltd-ivz-reports-preliminary-175622121.html",
-      "keefe-bruyette-upgrades-flagstar-bank-175504718.html",
-      "ubs-lowers-price-target-moelis-175520002.html",
-      "state-street-corporation-stt-says-175512105.html",
-      "oracle-fallen-18-2026-wall-173900168.html",
       "keybanc-cites-strong-momentum-mcdonald-184823920.html",
       "da-davidson-flags-developer-fees-184620069.html",
       "guggenheim-maintains-neutral-rating-starbucks-184425264.html",
@@ -510,9 +505,14 @@
       "mortgage-refinance-interest-rates-today-friday-march-20-2026-100000428.html",
       "three-companies-rebuilding-america-rare-090000353.html",
       "dad-left-450k-ira-im-124000367.html",
-      "how-stagflation-puts-banks-in-a-vise-00196a7b?siteid=yhoof2&yptr=yahoo"
+      "how-stagflation-puts-banks-in-a-vise-00196a7b?siteid=yhoof2&yptr=yahoo",
+      "nyxoah-details-early-u-genio-120703025.html",
+      "jpmorgan-ceo-jamie-dimon-said-115900916.html",
+      "americans-2-1t-sitting-abandoned-120000301.html",
+      "texas-man-frustrated-800-purchase-120000918.html",
+      "tax-refunds-falling-short-trump-000842164.html"
     ],
-    "last_run": "2026-03-21T11:08:33.238033+00:00",
+    "last_run": "2026-03-21T12:13:36.408237+00:00",
     "seeded": true
   }
 }
