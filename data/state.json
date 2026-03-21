@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "warner-bros-discovery-ceo-david-zaslav-set-to-receive-up-to-887-million-if-paramount-deal-closes-144501826.html",
-      "emerson-electric-co-emr-billionaire-144755468.html",
-      "america-2-kinds-households-1-150500284.html",
-      "fed-meeting-live-updates-federal-reserve-expected-to-hold-rates-steady-offer-updated-outlook-amid-iran-war-125458502.html",
-      "nfra-finds-gaps-controls-indian-151449077.html",
       "zebra-technologies-zbra-reports-1-155502385.html",
       "alibaba-baba-consolidates-ai-operations-155511047.html",
       "limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
@@ -510,9 +505,14 @@
       "ast-spacemobile-inc-asts-good-201340837.html",
       "alphatec-holdings-inc-atec-good-201349840.html",
       "e-l-f-beauty-inc-201409685.html",
-      "just-put-more-10-000-205000486.html"
+      "just-put-more-10-000-205000486.html",
+      "edwards-lifesciences-corporation-ew-good-211030785.html",
+      "intuitive-surgical-inc-isrg-good-211051166.html",
+      "mercadolibre-inc-meli-good-stock-211127196.html",
+      "everpure-inc-pstg-good-stock-211337284.html",
+      "better-semiconductor-stock-broadcom-vs-213400329.html"
     ],
-    "last_run": "2026-03-21T21:09:09.455541+00:00",
+    "last_run": "2026-03-21T22:07:31.415435+00:00",
     "seeded": true
   }
 }
