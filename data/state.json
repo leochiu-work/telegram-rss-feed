@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "exclusive-nuvocargo-unveils-ai-native-110000642.html",
-      "really-stop-contributing-401-k-110000705.html",
-      "real-estate-investor-grant-cardone-110000932.html",
-      "nebius-intends-raise-3-75-110156379.html",
-      "3-warren-buffett-stocks-hold-110500440.html",
       "meta-meta-sees-17-surge-120812813.html",
       "alphabet-googl-youtube-growth-drives-120814770.html",
       "?src=A00220&yptr=yahoo",
@@ -510,9 +505,14 @@
       "jim-cramer-stellantis-just-t-163138724.html",
       "jim-cramer-ge-vernova-just-163140483.html",
       "jim-cramer-says-didn-t-163141512.html",
-      "ultimate-growth-stock-buy-1-165000010.html"
+      "ultimate-growth-stock-buy-1-165000010.html",
+      "jim-cramer-immunitybio-stock-part-163135319.html",
+      "7-largest-publicly-traded-ethereum-170103481.html",
+      "nadella-paid-650m-recruit-ai-170000361.html",
+      "da-davidson-reaffirms-buy-rating-173608426.html",
+      "1-magnificent-stock-down-25-175000889.html"
     ],
-    "last_run": "2026-03-21T17:09:25.861258+00:00",
+    "last_run": "2026-03-21T18:12:15.699548+00:00",
     "seeded": true
   }
 }
