@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_3094_AnalystReport_1773681533000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "7-boomer-money-habits-millennials-120000313.html",
-      "why-advisors-doubling-down-munis-120000184.html",
-      "stock-18-annual-yield-pays-123002351.html",
-      "75-resumes-never-reach-human-123000358.html",
       "soon-ex-husband-maxed-credit-140000549.html",
       "uber-expands-robotaxi-empire-nissan-140002115.html",
       "nio-outperforming-even-u-stocks-130002642.html",
@@ -510,9 +505,14 @@
       "daily-etf-flows-ivv-top-210004435.html",
       "1-inflation-resistant-stock-buy-213500506.html",
       "copper-barbell-profit-shortage-avoid-213200369.html",
-      "50-billion-buyback-raising-questions-212937657.html"
+      "50-billion-buyback-raising-questions-212937657.html",
+      "eni-announces-significant-gas-discoveries-230014787.html",
+      "nexstars-3-5-billion-tegna-225615372.html",
+      "micron-mic-drop-quarter-ai-221600922.html",
+      "gemini-revenue-grows-180-million-223900349.html",
+      "eton-pharma-eton-earnings-call-221509963.html"
     ],
-    "last_run": "2026-03-21T04:36:02.068474+00:00",
+    "last_run": "2026-03-21T05:22:28.940095+00:00",
     "seeded": true
   }
 }
