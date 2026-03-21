@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "analysts-saying-viatris-inc-vtrs-163147535.html",
-      "tic-solutions-q4-earnings-call-124953679.html",
-      "bernstein-reiterates-buy-rating-united-163143406.html",
-      "tax-pros-warn-4-common-124943967.html",
-      "better-buy-now-500-xrp-125000241.html",
       "net-zero-zealots-putting-gen-140000114.html",
       "could-lithia-motors-lad-beneficiary-163153928.html",
       "bank-america-securities-continues-bullish-163145268.html",
@@ -510,9 +505,14 @@
       "curis-inc-q4-2025-earnings-001230568.html",
       "electrocore-inc-q4-2025-earnings-001206782.html",
       "beijing-spends-120-billion-lock-000000397.html",
-      "flag-ship-acquisition-unveils-jet-000333136.html"
+      "flag-ship-acquisition-unveils-jet-000333136.html",
+      "bye-bye-biden-era-fiduciary-040300979.html",
+      "claiming-medicare-just-beginning-amid-040200725.html",
+      "iranian-strikes-lng-plant-heighten-040100586.html",
+      "why-march-too-talk-taxes-040100016.html",
+      "costco-makes-investment-thats-great-033300454.html"
     ],
-    "last_run": "2026-03-21T07:17:26.876837+00:00",
+    "last_run": "2026-03-21T08:11:20.750874+00:00",
     "seeded": true
   }
 }
