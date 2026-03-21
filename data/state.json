@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "amazon-com-amzn-deepens-ai-065733731.html",
-      "meta-platforms-meta-reportedly-considering-065740800.html",
-      "analysts-remain-optimistic-asml-holding-065748360.html",
-      "frugal-millionaire-monthly-budget-looks-085506243.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-slip-after-stocks-bounce-back-amid-3-week-losing-streak-225045377.html",
       "retail-payment-changes-expected-zealand-100910702.html",
       "zuckerberg-and-meta-dust-off-a-classic-playbook-100037193.html",
       "when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-100049022.html",
@@ -510,9 +505,14 @@
       "palo-alto-networks-acquired-3-144000062.html",
       "retiring-overseas-answering-readers-big-questions-143003952.html",
       "nextech3d-ai-hits-profitability-milestone-144502309.html",
-      "the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-150447796.html"
+      "the-fallout-from-oils-surge-is-spreading-as-forecasts-for-crude-keep-rising-150447796.html",
+      "kraft-heinz-khc-best-stock-151151571.html",
+      "occidental-petroleum-oxy-best-energy-152150255.html",
+      "1-rule-3-stocks-why-155000600.html",
+      "property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are-still-making-180030467.html",
+      "wall-street-priced-a-swift-bombing-campaign-what-it-got-was-an-energy-war-100009193.html"
     ],
-    "last_run": "2026-03-21T15:09:17.209507+00:00",
+    "last_run": "2026-03-21T16:09:36.591213+00:00",
     "seeded": true
   }
 }
