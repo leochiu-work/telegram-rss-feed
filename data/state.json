@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "zebra-technologies-zbra-reports-1-155502385.html",
-      "alibaba-baba-consolidates-ai-operations-155511047.html",
-      "limited-time-offer-earn-a-250-bonus-with-chase-freedom-unlimited-155610009.html",
-      "best-warren-buffett-stocks-buy-160500718.html",
-      "tech-stocks-today-microsoft-shakes-up-ai-leadership-nvidias-jensen-huang-kicks-off-gtc-event-144220414.html",
       "best-tech-etf-invest-2-170500875.html",
       "neuronetics-inc-q4-2025-earnings-164648622.html",
       "how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
@@ -510,9 +505,14 @@
       "intuitive-surgical-inc-isrg-good-211051166.html",
       "mercadolibre-inc-meli-good-stock-211127196.html",
       "everpure-inc-pstg-good-stock-211337284.html",
-      "better-semiconductor-stock-broadcom-vs-213400329.html"
+      "better-semiconductor-stock-broadcom-vs-213400329.html",
+      "duke-energy-corporation-duk-good-210908323.html",
+      "applied-digital-corporation-apld-good-210933594.html",
+      "paypal-holdings-inc-pypl-good-211003322.html",
+      "high-flying-biotech-stock-360-224315304.html",
+      "stock-buy-dip-225000511.html"
     ],
-    "last_run": "2026-03-21T22:07:31.415435+00:00",
+    "last_run": "2026-03-21T23:09:12.159703+00:00",
     "seeded": true
   }
 }
