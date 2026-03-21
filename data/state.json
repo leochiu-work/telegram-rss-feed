@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "meta-meta-sees-17-surge-120812813.html",
-      "alphabet-googl-youtube-growth-drives-120814770.html",
-      "?src=A00220&yptr=yahoo",
-      "had-invested-1-000-mcdonald-121503442.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-stall-as-oil-tops-100-again-dispelling-hopes-for-market-reprieve-225045655.html",
       "snowflake-first-full-under-leadership-131542134.html",
       "ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "emerald-growth-equity-strategy-sold-130251369.html",
@@ -510,9 +505,14 @@
       "7-largest-publicly-traded-ethereum-170103481.html",
       "nadella-paid-650m-recruit-ai-170000361.html",
       "da-davidson-reaffirms-buy-rating-173608426.html",
-      "1-magnificent-stock-down-25-175000889.html"
+      "1-magnificent-stock-down-25-175000889.html",
+      "rbc-capital-jefferies-keep-bullish-182616810.html",
+      "salesforce-crm-partners-nvidia-ai-182739106.html",
+      "oklo-oklo-stock-jim-cramer-183320926.html",
+      "bwx-technologies-bwxt-stock-significantly-183518649.html",
+      "once-lifetime-opportunity-quantum-stock-185000275.html"
     ],
-    "last_run": "2026-03-21T18:12:15.699548+00:00",
+    "last_run": "2026-03-21T19:10:31.096367+00:00",
     "seeded": true
   }
 }
