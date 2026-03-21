@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "snowflake-first-full-under-leadership-131542134.html",
-      "ARGUS_46451_TopBottomInsiderActivity_1773747091000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "emerald-growth-equity-strategy-sold-130251369.html",
-      "emerald-growth-equity-strategy-increased-130742210.html",
-      "federal-governors-warns-ai-could-131601117.html",
       "rzg-delivers-larger-gains-slyg-141405201.html",
       "artisan-small-cap-fund-picked-141343200.html",
       "why-cathie-wood-latest-tesla-141428262.html",
@@ -510,9 +505,14 @@
       "salesforce-crm-partners-nvidia-ai-182739106.html",
       "oklo-oklo-stock-jim-cramer-183320926.html",
       "bwx-technologies-bwxt-stock-significantly-183518649.html",
-      "once-lifetime-opportunity-quantum-stock-185000275.html"
+      "once-lifetime-opportunity-quantum-stock-185000275.html",
+      "wendy-wen-expands-mexico-footprint-182319326.html",
+      "visa-inc-v-announces-launch-182443285.html",
+      "heres-why-gemini-space-station-194720642.html",
+      "?src=A00220&yptr=yahoo",
+      "palantir-executing-perfectly-history-says-195000500.html"
     ],
-    "last_run": "2026-03-21T19:10:31.096367+00:00",
+    "last_run": "2026-03-21T20:08:19.565928+00:00",
     "seeded": true
   }
 }
