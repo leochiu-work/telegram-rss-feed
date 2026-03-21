@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "retail-payment-changes-expected-zealand-100910702.html",
-      "zuckerberg-and-meta-dust-off-a-classic-playbook-100037193.html",
-      "when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-100049022.html",
-      "what-time-is-tomorrows-fed-meeting-120032502.html",
-      "willis-qover-expand-alliance-embedded-101323833.html",
       "exclusive-nuvocargo-unveils-ai-native-110000642.html",
       "really-stop-contributing-401-k-110000705.html",
       "real-estate-investor-grant-cardone-110000932.html",
@@ -510,9 +505,14 @@
       "occidental-petroleum-oxy-best-energy-152150255.html",
       "1-rule-3-stocks-why-155000600.html",
       "property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are-still-making-180030467.html",
-      "wall-street-priced-a-swift-bombing-campaign-what-it-got-was-an-energy-war-100009193.html"
+      "wall-street-priced-a-swift-bombing-campaign-what-it-got-was-an-energy-war-100009193.html",
+      "jim-cramer-highlights-skyworks-solutions-163137274.html",
+      "jim-cramer-stellantis-just-t-163138724.html",
+      "jim-cramer-ge-vernova-just-163140483.html",
+      "jim-cramer-says-didn-t-163141512.html",
+      "ultimate-growth-stock-buy-1-165000010.html"
     ],
-    "last_run": "2026-03-21T16:09:36.591213+00:00",
+    "last_run": "2026-03-21T17:09:25.861258+00:00",
     "seeded": true
   }
 }
