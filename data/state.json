@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bofa-mixed-bellring-brands-brbr-165816209.html",
-      "goldman-sachs-bullish-fidelity-national-165817334.html",
-      "analyst-sentiment-strong-metlife-met-165819232.html",
-      "lyft-lyft-among-companies-questioned-165820893.html",
-      "bitcoin-touches-six-week-high-163111641.html",
       "zscaler-zs-singtel-singapore-bring-085519851.html",
       "cloudflare-net-mastercard-ma-partner-085549666.html",
       "cognex-cgnx-one-best-ai-085557355.html",
@@ -510,9 +505,14 @@
       "nvidia-stock-warning-nvda-could-170738582.html",
       "aes-stock-underperforming-dow-170532379.html",
       "2-beaten-down-ai-stocks-170047732.html",
-      "adams-wealth-management-trims-ishares-165817611.html"
+      "adams-wealth-management-trims-ishares-165817611.html",
+      "10-best-high-yield-savings-accounts-for-march-2026-earn-up-to-4-apy-171334295.html",
+      "p-500-just-broke-below-184326686.html",
+      "sugar-sharply-higher-gasoline-prices-183505641.html",
+      "how-to-consolidate-credit-card-debt-004730916.html",
+      "cloudflares-stablecoin-real-catalyst-short-184000241.html"
     ],
-    "last_run": "2026-03-21T00:35:08.455420+00:00",
+    "last_run": "2026-03-21T01:37:44.163859+00:00",
     "seeded": true
   }
 }
