@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nio-inc-nio-climbs-22-094112617.html",
-      "fastly-fsly-surges-22-tech-094121284.html",
-      "warren-buffett-returned-6-000-094500143.html",
-      "ray-dalio-says-america-debt-101100408.html",
-      "chipotle-stock-long-term-buy-102000707.html",
       "youtuber-togi-gambled-house-away-113700813.html",
       "baltimore-restaurant-declares-bankruptcy-stop-110000124.html",
       "borderlands-mexico-gm-stellantis-drive-110000223.html",
@@ -510,9 +505,14 @@
       "cotton-falls-back-thursday-210130306.html",
       "corn-nears-last-weeks-high-210130171.html",
       "coreweave-stock-forecast-buy-sell-210953915.html",
-      "could-strategy-stock-help-retire-210500283.html"
+      "could-strategy-stock-help-retire-210500283.html",
+      "global-supply-shock-exposes-myth-220000831.html",
+      "prices-oil-fuel-cargoes-smash-212718957.html",
+      "fedex-raises-guidance-again-strong-214816298.html",
+      "huntington-national-bank-review-213812223.html",
+      "firefly-aerospace-earnings-stock-price-30c98a4d?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-21T02:59:40.578111+00:00",
+    "last_run": "2026-03-21T03:50:05.011510+00:00",
     "seeded": true
   }
 }
