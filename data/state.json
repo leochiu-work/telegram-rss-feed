@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "1-incredible-ai-stock-wall-160500499.html",
-      "making-roth-conversion-mistake-betr-154500960.html",
-      "truckload-linehaul-rate-index-nears-155824575.html",
-      "how-to-invest-in-cryptocurrency-for-beginners-155910593.html",
-      "bitcoin-depot-btm-q4-2025-160758263.html",
       "bofa-mixed-bellring-brands-brbr-165816209.html",
       "goldman-sachs-bullish-fidelity-national-165817334.html",
       "analyst-sentiment-strong-metlife-met-165819232.html",
@@ -510,9 +505,14 @@
       "mortgage-rates-jump-further-above-6-as-fed-warns-on-inflation-mortgage-and-refinance-interest-rates-today-100000735.html",
       "micron-crushed-earnings-wall-street-155126080.html",
       "bears-losing-battle-over-oracle-155301884.html",
-      "nextech-trims-kymera-recent-high-155736024.html"
+      "nextech-trims-kymera-recent-high-155736024.html",
+      "intel-corporation-intc-good-stock-170956776.html",
+      "nvidia-stock-warning-nvda-could-170738582.html",
+      "aes-stock-underperforming-dow-170532379.html",
+      "2-beaten-down-ai-stocks-170047732.html",
+      "adams-wealth-management-trims-ishares-165817611.html"
     ],
-    "last_run": "2026-03-20T23:10:51.794276+00:00",
+    "last_run": "2026-03-21T00:35:08.455420+00:00",
     "seeded": true
   }
 }
