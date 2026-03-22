@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "allows-union-pacific-unp-sustain-131633018.html",
-      "current-price-oil-march-16-133449951.html",
-      "ram-smid-composite-trimmed-position-132809998.html",
-      "makes-donnelley-financial-solutions-dfin-133024928.html",
-      "could-buying-nuscale-power-today-133500177.html",
       "bitdeer-bitcoin-mining-production-rose-145400366.html",
       "analyst-says-oracle-still-early-145843079.html",
       "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
@@ -510,9 +505,14 @@
       "hive-digital-hive-launches-ai-215711794.html",
       "sofi-vs-td-bank-173415811.html",
       "everbank-vs-sofi-182242428.html",
-      "why-dell-technologies-stock-just-214822630.html"
+      "why-dell-technologies-stock-just-214822630.html",
+      "nuclear-reactor-developer-x-energy-222014732.html",
+      "strategy-mstr-extends-1-57-221936416.html",
+      "atlassian-team-prepares-itself-openai-221745924.html",
+      "jpmorgan-strategists-cut-p-500-221807695.html",
+      "replacement-cycle-trends-evolving-fundamentals-221840218.html"
     ],
-    "last_run": "2026-03-22T05:29:35.317583+00:00",
+    "last_run": "2026-03-22T06:23:23.802973+00:00",
     "seeded": true
   }
 }
