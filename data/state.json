@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "why-ionis-pharmaceuticals-ions-2026-141349127.html",
-      "stock-market-today-dow-sp-500-nasdaq-fall-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104401.html",
-      "why-td-cowen-turned-bullish-141451492.html",
-      "why-guardant-health-gh-2026-141540022.html",
-      "rwr-owns-u-reits-hauz-141653989.html",
       "how-are-stocks-impacted-when-the-fed-doesnt-change-interest-rates-154436785.html",
       "why-havent-mortgage-rates-fallen-since-the-last-federal-reserve-decision-165115992.html",
       "iran-war-hits-bitcoin-miners-145500599.html",
@@ -510,9 +505,14 @@
       "invested-assets-growth-bolsters-ubs-165317109.html",
       "beyond-meats-move-fridge-freezer-193500877.html",
       "heres-why-amazons-biggest-bet-194500675.html",
-      "nvidia-corp-nvda-sets-sights-165211298.html"
+      "nvidia-corp-nvda-sets-sights-165211298.html",
+      "arista-networks-anet-targets-ai-165313250.html",
+      "marvell-technology-inc-mrvl-unveils-165314179.html",
+      "get-ready-for-4-gasoline-gasbuddy-says-q8Vj3LCXSzdHzTAgE2kV?siteid=yhoof2&yptr=yahoo",
+      "traders-brace-turbulent-open-war-193000196.html",
+      "why-im-buying-servicenow-stock-205000586.html"
     ],
-    "last_run": "2026-03-22T20:08:30.224324+00:00",
+    "last_run": "2026-03-22T21:10:14.780526+00:00",
     "seeded": true
   }
 }
