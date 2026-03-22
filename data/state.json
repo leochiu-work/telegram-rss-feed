@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bitdeer-bitcoin-mining-production-rose-145400366.html",
-      "analyst-says-oracle-still-early-145843079.html",
-      "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
-      "save-plan-officially-ends--heres-what-happens-to-your-student-loans-now-164707510.html",
-      "strategy-acquires-22-337-bitcoin-145700272.html",
       "soybeans-falling-monday-morning-due-124009589.html",
       "corn-falling-back-monday-am-124009370.html",
       "prediction-broadcoms-stock-price-end-124000651.html",
@@ -510,9 +505,14 @@
       "strategy-mstr-extends-1-57-221936416.html",
       "atlassian-team-prepares-itself-openai-221745924.html",
       "jpmorgan-strategists-cut-p-500-221807695.html",
-      "replacement-cycle-trends-evolving-fundamentals-221840218.html"
+      "replacement-cycle-trends-evolving-fundamentals-221840218.html",
+      "blackline-smith-nephew-and-more-stocks-see-action-from-activist-investors-ff027953?siteid=yhoof2&yptr=yahoo",
+      "bank-america-trims-paramount-skydance-013928908.html",
+      "healthpeak-properties-stock-doc-underperforming-021153569.html",
+      "exxon-vs-chevron-energy-giant-230002574.html",
+      "lincoln-educational-services-investor-day-230214016.html"
     ],
-    "last_run": "2026-03-22T06:23:23.802973+00:00",
+    "last_run": "2026-03-22T07:20:14.829555+00:00",
     "seeded": true
   }
 }
