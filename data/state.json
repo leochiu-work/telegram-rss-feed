@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "best-tech-etf-invest-2-170500875.html",
-      "neuronetics-inc-q4-2025-earnings-164648622.html",
-      "how-helocs-are-changing-homeowners-may-not-like-new-rules-165717037.html",
-      "oracle-burning-cash-pursuit-hypergrowth-170900675.html",
-      "bentley-to-cut-jobs-ahead-of-long-delayed-ev-rollout-171352106.html",
       "nucor-stock-outperforming-dow-081641829.html",
       "idexx-laboratories-stock-outperforming-p-081914150.html",
       "elon-musk-talks-nasdaq-p-092500985.html",
@@ -510,9 +505,14 @@
       "applied-digital-corporation-apld-good-210933594.html",
       "paypal-holdings-inc-pypl-good-211003322.html",
       "high-flying-biotech-stock-360-224315304.html",
-      "stock-buy-dip-225000511.html"
+      "stock-buy-dip-225000511.html",
+      "long-term-care-costs-outpacing-181838112.html",
+      "sugar-prices-rally-gasoline-soars-182603366.html",
+      "coinbase-global-launches-stock-perpetual-182400082.html",
+      "how-to-buy-a-house-as-a-single-woman-181344633.html",
+      "t-drops-3-phone-plans-181700474.html"
     ],
-    "last_run": "2026-03-21T23:09:12.159703+00:00",
+    "last_run": "2026-03-22T00:39:34.839618+00:00",
     "seeded": true
   }
 }
