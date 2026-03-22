@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "texhibition-turkey-holding-midst-conflict-173919149.html",
-      "1-healthcare-stock-brings-profits-175502240.html",
-      "2-mega-cap-nasdaq-stocks-173002518.html",
-      "julius-baer-30-million-pay-173333746.html",
-      "time-buy-uipath-stock-beaten-174000041.html",
       "grain-prices-trending-higher-bulls-190002941.html",
       "ares-management-ares-targetting-opportunities-184322094.html",
       "kkr-co-kkr-positioned-against-184326169.html",
@@ -510,9 +505,14 @@
       "gen-x-facing-400k-retirement-100000564.html",
       "best-high-yield-savings-interest-rates-today-saturday-march-21-2026-100051872.html",
       "best-money-market-account-rates-today-saturday-march-21-2026-100038468.html",
-      "constellation-energy-sell-pjm-portfolio-100208295.html"
+      "constellation-energy-sell-pjm-portfolio-100208295.html",
+      "klarna-group-plc-klar-one-105112598.html",
+      "households-earning-300k-500k-live-110000892.html",
+      "1-4-women-not-confident-110000835.html",
+      "warren-buffett-said-killed-dow-110000461.html",
+      "3-rules-early-retirement-shrink-105607701.html"
     ],
-    "last_run": "2026-03-22T11:09:07.477820+00:00",
+    "last_run": "2026-03-22T12:14:10.410989+00:00",
     "seeded": true
   }
 }
