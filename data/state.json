@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "inflation-picked-worst-possible-day-161228635.html",
-      "10-year-treasury-note-170612896.html",
-      "ecora-royalties-emerges-defensive-commodity-161506860.html",
-      "a-27-drop-in-irs-staffing-could-impact-your-refund-heres-how-130052195.html",
-      "bmg-sues-anthropic-using-bruno-160846608.html",
       "only-4-2-homeowners-used-170013516.html",
       "york-space-systems-yss-acquires-165657842.html",
       "stock-market-today-dow-sp-500-nasdaq-slide-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104442.html",
@@ -510,9 +505,14 @@
       "stagwell-taps-applovin-corporation-app-165311165.html",
       "taiwan-semiconductor-controls-72-global-212500987.html",
       "oil-above-100-barrel-first-213500928.html",
-      "alibaba-headcount-falls-sun-art-215200388.html"
+      "alibaba-headcount-falls-sun-art-215200388.html",
+      "markets-fear-gauge-just-spiked-225000270.html",
+      "history-says-now-turning-point-225300949.html",
+      "peter-thiel-betting-big-2b-222000722.html",
+      "varex-imaging-says-demand-steady-230206767.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-fall-as-four-week-down-spiral-continues-trump-threatens-iran-230122831.html"
     ],
-    "last_run": "2026-03-22T22:09:03.743290+00:00",
+    "last_run": "2026-03-22T23:11:02.848652+00:00",
     "seeded": true
   }
 }
