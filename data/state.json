@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "how-are-stocks-impacted-when-the-fed-doesnt-change-interest-rates-154436785.html",
-      "why-havent-mortgage-rates-fallen-since-the-last-federal-reserve-decision-165115992.html",
-      "iran-war-hits-bitcoin-miners-145500599.html",
-      "bitcoin-ethereum-slip-inflation-surprise-150540231.html",
-      "morgan-stanley-bullish-vistra-corp-150605579.html",
       "inflation-picked-worst-possible-day-161228635.html",
       "10-year-treasury-note-170612896.html",
       "ecora-royalties-emerges-defensive-commodity-161506860.html",
@@ -510,9 +505,14 @@
       "marvell-technology-inc-mrvl-unveils-165314179.html",
       "get-ready-for-4-gasoline-gasbuddy-says-q8Vj3LCXSzdHzTAgE2kV?siteid=yhoof2&yptr=yahoo",
       "traders-brace-turbulent-open-war-193000196.html",
-      "why-im-buying-servicenow-stock-205000586.html"
+      "why-im-buying-servicenow-stock-205000586.html",
+      "advanced-micro-devices-inc-amd-165310096.html",
+      "stagwell-taps-applovin-corporation-app-165311165.html",
+      "taiwan-semiconductor-controls-72-global-212500987.html",
+      "oil-above-100-barrel-first-213500928.html",
+      "alibaba-headcount-falls-sun-art-215200388.html"
     ],
-    "last_run": "2026-03-22T21:10:14.780526+00:00",
+    "last_run": "2026-03-22T22:09:03.743290+00:00",
     "seeded": true
   }
 }
