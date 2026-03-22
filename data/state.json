@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "month-energy-transfer-et-earnings-110325813.html",
-      "hsbc-raises-price-target-ypf-110326369.html",
-      "why-piper-sandler-increased-crescent-110328052.html",
-      "rubi-raises-7-5m-funding-110738177.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-rise-with-fed-decision-on-deck-225450963.html",
       "lg-gm-lfp-ess-batteries-121648236.html",
       "ARGUS_46463_MarketOutlook_1773833527000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "kevin-o-leary-retire-500k-121100202.html",
@@ -510,9 +505,14 @@
       "arizona-man-sold-two-homes-160000168.html",
       "reverse-recruiting-employment-standstill-job-160000090.html",
       "3-weeks-of-war-possible-rate-hikes-and-ais-show-me-phase-what-to-watch-this-week-113740150.html",
-      "why-full-exit-cogent-communications-163738071.html"
+      "why-full-exit-cogent-communications-163738071.html",
+      "palantir-technologies-inc-pltr-partners-165323662.html",
+      "prediction-trough-disillusionment-create-best-174700015.html",
+      "citigroup-inc-c-one-best-165325265.html",
+      "living-one-5-states-could-170000465.html",
+      "fannie-freddie-place-large-bids-150000204.html"
     ],
-    "last_run": "2026-03-22T17:09:15.424132+00:00",
+    "last_run": "2026-03-22T18:12:37.879480+00:00",
     "seeded": true
   }
 }
