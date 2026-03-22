@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "lam-research-lcrx-gained-strong-124620275.html",
-      "alphabet-goog-gained-shift-ai-124758877.html",
-      "why-merck-mrk-surged-q4-124932271.html",
-      "fiserv-fisv-tanked-missed-earnings-125048986.html",
-      "nvidia-stock-rises-ahead-of-gtc-event-LIT4Cvv5QlB4BcpVXrfr?siteid=yhoof2&yptr=yahoo",
       "allows-union-pacific-unp-sustain-131633018.html",
       "current-price-oil-march-16-133449951.html",
       "ram-smid-composite-trimmed-position-132809998.html",
@@ -510,9 +505,14 @@
       "daily-etf-flows-schd-takes-210004601.html",
       "dealmaking-3-mlb-adobe-expanding-210232252.html",
       "33-ytd-stock-isn-t-210753782.html",
-      "broadcom-ceo-hock-tan-just-211400934.html"
+      "broadcom-ceo-hock-tan-just-211400934.html",
+      "sezzle-dismisses-auditor-baker-tilly-215807014.html",
+      "hive-digital-hive-launches-ai-215711794.html",
+      "sofi-vs-td-bank-173415811.html",
+      "everbank-vs-sofi-182242428.html",
+      "why-dell-technologies-stock-just-214822630.html"
     ],
-    "last_run": "2026-03-22T04:42:11.949952+00:00",
+    "last_run": "2026-03-22T05:29:35.317583+00:00",
     "seeded": true
   }
 }
