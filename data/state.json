@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "costco-wholesale-recession-proof-business-130500100.html",
-      "critical-metals-corp-crml-taps-130939142.html",
-      "usa-rare-earth-usar-expands-131056294.html",
-      "makes-axon-enterprise-axon-lucrative-131231683.html",
-      "how-the-feds-rate-decision-affects-your-bank-accounts-loans-credit-cards-and-investments-220526730.html",
       "why-ionis-pharmaceuticals-ions-2026-141349127.html",
       "stock-market-today-dow-sp-500-nasdaq-fall-after-ppi-inflation-comes-in-hot-ahead-of-fed-decision-133104401.html",
       "why-td-cowen-turned-bullish-141451492.html",
@@ -510,9 +505,14 @@
       "uber-technologies-inc-uber-turns-165319729.html",
       "lam-research-corporation-lrcx-eyeing-165320856.html",
       "boeing-company-ba-eyes-strong-165322334.html",
-      "savvy-buy-bytedance-studio-moonton-172603792.html"
+      "savvy-buy-bytedance-studio-moonton-172603792.html",
+      "eli-lilly-company-lly-expands-165316533.html",
+      "invested-assets-growth-bolsters-ubs-165317109.html",
+      "beyond-meats-move-fridge-freezer-193500877.html",
+      "heres-why-amazons-biggest-bet-194500675.html",
+      "nvidia-corp-nvda-sets-sights-165211298.html"
     ],
-    "last_run": "2026-03-22T19:12:11.281774+00:00",
+    "last_run": "2026-03-22T20:08:30.224324+00:00",
     "seeded": true
   }
 }
