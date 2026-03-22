@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mayville-engineering-mec-gained-accu-134922347.html",
-      "tom-lee-bitmine-buys-another-134900226.html",
-      "iron-mountain-stock-outperforming-p-134719703.html",
-      "church-dwight-stock-outperforming-p-134522507.html",
-      "pardue-family-sells-dallas-properties-133748921.html",
       "palantir-ge-aerospace-working-together-151556497.html",
       "ethereum-price-hits-6-week-151743065.html",
       "willis-towers-watson-stock-underperforming-151911351.html",
@@ -510,9 +505,14 @@
       "citigroup-initiates-lucid-group-inc-013940092.html",
       "nio-inc-nio-upgraded-buy-013936855.html",
       "raymond-james-downgrades-baytex-energy-013941635.html",
-      "latest-super-micro-computer-scandal-024531508.html"
+      "latest-super-micro-computer-scandal-024531508.html",
+      "uranium-energy-uec-drops-8-084117586.html",
+      "kratos-ktos-slashes-8-8-084053949.html",
+      "hims-hers-hims-tumbles-8-084110708.html",
+      "usa-rare-earth-usar-loses-084101296.html",
+      "goldman-sachs-just-sounded-alarm-045000359.html"
     ],
-    "last_run": "2026-03-22T08:12:46.544911+00:00",
+    "last_run": "2026-03-22T09:12:33.695637+00:00",
     "seeded": true
   }
 }
