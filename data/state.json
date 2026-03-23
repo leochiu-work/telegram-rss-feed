@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "jim-cramer-zeta-global-holdings-221532497.html",
-      "jim-cramer-says-arm-holdings-221434823.html",
-      "jim-cramer-synopsys-snps-long-221232174.html",
-      "silver-lining-nebius-debt-cloud-221200191.html",
-      "jim-cramer-notes-pfizer-pfe-221120610.html",
       "clearpoint-neuro-inc-q4-2025-001332211.html",
       "applied-materials-raises-dividend-15-233002362.html",
       "sofi-rejects-short-seller-muddy-231343232.html",
@@ -510,9 +505,14 @@
       "lam-research-corporation-lrcx-eyes-160211632.html",
       "inside-synopsys-inc-snps-bold-160214689.html",
       "leadership-transition-dims-adobe-inc-160215400.html",
-      "terns-stock-soars-1-400-160727342.html"
+      "terns-stock-soars-1-400-160727342.html",
+      "ai-threatens-to-repeat-that-pattern-blackrock-ceo-warns-of-wider-wealth-inequality-without-broader-access-163226483.html",
+      "nvidia-could-hit-340-2031-170507933.html",
+      "vinson-elkins-expands-global-antitrust-163726542.html",
+      "tech-stocks-today-alphabets-wing-expands-drone-deliveries-144220813.html",
+      "data-centres-construction-next-battleground-170621718.html"
     ],
-    "last_run": "2026-03-23T16:25:23.615995+00:00",
+    "last_run": "2026-03-23T17:22:19.946966+00:00",
     "seeded": true
   }
 }
