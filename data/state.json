@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "leidos-holdings-stock-outperforming-p-130225591.html",
-      "why-emerald-growth-equity-strategy-130102353.html",
-      "canadian-financier-to-buy-stake-in-economist-magazine-ea2c363a?siteid=yhoof2&yptr=yahoo",
-      "thermo-fisher-scientific-tmo-surged-125858594.html",
-      "highest-cd-rates-by-state-224514443.html",
       "veeva-systems-veev-good-stock-140847578.html",
       "best-defense-stock-buy-dip-140801544.html",
       "coinbase-coin-still-best-crypto-140919053.html",
@@ -510,9 +505,14 @@
       "expert-reveals-why-tax-code-174500163.html",
       "amazon-com-amzn-aws-taps-182201876.html",
       "needham-confident-alphabet-stock-googl-181942624.html",
-      "finally-clarity-senators-white-house-174219017.html"
+      "finally-clarity-senators-white-house-174219017.html",
+      "alphabet-googl-10-best-ai-200323634.html",
+      "amazon-amzn-10-best-ai-200134176.html",
+      "imax-stock-buy-sell-director-180631965.html",
+      "pennant-group-highlights-acquisition-momentum-180458176.html",
+      "american-express-stock-cheap-does-180500248.html"
     ],
-    "last_run": "2026-03-23T04:49:30.497673+00:00",
+    "last_run": "2026-03-23T05:36:14.961021+00:00",
     "seeded": true
   }
 }
