@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tesla-lg-energy-build-4-080000755.html",
-      "invisible-metals-powering-trillion-dollar-090000487.html",
-      "750k-roth-ira-receive-1-110000666.html",
-      "okta-ceo-ai-is-moving-so-quickly-companies-must-change-40-of-what-they-are-doing-every-year-194523131.html",
-      "fueling-fastest-growing-small-midsize-092233976.html",
       "frc-updates-guidance-comply-explain-100834192.html",
       "desperate-homeowners-renters-giving-food-100000358.html",
       "rate-hike-fails-lift-aussie-095929692.html",
@@ -510,9 +505,14 @@
       "trinity-industries-trn-raises-dividend-125821640.html",
       "hedge-fund-sees-31-gain-140000745.html",
       "dell-stock-big-winner-super-130002430.html",
-      "abacus-global-expands-manning-napier-134505435.html"
+      "abacus-global-expands-manning-napier-134505435.html",
+      "energy-fuels-uuuu-stock-slightly-163026176.html",
+      "nexgen-energy-nxe-shares-jim-163023490.html",
+      "centrus-leu-shares-jim-cramer-163021897.html",
+      "bitcoin-lies-flat-hyperliquid-tops-144915797.html",
+      "elon-musk-still-huge-admirer-160002872.html"
     ],
-    "last_run": "2026-03-23T00:40:49.413821+00:00",
+    "last_run": "2026-03-23T01:39:20.597345+00:00",
     "seeded": true
   }
 }
