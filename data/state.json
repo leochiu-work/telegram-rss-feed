@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "rigetti-rgti-shares-behaved-jim-160630806.html",
-      "ionq-ionq-shares-behaved-jim-160639549.html",
-      "arista-anet-shares-higher-jim-160805341.html",
-      "middle-east-chaos-continues-drain-161010273.html",
-      "terra-power-south-korean-company-161514112.html",
       "chicago-atlantic-bdc-inc-q4-164925867.html",
       "rubi-raises-7-5m-carbon-165911148.html",
       "intuitive-machines-inc-q4-2025-165201407.html",
@@ -510,9 +505,14 @@
       "tax-health-underloved-hsa-120000724.html",
       "best-stocks-invest-1-000-130500138.html",
       "1-stock-buy-now-bet-130002142.html",
-      "19-8-million-bet-commvault-131005132.html"
+      "19-8-million-bet-commvault-131005132.html",
+      "micron-technology-hikes-dividend-30-140002543.html",
+      "openclaw-partnership-next-big-thing-140002092.html",
+      "trump-admin-warns-airport-closures-153002984.html",
+      "alpha-male-stock-profiting-strait-150002627.html",
+      "delve-accused-misleading-customers-fake-170005937.html"
     ],
-    "last_run": "2026-03-23T22:12:08.621178+00:00",
+    "last_run": "2026-03-23T23:12:50.755232+00:00",
     "seeded": true
   }
 }
