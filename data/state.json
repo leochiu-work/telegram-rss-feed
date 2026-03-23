@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "clearpoint-neuro-inc-q4-2025-001332211.html",
-      "applied-materials-raises-dividend-15-233002362.html",
-      "sofi-rejects-short-seller-muddy-231343232.html",
-      "top-japan-firms-set-offer-230849544.html",
-      "cibus-cbus-q4-2025-earnings-230515346.html",
       "ARGUS_46474_MarketSummary_1773917387000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "peter-schiff-warns-investors-killed-115300969.html",
       "boomer-remorse-5-big-purchases-120000208.html",
@@ -510,9 +505,14 @@
       "nvidia-could-hit-340-2031-170507933.html",
       "vinson-elkins-expands-global-antitrust-163726542.html",
       "tech-stocks-today-alphabets-wing-expands-drone-deliveries-144220813.html",
-      "data-centres-construction-next-battleground-170621718.html"
+      "data-centres-construction-next-battleground-170621718.html",
+      "ray-dalio-says-us-may-110000295.html",
+      "president-trump-portable-mortgage-push-104300043.html",
+      "minnesota-man-accused-tax-fraud-103000791.html",
+      "florida-woman-38-wants-retire-100000713.html",
+      "superior-group-companies-touts-3-090705240.html"
     ],
-    "last_run": "2026-03-23T17:22:19.946966+00:00",
+    "last_run": "2026-03-23T18:22:31.587606+00:00",
     "seeded": true
   }
 }
