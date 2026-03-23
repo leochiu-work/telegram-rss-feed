@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "avax-one-taps-treehouse-targets-135600532.html",
-      "biggest-things-driving-p-500-135618736.html",
-      "artisan-small-cap-fund-sold-135705888.html",
-      "t-rowe-price-adds-dogecoin-135700476.html",
-      "nebius-stock-plunges-as-company-says-it-will-raise-375-billion-in-debt-after-meta-nvidia-deals-145551044.html",
       "sable-offshore-soc-resumes-oil-153529368.html",
       "solaris-energy-infrastructure-sei-initiated-153603761.html",
       "vista-energy-vist-price-target-153511847.html",
@@ -510,9 +505,14 @@
       "microsoft-now-cheapest-magnificent-seven-210700655.html",
       "advanced-micro-devices-inc-amd-210836582.html",
       "brightlight-capital-cuts-hilton-grand-211723122.html",
-      "got-5-000-2-beaten-212000353.html"
+      "got-5-000-2-beaten-212000353.html",
+      "babcock-wilcox-bw-soars-44-062226206.html",
+      "india-holds-fuel-prices-steady-063054376.html",
+      "japanese-firms-agree-5-26-072221720.html",
+      "gold-extends-losses-amid-brutal-flush-as-inflation-worries-mount-040428981.html",
+      "australia-accc-monitors-petrol-prices-092022505.html"
     ],
-    "last_run": "2026-03-23T08:25:30.707307+00:00",
+    "last_run": "2026-03-23T09:28:20.121119+00:00",
     "seeded": true
   }
 }
