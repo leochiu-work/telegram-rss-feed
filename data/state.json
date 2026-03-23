@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oil-hits-100-energy-dividends-130044217.html",
-      "does-oracle-orcl-compelling-upside-125540262.html",
-      "ventas-stock-outperforming-nasdaq-125821174.html",
-      "investors-earned-10-5m-real-130049164.html",
-      "why-oil-shocks-turn-markets-into-a-game-of-whack-a-mole-130142557.html",
       "avax-one-taps-treehouse-targets-135600532.html",
       "biggest-things-driving-p-500-135618736.html",
       "artisan-small-cap-fund-sold-135705888.html",
@@ -510,9 +505,14 @@
       "cipher-digital-inc-cifr-good-200847182.html",
       "applied-optoelectronics-inc-aaoi-good-200732353.html",
       "rush-enterprises-inc-rusha-good-201032366.html",
-      "401-k-balance-60s-average-200000082.html"
+      "401-k-balance-60s-average-200000082.html",
+      "palantir-technologies-inc-pltr-good-210608088.html",
+      "microsoft-now-cheapest-magnificent-seven-210700655.html",
+      "advanced-micro-devices-inc-amd-210836582.html",
+      "brightlight-capital-cuts-hilton-grand-211723122.html",
+      "got-5-000-2-beaten-212000353.html"
     ],
-    "last_run": "2026-03-23T07:34:07.558249+00:00",
+    "last_run": "2026-03-23T08:25:30.707307+00:00",
     "seeded": true
   }
 }
