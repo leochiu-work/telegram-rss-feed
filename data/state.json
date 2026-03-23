@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "shell-rotella-paying-parking-deal-153045370.html",
-      "gm-lg-retool-tennessee-battery-152718358.html",
-      "stocks-climb-strength-chip-travel-151746354.html",
-      "most-stocks-aren-t-worth-151921584.html",
-      "amid-challenges-high-end-furniture-152132992.html",
       "oil-hits-100-energy-dividends-130044217.html",
       "does-oracle-orcl-compelling-upside-125540262.html",
       "ventas-stock-outperforming-nasdaq-125821174.html",
@@ -510,9 +505,14 @@
       "powell-industries-highlights-record-1-190416034.html",
       "bitfarms-ltd-bitf-good-stock-200701166.html",
       "calumet-inc-clmt-good-stock-200632251.html",
-      "wall-street-analyst-warns-ai-190500826.html"
+      "wall-street-analyst-warns-ai-190500826.html",
+      "prenetics-global-ceo-touts-im8-200250143.html",
+      "cipher-digital-inc-cifr-good-200847182.html",
+      "applied-optoelectronics-inc-aaoi-good-200732353.html",
+      "rush-enterprises-inc-rusha-good-201032366.html",
+      "401-k-balance-60s-average-200000082.html"
     ],
-    "last_run": "2026-03-23T06:33:57.181932+00:00",
+    "last_run": "2026-03-23T07:34:07.558249+00:00",
     "seeded": true
   }
 }
