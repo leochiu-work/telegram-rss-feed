@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "rubrik-selloff-could-cybersecurity-hidden-192600073.html",
-      "copper-shortage-threatens-data-centre-200100745.html",
-      "nvidia-palantir-partnering-sovereign-ai-193200058.html",
-      "dollar-pressured-rising-stocks-193131692.html",
-      "snowflake-seen-standout-software-story-192400383.html",
       "applied-materials-inc-amat-billionaire-201725586.html",
       "coterra-energy-stock-underperforming-p-201124606.html",
       "wm-technology-maps-q4-2025-200621755.html",
@@ -510,9 +505,14 @@
       "want-decades-passive-income-buy-132000722.html",
       "selling-home-63-punishing-medicare-140000397.html",
       "unemployed-husband-lost-30k-trading-131000285.html",
-      "heres-much-upside-eli-lilly-132000135.html"
+      "heres-much-upside-eli-lilly-132000135.html",
+      "ARGUS_46503_MarketSummary_1774264647000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "exclusive-rivian-ceo-on-how-its-uber-deal-came-together-and-why-the-ai-driver-is-the-future-of-mobility-141312744.html",
+      "stock-market-today-dow-sp-500-nasdaq-soar-as-trump-postpones-iran-strike-citing-very-good-talks-133200376.html",
+      "far-more-important-prompt-mark-141609860.html",
+      "if-iran-war-sends-oil-prices-up-100-heres-what-history-says-will-happen-to-the-stock-market-142450571.html"
     ],
-    "last_run": "2026-03-23T13:36:45.004844+00:00",
+    "last_run": "2026-03-23T14:29:46.993996+00:00",
     "seeded": true
   }
 }
