@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "frc-updates-guidance-comply-explain-100834192.html",
-      "desperate-homeowners-renters-giving-food-100000358.html",
-      "rate-hike-fails-lift-aussie-095929692.html",
-      "amazon-launches-1-hour-shipping-100457426.html",
-      "traders-snap-protection-against-extreme-100805185.html",
       "sartorius-aktiengesellschaft-capital-markets-day-115007435.html",
       "tyson-stock-performance-compared-other-113859771.html",
       "w-r-berkley-stock-underperforming-113637112.html",
@@ -510,9 +505,14 @@
       "nexgen-energy-nxe-shares-jim-163023490.html",
       "centrus-leu-shares-jim-cramer-163021897.html",
       "bitcoin-lies-flat-hyperliquid-tops-144915797.html",
-      "elon-musk-still-huge-admirer-160002872.html"
+      "elon-musk-still-huge-admirer-160002872.html",
+      "nuscale-power-smr-shares-down-163031170.html",
+      "vistra-vst-slightly-jim-cramer-163028873.html",
+      "constellation-energy-ceg-stock-higher-163024293.html",
+      "3-top-ev-stocks-ai-160500918.html",
+      "progyny-ceo-details-utilization-trends-160207281.html"
     ],
-    "last_run": "2026-03-23T01:39:20.597345+00:00",
+    "last_run": "2026-03-23T03:10:15.906660+00:00",
     "seeded": true
   }
 }
