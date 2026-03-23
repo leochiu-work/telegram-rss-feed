@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "applied-materials-inc-amat-billionaire-201725586.html",
-      "coterra-energy-stock-underperforming-p-201124606.html",
-      "wm-technology-maps-q4-2025-200621755.html",
-      "bob-discount-furniture-sees-4q-200748185.html",
-      "sanmina-corporation-sanm-billionaire-ken-201443625.html",
       "does-the-irs-owe-you-a-pandemic-tax-refund-heres-whats-happening-203224738.html",
       "adobe-adbe-stock-analyst-radar-212248423.html",
       "delta-air-lines-just-broke-212311745.html",
@@ -510,9 +505,14 @@
       "exclusive-rivian-ceo-on-how-its-uber-deal-came-together-and-why-the-ai-driver-is-the-future-of-mobility-141312744.html",
       "stock-market-today-dow-sp-500-nasdaq-soar-as-trump-postpones-iran-strike-citing-very-good-talks-133200376.html",
       "far-more-important-prompt-mark-141609860.html",
-      "if-iran-war-sends-oil-prices-up-100-heres-what-history-says-will-happen-to-the-stock-market-142450571.html"
+      "if-iran-war-sends-oil-prices-up-100-heres-what-history-says-will-happen-to-the-stock-market-142450571.html",
+      "ARGUS_46506_MarketOutlook_1774265331000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "the-sp-500-dow-jones-industrial-average-and-nasdaq-composite-all-just-fell-below-this-important-trapdoor-150026602.html",
+      "amazon-usps-negotiations-crumbling-hurt-150908982.html",
+      "flight-chaos-grows-as-tsa-lines-stretch-for-hours-what-to-know-about-trip-cancellation-insurance-143909492.html",
+      "xanadu-rare-public-debut-full-151506467.html"
     ],
-    "last_run": "2026-03-23T14:29:46.993996+00:00",
+    "last_run": "2026-03-23T15:27:21.801998+00:00",
     "seeded": true
   }
 }
