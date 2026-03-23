@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "what-is-capital-gains-tax-heres-when-you-owe-plus-strategies-to-reduce-your-bill-173034118.html",
-      "kering-taps-former-auto-exec-173249437.html",
-      "soybeans-bouncing-higher-turnaround-tuesday-173314547.html",
-      "cotton-seeing-green-march-17th-173314950.html",
-      "corn-holding-steady-tuesday-173314541.html",
       "mastercards-1-8-billion-bvnk-181724352.html",
       "analysts-revise-ai-hyperscaler-debt-180842090.html",
       "micron-just-might-best-ai-185825514.html",
@@ -510,9 +505,14 @@
       "stock-market-today-dow-sp-500-nasdaq-futures-sink-as-iran-launches-strikes-in-face-of-trump-warning-230122272.html",
       "morning-bid-ticking-time-bomb-104105514.html",
       "gold-price-today-monday-march-23-gold-falls-below-4300-its-lowest-price-of-2026-104957741.html",
-      "irs-warns-1-2bn-2022-110426049.html"
+      "irs-warns-1-2bn-2022-110426049.html",
+      "goldman-sachs-reduce-underperforming-staff-115745112.html",
+      "why-trade-desk-ttd-traded-115535382.html",
+      "blackrock-ceo-fink-backs-staying-115903674.html",
+      "steve-ballmer-once-recalled-charlie-120105214.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-soar-as-trump-postpones-iran-strike-citing-very-good-talks-230122467.html"
     ],
-    "last_run": "2026-03-23T11:20:50.966419+00:00",
+    "last_run": "2026-03-23T12:23:01.269858+00:00",
     "seeded": true
   }
 }
