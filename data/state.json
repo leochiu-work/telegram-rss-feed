@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "wells-fargo-sets-230-target-164430742.html",
-      "citi-trends-inc-q4-2025-164630592.html",
-      "bakkt-holdings-inc-q4-2025-164314913.html",
-      "market-nothing-why-stocks-stuck-163858355.html",
-      "general-mills-offloads-brazil-assets-133413730.html",
       "what-is-capital-gains-tax-heres-when-you-owe-plus-strategies-to-reduce-your-bill-173034118.html",
       "kering-taps-former-auto-exec-173249437.html",
       "soybeans-bouncing-higher-turnaround-tuesday-173314547.html",
@@ -510,9 +505,14 @@
       "best-cd-rates-today-monday-march-23-2026-100028338.html",
       "best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
       "exclusive-openai-sweetens-private-equity-100049163.html",
-      "south-korea-reappointed-ifrs-foundation-101125381.html"
+      "south-korea-reappointed-ifrs-foundation-101125381.html",
+      "usoi-not-average-investor-seeking-151723064.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-sink-as-iran-launches-strikes-in-face-of-trump-warning-230122272.html",
+      "morning-bid-ticking-time-bomb-104105514.html",
+      "gold-price-today-monday-march-23-gold-falls-below-4300-its-lowest-price-of-2026-104957741.html",
+      "irs-warns-1-2bn-2022-110426049.html"
     ],
-    "last_run": "2026-03-23T10:26:13.605815+00:00",
+    "last_run": "2026-03-23T11:20:50.966419+00:00",
     "seeded": true
   }
 }
