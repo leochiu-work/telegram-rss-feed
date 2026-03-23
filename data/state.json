@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46476_TechnicalAnalysis_1773918358000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "education-tax-credit-162959157.html",
-      "tech-stocks-today-micron-stock-falls-after-blowout-earnings-report-nvidia-wraps-up-gtc-event-144220119.html",
-      "xrp-vs-bitcoin-vs-ethereum-132035939.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-slide-amid-inflation-worries-as-iran-war-sends-oil-surging-225027491.html",
       "does-state-farm-owe-money-140000231.html",
       "world-trade-growth-set-slow-140734609.html",
       "alibaba-group-reports-revenue-miss-140800426.html",
@@ -510,9 +505,14 @@
       "one-family-21m-charity-fund-111500365.html",
       "sharonai-holdings-pitches-australia-neocloud-100519178.html",
       "happens-time-tn-couple-hit-110000285.html",
-      "got-1-500-better-buy-102000068.html"
+      "got-1-500-better-buy-102000068.html",
+      "ARGUS_46505_TechnicalAnalysis_1774265283000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "mom-71-lost-600k-scam-114500835.html",
+      "57-americans-keep-savings-wrong-114000455.html",
+      "swarmer-520-debut-day-gain-110056827.html",
+      "down-82-record-top-undervalued-110500159.html"
     ],
-    "last_run": "2026-03-23T19:22:43.699388+00:00",
+    "last_run": "2026-03-23T20:17:06.008038+00:00",
     "seeded": true
   }
 }
