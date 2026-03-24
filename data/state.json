@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "is-now-a-good-time-to-buy-a-house-224612050.html",
-      "is-now-a-good-time-to-refinance-212749864.html",
-      "the-best-0-apr-credit-cards-for-march-2026-avoid-paying-interest-for-up-to-24-months-on-purchases-and-balance-transfers-181718599.html",
-      "maximize-interest-earnings-fed-cuts-rates-163621929.html",
-      "federal-funds-rate-194457132.html",
       "irs-conducted-505514-audits-last-tax-season-heres-what-to-do-if-youre-selected-192152539.html",
       "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
       "gold-ira-vs-physical-gold-224654072.html",
@@ -510,9 +505,14 @@
       "apple-bring-paid-ads-maps-150129908.html",
       "stock-market-today-dow-sp-500-nasdaq-wobble-after-rally-as-iran-war-drags-on-150624837.html",
       "tech-stocks-today-anthropic-announces-new-capability-for-claude-sk-hynix-places-8-billion-asml-order-144220371.html",
-      "musonoi-ramp-mutanda-feed-drive-152011592.html"
+      "musonoi-ramp-mutanda-feed-drive-152011592.html",
+      "radnet-rdnt-acquires-gleamer-230-144319165.html",
+      "5-stocks-buy-now-strait-145644041.html",
+      "regional-bank-stock-33-3-161000896.html",
+      "bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html",
+      "china-auto-market-achieved-steady-161557446.html"
     ],
-    "last_run": "2026-03-24T15:30:38.166932+00:00",
+    "last_run": "2026-03-24T16:28:39.178245+00:00",
     "seeded": true
   }
 }
