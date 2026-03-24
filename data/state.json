@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "family-dollar-pilot-extra-small-114100945.html",
-      "morgan-stanley-maintains-buy-block-114231761.html",
-      "nu-holdings-nu-announces-appointment-114626634.html",
-      "stock-market-today-dow-sp-500-nasdaq-rise-for-second-day-in-a-row-with-fed-decision-on-deck-200307065.html",
-      "essex-property-stock-underperforming-p-114457076.html",
       "lululemon-dip-buy-bull-bear-131540024.html",
       "ARGUS_3537_AnalystReport_1773939705000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "two-interactive-software-inc-ttwo-130125575.html",
@@ -510,9 +505,14 @@
       "broadcom-inc-avgo-positioned-robust-165308236.html",
       "retirees-steel-yourselves-global-crises-121000010.html",
       "coreweave-stock-gets-headlines-ai-153000848.html",
-      "2-brilliant-energy-stocks-buy-152000766.html"
+      "2-brilliant-energy-stocks-buy-152000766.html",
+      "ARGUS_3200_AnalystReport_1774284894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "micron-ceo-drops-bombshell-micron-170700832.html",
+      "united-airlines-cuts-routes-predicts-100-plus-oil-prices-all-year-AhzD2Iq76kQdMxj0kqAI?siteid=yhoof2&yptr=yahoo",
+      "natural-gas-prices-texas-plunge-171103943.html",
+      "heres-why-high-oil-prices-170900838.html"
     ],
-    "last_run": "2026-03-24T03:06:06.874142+00:00",
+    "last_run": "2026-03-24T04:41:52.487777+00:00",
     "seeded": true
   }
 }
