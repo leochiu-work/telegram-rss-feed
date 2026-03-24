@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oil-prices-hit-112-iran-024301017.html",
-      "waters-corporation-stock-underperforming-dow-023622799.html",
-      "apples-china-smartphone-sales-jump-021833892.html",
-      "amazon-stock-buy-sell-hold-012300147.html",
-      "dolphin-entertainment-dlpn-ceo-keeps-012326806.html",
       "vaneck-associates-more-doubled-stake-140500516.html",
       "ARGUS_46495_MarketOutlook_1774005713000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "pennsylvania-retiree-lost-221k-remote-140000309.html",
@@ -510,9 +505,14 @@
       "willis-circle-asia-launch-art-102342287.html",
       "high-probability-iron-condor-trade-110002246.html",
       "stock-index-futures-rally-oil-103146953.html",
-      "coreweave-vs-applied-digital-ai-102200229.html"
+      "coreweave-vs-applied-digital-ai-102200229.html",
+      "united-rentals-slid-weaker-construction-110441132.html",
+      "aramco-cuts-asia-crude-supplies-105208780.html",
+      "large-cybersecurity-breach-hurt-coupang-110252076.html",
+      "broad-based-growth-drivers-lifted-110107803.html",
+      "fedex-ramps-healthcare-push-part-105200832.html"
     ],
-    "last_run": "2026-03-24T19:27:26.268632+00:00",
+    "last_run": "2026-03-24T20:17:10.716869+00:00",
     "seeded": true
   }
 }
