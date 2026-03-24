@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mercadolibre-meli-slid-following-decline-122747216.html",
-      "heloc-home-equity-loan-interest-rates-today-wednesday-march-18-2025-100000875.html",
-      "bit-digital-inc-btbt-positioned-122730653.html",
-      "amazon-stock-price-aws-ai-revenue-e85e5d1f?siteid=yhoof2&yptr=yahoo",
-      "hive-digital-technologies-ltd-hive-122649392.html",
       "ciena-corporation-cien-gaining-hyperscaler-133530471.html",
       "lululemon-lulu-q4-2025-earnings-133354073.html",
       "aclara-resources-inc-araaf-makes-133405654.html",
@@ -510,9 +505,14 @@
       "buy-jpmorgan-chase-stock-april-200500448.html",
       "saudi-oil-pipeline-world-didn-190105113.html",
       "diversified-energy-stock-12-2026-200317603.html",
-      "frontier-group-ceo-unveils-turnaround-200654607.html"
+      "frontier-group-ceo-unveils-turnaround-200654607.html",
+      "dimensional-launches-first-active-etf-040300027.html",
+      "vanguard-finally-files-junk-bond-040200206.html",
+      "qqq-gets-equal-weight-buddy-040100634.html",
+      "viemed-healthcare-highlights-growth-diversification-210252334.html",
+      "baker-hughes-undergoes-ai-makeover-040100856.html"
     ],
-    "last_run": "2026-03-24T07:27:55.785374+00:00",
+    "last_run": "2026-03-24T08:21:01.319153+00:00",
     "seeded": true
   }
 }
