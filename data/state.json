@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "irs-conducted-505514-audits-last-tax-season-heres-what-to-do-if-youre-selected-192152539.html",
-      "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
-      "gold-ira-vs-physical-gold-224654072.html",
-      "best-gold-ira-companies-211112839.html",
-      "8-tips-for-getting-the-lowest-mortgage-rates-224601012.html",
       "why-digitalocean-stock-soared-wednesday-230609193.html",
       "direct-deposit-tax-refund-222055522.html",
       "mortgage-refinance-interest-rates-today-wednesday-march-18-2026-100000705.html",
@@ -510,9 +505,14 @@
       "5-stocks-buy-now-strait-145644041.html",
       "regional-bank-stock-33-3-161000896.html",
       "bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html",
-      "china-auto-market-achieved-steady-161557446.html"
+      "china-auto-market-achieved-steady-161557446.html",
+      "nmi-holdings-executive-chairman-sells-171050062.html",
+      "dr-doom-shares-biggest-economic-concerns-as-the-us-war-on-iran-persists-162944501.html",
+      "arm-unveils-ai-chip-expects-170223282.html",
+      "stock-market-today-dow-sp-500-nasdaq-drop-after-rally-as-iran-war-drags-on-171812803.html",
+      "why-servicenow-stock-drifting-lower-171813039.html"
     ],
-    "last_run": "2026-03-24T16:28:39.178245+00:00",
+    "last_run": "2026-03-24T17:25:05.718415+00:00",
     "seeded": true
   }
 }
