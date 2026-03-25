@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "viper-energy-vnom-price-target-230315978.html",
-      "bp-granted-approval-advance-gulf-230303857.html",
-      "morgan-stanley-raises-enterprise-products-230251064.html",
-      "do-closed-bank-accounts-affect-credit-score-164534735.html",
-      "ensign-group-touts-2026-growth-230926992.html",
       "torrid-holdings-inc-q4-2025-001254826.html",
       "curis-inc-q4-2025-earnings-001230568.html",
       "electrocore-inc-q4-2025-earnings-001206782.html",
@@ -510,9 +505,14 @@
       "jim-cramer-says-wouldn-t-131339390.html",
       "jim-cramer-notes-charitable-trust-131337924.html",
       "jim-cramer-says-retailers-walmart-131336536.html",
-      "waterdrop-q4-earnings-call-highlights-131944688.html"
+      "waterdrop-q4-earnings-call-highlights-131944688.html",
+      "ARGUS_46533_MarketSummary_1774436223000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "blackrock-says-crypto-business-generate-141300262.html",
+      "supreme-court-sides-cox-communications-141735222.html",
+      "stock-market-today-dow-sp-500-nasdaq-rise-amid-hopes-of-us-iran-talks-oil-falls-below-100-133140032.html",
+      "parazero-announces-closing-4m-registered-142538566.html"
     ],
-    "last_run": "2026-03-25T13:36:03.696367+00:00",
+    "last_run": "2026-03-25T14:31:53.279819+00:00",
     "seeded": true
   }
 }
