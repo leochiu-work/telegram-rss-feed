@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "most-retirees-no-plan-savings-111205700.html",
-      "ARGUS_3634_AnalystReport_1774028974000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "uk-regulator-probes-adobe-over-110854824.html",
-      "fl-retiree-lost-her-135k-111500540.html",
-      "eu-companies-pursue-sustainability-reporting-111400566.html",
       "ripple-backed-evernorth-list-nasdaq-143500098.html",
       "nebius-signed-major-27b-deal-145414469.html",
       "owns-salesforce-2026-look-largest-144900068.html",
@@ -510,9 +505,14 @@
       "revisiting-gold-prices-s-p-500-where-they-stand-99bd7e40?siteid=yhoof2&yptr=yahoo",
       "europe-gasoline-exports-shift-asia-163000592.html",
       "peloton-launching-bikes-treadmills-gyms-163649753.html",
-      "175-million-move-sotera-health-163956966.html"
+      "175-million-move-sotera-health-163956966.html",
+      "toyotas-1-billion-bet-kentucky-173801144.html",
+      "unusual-options-activity-flares-meta-173002533.html",
+      "flashing-crypto-stock-bull-signal-173204696.html",
+      "74-ytd-space-stock-winning-174157108.html",
+      "cash-balance-retirement-plans-powerful-174048094.html"
     ],
-    "last_run": "2026-03-25T04:43:17.660487+00:00",
+    "last_run": "2026-03-25T05:33:24.009737+00:00",
     "seeded": true
   }
 }
