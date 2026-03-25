@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "us-buy-now-pay-later-070325653.html",
-      "analysts-constructive-entegris-entg-amid-064705308.html",
-      "ceva-ceva-deliver-30x-stronger-064653931.html",
-      "mixed-analyst-sentiment-surrounding-semiconductor-064708036.html",
-      "78-uk-businesses-now-using-070057458.html",
       "heloc-home-equity-loan-interest-rates-today-friday-march-20-2026-100000203.html",
       "mortgage-refinance-interest-rates-today-friday-march-20-2026-100000428.html",
       "three-companies-rebuilding-america-rare-090000353.html",
@@ -510,9 +505,14 @@
       "wells-fargo-reflect-card-review-192505523.html",
       "microsoft-price-target-lowered-m365-171200393.html",
       "ally-unlimited-cash-back-review-165948540.html",
-      "wells-fargo-autograph-journey-card-review-215134623.html"
+      "wells-fargo-autograph-journey-card-review-215134623.html",
+      "totalenergies-exits-u-offshore-wind-094600039.html",
+      "venture-global-secures-5-lng-084535710.html",
+      "ask-advisor-cover-3-000-110000758.html",
+      "super-micros-fate-lies-in-nvidias-hands-ac3157ab?siteid=yhoof2&yptr=yahoo",
+      "china-green-energy-stocks-surge-092700676.html"
     ],
-    "last_run": "2026-03-25T17:26:55.253936+00:00",
+    "last_run": "2026-03-25T18:25:20.057933+00:00",
     "seeded": true
   }
 }
