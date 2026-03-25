@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "intel-corporation-intc-good-stock-170956776.html",
-      "nvidia-stock-warning-nvda-could-170738582.html",
-      "aes-stock-underperforming-dow-170532379.html",
-      "2-beaten-down-ai-stocks-170047732.html",
-      "adams-wealth-management-trims-ishares-165817611.html",
       "10-best-high-yield-savings-accounts-for-march-2026-earn-up-to-4-apy-171334295.html",
       "p-500-just-broke-below-184326686.html",
       "sugar-sharply-higher-gasoline-prices-183505641.html",
@@ -510,9 +505,14 @@
       "dollar-declines-gold-plunges-hopes-193344010.html",
       "retirees-rmds-early-wait-195413236.html",
       "crypto-index-flashes-extreme-fear-195300793.html",
-      "mrcc-0-75-payout-looks-194845217.html"
+      "mrcc-0-75-payout-looks-194845217.html",
+      "palantir-break-200-day-moving-204829458.html",
+      "northrop-stock-drops-trump-post-defense-812679a0?siteid=yhoof2&yptr=yahoo",
+      "stocks-sharply-higher-president-trump-203744519.html",
+      "draftkings-stock-challenging-20-day-201320146.html",
+      "stock-movers-285ff4c1?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-25T07:27:17.708038+00:00",
+    "last_run": "2026-03-25T08:20:57.140788+00:00",
     "seeded": true
   }
 }
