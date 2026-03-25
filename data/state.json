@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "saks-global-paying-bankruptcy-210622287.html",
-      "cotton-falls-back-thursday-210130306.html",
-      "corn-nears-last-weeks-high-210130171.html",
-      "coreweave-stock-forecast-buy-sell-210953915.html",
-      "could-strategy-stock-help-retire-210500283.html",
       "global-supply-shock-exposes-myth-220000831.html",
       "prices-oil-fuel-cargoes-smash-212718957.html",
       "fedex-raises-guidance-again-strong-214816298.html",
@@ -510,9 +505,14 @@
       "capital-one-vs-chase-184106558.html",
       "middle-east-chaos-hands-canada-230000596.html",
       "exxonmobil-stock-hits-time-high-232000788.html",
-      "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html"
+      "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
+      "3-factors-have-driven-double-digit-stock-market-losses-in-the-last-100-years-theyre-all-in-play-100007909.html",
+      "regional-reit-q4-earnings-call-101441241.html",
+      "tech-stocks-today-anthropic-announces-new-claude-capability-nvidias-jensen-huang-says-agi-era-is-here-144220360.html",
+      "morning-brief-3-factors-have-made-for-big-historical-stock-market-losses-100036294.html",
+      "tt-electronics-h2-earnings-call-101442202.html"
     ],
-    "last_run": "2026-03-25T09:23:02.590293+00:00",
+    "last_run": "2026-03-25T10:22:22.439887+00:00",
     "seeded": true
   }
 }
