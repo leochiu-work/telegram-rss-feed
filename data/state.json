@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bye-bye-biden-era-fiduciary-040300979.html",
-      "claiming-medicare-just-beginning-amid-040200725.html",
-      "iranian-strikes-lng-plant-heighten-040100586.html",
-      "why-march-too-talk-taxes-040100016.html",
-      "costco-makes-investment-thats-great-033300454.html",
       "bullish-analyst-sentiment-nxp-semiconductors-064702661.html",
       "wall-street-saying-allegro-microsystems-064655113.html",
       "ask-advisor-made-310-000-110000024.html",
@@ -510,9 +505,14 @@
       "microsoft-msft-declines-amid-investor-151025673.html",
       "bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
       "cathie-wood-goes-bargain-hunting-151200430.html",
-      "rising-gas-prices-could-be-good-news-for-evs-151643093.html"
+      "rising-gas-prices-could-be-good-news-for-evs-151643093.html",
+      "ai-not-lead-mass-permanent-160805416.html",
+      "echo-global-logistics-expands-platform-155830454.html",
+      "lyft-rolls-driver-relief-program-155531401.html",
+      "workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
+      "tsm-vs-avgo-better-semiconductor-160812191.html"
     ],
-    "last_run": "2026-03-25T15:31:24.058660+00:00",
+    "last_run": "2026-03-25T16:31:35.204586+00:00",
     "seeded": true
   }
 }
