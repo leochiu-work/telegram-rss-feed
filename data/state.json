@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "10-best-high-yield-savings-accounts-for-march-2026-earn-up-to-4-apy-171334295.html",
-      "p-500-just-broke-below-184326686.html",
-      "sugar-sharply-higher-gasoline-prices-183505641.html",
-      "how-to-consolidate-credit-card-debt-004730916.html",
-      "cloudflares-stablecoin-real-catalyst-short-184000241.html",
       "saks-global-paying-bankruptcy-210622287.html",
       "cotton-falls-back-thursday-210130306.html",
       "corn-nears-last-weeks-high-210130171.html",
@@ -510,9 +505,14 @@
       "northrop-stock-drops-trump-post-defense-812679a0?siteid=yhoof2&yptr=yahoo",
       "stocks-sharply-higher-president-trump-203744519.html",
       "draftkings-stock-challenging-20-day-201320146.html",
-      "stock-movers-285ff4c1?siteid=yhoof2&yptr=yahoo"
+      "stock-movers-285ff4c1?siteid=yhoof2&yptr=yahoo",
+      "2-safe-dividend-stocks-buy-233002866.html",
+      "capital-one-vs-chase-184106558.html",
+      "middle-east-chaos-hands-canada-230000596.html",
+      "exxonmobil-stock-hits-time-high-232000788.html",
+      "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html"
     ],
-    "last_run": "2026-03-25T08:20:57.140788+00:00",
+    "last_run": "2026-03-25T09:23:02.590293+00:00",
     "seeded": true
   }
 }
