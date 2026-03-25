@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nyxoah-details-early-u-genio-120703025.html",
-      "jpmorgan-ceo-jamie-dimon-said-115900916.html",
-      "americans-2-1t-sitting-abandoned-120000301.html",
-      "texas-man-frustrated-800-purchase-120000918.html",
-      "tax-refunds-falling-short-trump-000842164.html",
       "canadian-pacific-kansas-city-cp-130001649.html",
       "greenbrier-companies-gbx-secures-300m-130125501.html",
       "csx-corporation-csx-one-best-130230463.html",
@@ -510,9 +505,14 @@
       "p-futures-waver-concerns-over-103127645.html",
       "11-000-californians-fall-behind-103000646.html",
       "ray-dalio-only-one-gold-101700744.html",
-      "wall-street-fear-index-rises-as-iran-rally-fades-BsAsSpdFfUhH8odOEMFB?siteid=yhoof2&yptr=yahoo"
+      "wall-street-fear-index-rises-as-iran-rally-fades-BsAsSpdFfUhH8odOEMFB?siteid=yhoof2&yptr=yahoo",
+      "marvell-mrvl-earnings-beat-driven-114429304.html",
+      "apple-aapl-rated-sector-weight-114402942.html",
+      "brown-advisory-mid-cap-growth-113626623.html",
+      "elon-musk-offers-pay-tsa-115300310.html",
+      "oil-prices-rise-iran-denies-114036922.html"
     ],
-    "last_run": "2026-03-25T19:25:16.647940+00:00",
+    "last_run": "2026-03-25T20:16:28.857266+00:00",
     "seeded": true
   }
 }
