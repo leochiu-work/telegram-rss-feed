@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "canadian-pacific-kansas-city-cp-130001649.html",
-      "greenbrier-companies-gbx-secures-300m-130125501.html",
-      "csx-corporation-csx-one-best-130230463.html",
-      "emerging-markets-outperforming-schwab-etf-130500868.html",
-      "rising-insurance-costs-push-fannie-freddie-to-adjust-mortgage-rules-185704504.html",
       "millionaire-next-door-adopt-wealthy-130000234.html",
       "t-mobile-verizon-t-discounts-133737921.html",
       "coca-cola-ko-best-forever-132148478.html",
@@ -510,9 +505,14 @@
       "apple-aapl-rated-sector-weight-114402942.html",
       "brown-advisory-mid-cap-growth-113626623.html",
       "elon-musk-offers-pay-tsa-115300310.html",
-      "oil-prices-rise-iran-denies-114036922.html"
+      "oil-prices-rise-iran-denies-114036922.html",
+      "paramount-skydance-stock-underperforming-dow-125700463.html",
+      "invesco-stock-outperforming-p-500-130428829.html",
+      "tax-refund-help-save-750-130200067.html",
+      "conocophillips-stock-peak-covered-call-130002315.html",
+      "3-ways-your-relationship-status-could-impact-your-tax-bill-130041862.html"
     ],
-    "last_run": "2026-03-25T20:16:28.857266+00:00",
+    "last_run": "2026-03-25T21:15:57.432461+00:00",
     "seeded": true
   }
 }
