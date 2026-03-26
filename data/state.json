@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "uranium-energy-uec-drops-8-084117586.html",
-      "kratos-ktos-slashes-8-8-084053949.html",
-      "hims-hers-hims-tumbles-8-084110708.html",
-      "usa-rare-earth-usar-loses-084101296.html",
-      "goldman-sachs-just-sounded-alarm-045000359.html",
       "mosaic-mos-drops-9-96-084136341.html",
       "bloom-energy-loses-9-9-084126476.html",
       "vistra-corp-vst-loses-12-084154911.html",
@@ -510,9 +505,14 @@
       "average-us-long-term-mortgage-160316072.html",
       "amex-launches-new-graphite-business-cash-unlimited-card-earn-unlimited-2-on-every-purchase-182440207.html",
       "popular-crypto-stock-rises-bitcoin-161112563.html",
-      "axn-expands-kentucky-axle-plant-161425523.html"
+      "axn-expands-kentucky-axle-plant-161425523.html",
+      "stock-market-today-dow-sp-500-nasdaq-fall-as-wall-street-weighs-prospects-for-iran-truce-133318490.html",
+      "crypto-platform-anchorage-brings-suns-170431877.html",
+      "how-to-calculate-net-loss-and-deduct-capital-losses-from-your-taxes-with-table-170514012.html",
+      "amazon-offers-1-000-prizes-154516543.html",
+      "tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html"
     ],
-    "last_run": "2026-03-26T16:31:41.771367+00:00",
+    "last_run": "2026-03-26T17:27:47.204196+00:00",
     "seeded": true
   }
 }
