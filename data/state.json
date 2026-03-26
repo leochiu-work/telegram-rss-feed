@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "emerging-assets-extend-losing-streak-211108934.html",
-      "daily-etf-flows-schd-takes-210004601.html",
-      "dealmaking-3-mlb-adobe-expanding-210232252.html",
-      "33-ytd-stock-isn-t-210753782.html",
-      "broadcom-ceo-hock-tan-just-211400934.html",
       "sezzle-dismisses-auditor-baker-tilly-215807014.html",
       "hive-digital-hive-launches-ai-215711794.html",
       "sofi-vs-td-bank-173415811.html",
@@ -510,9 +505,14 @@
       "top-high-yield-dividend-stock-233002525.html",
       "inside-long-term-stock-exchanges-232300488.html",
       "elite-sports-competition-paying-athletes-231829904.html",
-      "sk-hynix-files-us-listing-231103810.html"
+      "sk-hynix-files-us-listing-231103810.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-slide-as-wall-street-weighs-prospects-for-iran-truce-225159013.html",
+      "chance-rapper-won-35-1-120000786.html",
+      "braze-price-target-raised-33-121546842.html",
+      "tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html",
+      "vanguard-own-research-says-international-121803121.html"
     ],
-    "last_run": "2026-03-26T11:23:19.511559+00:00",
+    "last_run": "2026-03-26T12:27:02.059485+00:00",
     "seeded": true
   }
 }
