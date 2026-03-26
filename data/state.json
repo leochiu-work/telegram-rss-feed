@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "sezzle-dismisses-auditor-baker-tilly-215807014.html",
-      "hive-digital-hive-launches-ai-215711794.html",
-      "sofi-vs-td-bank-173415811.html",
-      "everbank-vs-sofi-182242428.html",
-      "why-dell-technologies-stock-just-214822630.html",
       "nuclear-reactor-developer-x-energy-222014732.html",
       "strategy-mstr-extends-1-57-221936416.html",
       "atlassian-team-prepares-itself-openai-221745924.html",
@@ -510,9 +505,14 @@
       "chance-rapper-won-35-1-120000786.html",
       "braze-price-target-raised-33-121546842.html",
       "tech-stocks-today-meta-google-stocks-little-changed-after-social-media-verdict-openai-shuts-down-sora-144220087.html",
-      "vanguard-own-research-says-international-121803121.html"
+      "vanguard-own-research-says-international-121803121.html",
+      "mara-holdings-stock-jumps-plan-125200781.html",
+      "euro-1-16-changes-everything-131044973.html",
+      "apple-adds-bosch-cirrus-logic-130214230.html",
+      "european-payments-initiative-ceo-says-130517824.html",
+      "lynas-partners-ls-eco-energy-131354356.html"
     ],
-    "last_run": "2026-03-26T12:27:02.059485+00:00",
+    "last_run": "2026-03-26T13:36:14.041130+00:00",
     "seeded": true
   }
 }
