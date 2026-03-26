@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "openai-nearly-double-workforce-8-120814494.html",
-      "ray-dalio-says-ai-investors-121700871.html",
-      "berkshire-hathaway-hoards-cash-americans-122000149.html",
-      "property-taxes-are-skyrocketing-but-states-are-learning-that-cutting-them-has-major-consequences-123024706.html",
-      "americans-crash-course-global-economy-123000926.html",
       "where-micron-stock-3-years-145000395.html",
       "midd-3-3b-restructuring-leaner-145433586.html",
       "2-top-defense-stocks-buy-140002529.html",
@@ -510,9 +505,14 @@
       "bitpanda-links-european-banks-tokenized-130500971.html",
       "slb-expands-nvidia-partnership-develop-125705668.html",
       "5-strategies-high-net-worth-131606675.html",
-      "abbott-earnings-preview-expect-130616282.html"
+      "abbott-earnings-preview-expect-130616282.html",
+      "investors-concerns-hurt-netflix-nflx-143124499.html",
+      "riverpark-large-growth-fund-meta-142859898.html",
+      "why-meta-platforms-meta-key-142802393.html",
+      "jim-cramer-apple-aapl-143101685.html",
+      "veteran-investor-slams-michael-saylor-143000289.html"
     ],
-    "last_run": "2026-03-26T21:13:26.189597+00:00",
+    "last_run": "2026-03-26T22:09:55.320831+00:00",
     "seeded": true
   }
 }
