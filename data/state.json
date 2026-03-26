@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mosaic-mos-drops-9-96-084136341.html",
-      "bloom-energy-loses-9-9-084126476.html",
-      "vistra-corp-vst-loses-12-084154911.html",
-      "constellation-energy-ceg-falls-10-084146261.html",
-      "1-glorious-growth-stock-down-075000003.html",
       "mortgage-refinance-interest-rates-today-saturday-march-21-2026-100000860.html",
       "gen-x-facing-400k-retirement-100000564.html",
       "best-high-yield-savings-interest-rates-today-saturday-march-21-2026-100051872.html",
@@ -510,9 +505,14 @@
       "crypto-platform-anchorage-brings-suns-170431877.html",
       "how-to-calculate-net-loss-and-deduct-capital-losses-from-your-taxes-with-table-170514012.html",
       "amazon-offers-1-000-prizes-154516543.html",
-      "tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html"
+      "tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html",
+      "2-2-million-invested-advisor-134203276.html",
+      "wells-fargos-q1-2026-earnings-074215773.html",
+      "know-ahead-nike-earnings-release-075035564.html",
+      "kenya-flower-industry-loses-millions-081213207.html",
+      "what-traders-made-of-tuesday-s-uneasy-markets-tq3KqFMmSlNCkND3ZA2L?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-26T17:27:47.204196+00:00",
+    "last_run": "2026-03-26T18:27:49.228552+00:00",
     "seeded": true
   }
 }
