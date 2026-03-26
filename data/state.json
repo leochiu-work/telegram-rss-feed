@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "jim-cramer-immunitybio-stock-part-163135319.html",
-      "7-largest-publicly-traded-ethereum-170103481.html",
-      "nadella-paid-650m-recruit-ai-170000361.html",
-      "da-davidson-reaffirms-buy-rating-173608426.html",
-      "1-magnificent-stock-down-25-175000889.html",
       "rbc-capital-jefferies-keep-bullish-182616810.html",
       "salesforce-crm-partners-nvidia-ai-182739106.html",
       "oklo-oklo-stock-jim-cramer-183320926.html",
@@ -510,9 +505,14 @@
       "apollos-private-credit-bet-really-135300309.html",
       "easy-way-leverage-boost-qqq-140115097.html",
       "norwegian-cruise-line-stock-nclh-135521304.html",
-      "global-banking-firm-hsbc-introduces-140218343.html"
+      "global-banking-firm-hsbc-introduces-140218343.html",
+      "amd-rapidly-expanding-south-korea-153004133.html",
+      "williams-sonoma-stock-outperforming-dow-152932523.html",
+      "yes-petrol-expensive-not-evidence-151603494.html",
+      "markets-whiplashed-trump-iran-rhetoric-151253624.html",
+      "billionaire-stephen-rosss-10b-buildout-151607638.html"
     ],
-    "last_run": "2026-03-26T01:39:39.264014+00:00",
+    "last_run": "2026-03-26T03:10:30.958637+00:00",
     "seeded": true
   }
 }
