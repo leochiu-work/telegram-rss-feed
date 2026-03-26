@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "edwards-lifesciences-corporation-ew-good-211030785.html",
-      "intuitive-surgical-inc-isrg-good-211051166.html",
-      "mercadolibre-inc-meli-good-stock-211127196.html",
-      "everpure-inc-pstg-good-stock-211337284.html",
-      "better-semiconductor-stock-broadcom-vs-213400329.html",
       "duke-energy-corporation-duk-good-210908323.html",
       "applied-digital-corporation-apld-good-210933594.html",
       "paypal-holdings-inc-pypl-good-211003322.html",
@@ -510,9 +505,14 @@
       "advanced-micro-devices-amd-best-183101186.html",
       "options-data-says-could-come-182831977.html",
       "broadcom-avgo-best-ai-chip-182618624.html",
-      "memory-stocks-to-buy-now-axt-c5ab551b?siteid=yhoof2&yptr=yahoo"
+      "memory-stocks-to-buy-now-axt-c5ab551b?siteid=yhoof2&yptr=yahoo",
+      "analyst-boosts-price-target-dorsey-193000923.html",
+      "jpmorgan-lowers-price-target-constellation-193235255.html",
+      "nyse-partners-securitize-tokenized-stock-193100257.html",
+      "why-simple-2-etf-portfolio-193140037.html",
+      "dollar-general-just-named-ceo-192711654.html"
     ],
-    "last_run": "2026-03-26T06:32:25.040190+00:00",
+    "last_run": "2026-03-26T07:31:56.755411+00:00",
     "seeded": true
   }
 }
