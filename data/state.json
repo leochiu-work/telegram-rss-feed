@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "where-micron-stock-3-years-145000395.html",
-      "midd-3-3b-restructuring-leaner-145433586.html",
-      "2-top-defense-stocks-buy-140002529.html",
-      "the-energy-tax-analysts-weigh-impact-of-surging-gasoline-prices-on-inflation-consumers-143027350.html",
-      "big-tech-cause-hope-between-130007636.html",
       "ras-laffan-attack-shatters-illusion-150100229.html",
       "investor-doubles-down-8-million-154628837.html",
       "when-it-comes-to-getting-a-pay-raise-youll-probably-have-to-ask-for-it-100049022.html",
@@ -510,9 +505,14 @@
       "riverpark-large-growth-fund-meta-142859898.html",
       "why-meta-platforms-meta-key-142802393.html",
       "jim-cramer-apple-aapl-143101685.html",
-      "veteran-investor-slams-michael-saylor-143000289.html"
+      "veteran-investor-slams-michael-saylor-143000289.html",
+      "coinbase-integrates-chainlink-deliver-institutional-153700667.html",
+      "why-kkr-co-kkr-could-154423512.html",
+      "blackstone-bx-slipped-amid-private-154015523.html",
+      "not-father-gold-market-anymore-154016979.html",
+      "bank-america-sends-stark-oracle-154037792.html"
     ],
-    "last_run": "2026-03-26T22:09:55.320831+00:00",
+    "last_run": "2026-03-26T23:10:47.104936+00:00",
     "seeded": true
   }
 }
