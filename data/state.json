@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "baird-raises-pt-coinbase-global-191614827.html",
-      "analysts-remain-bullish-bit-digital-191618191.html",
-      "analyst-sentiment-remains-strong-iovance-191609997.html",
-      "nat-gas-prices-slide-us-191721596.html",
-      "ftv-management-builds-651-million-190313818.html",
       "sirius-xm-holdings-inc-siri-200121202.html",
       "rackspace-rxt-launches-uk-sovereign-200030905.html",
       "stock-market-today-dow-sp-500-nasdaq-sell-off-to-end-another-brutal-week-as-iran-war-rages-200057954.html",
@@ -510,9 +505,14 @@
       "how-does-business-travel-insurance-work-182812567.html",
       "which-credit-cards-offer-primary-rental-car-insurance-174242694.html",
       "irs-staffing-is-down-by-27-this-year-heres-how-that-could-impact-your-refund-130052643.html",
-      "southwest-rapid-rewards-performance-business-review-231209206.html"
+      "southwest-rapid-rewards-performance-business-review-231209206.html",
+      "millions-of-students-face-tax-season-in-2026-what-to-know-about-credits-income-and-filing-rules-213939032.html",
+      "robinhood-announces-massive-share-buyback-221800897.html",
+      "bank-regulators-overhaul-credit-negative-moodys-490ee5e3?siteid=yhoof2&yptr=yahoo",
+      "fed-interest-rate-history-look-192026868.html",
+      "where-to-get-1000-loan-221335935.html"
     ],
-    "last_run": "2026-03-26T09:26:40.803997+00:00",
+    "last_run": "2026-03-26T10:24:53.457722+00:00",
     "seeded": true
   }
 }
