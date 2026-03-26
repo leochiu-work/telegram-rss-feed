@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "kraft-heinz-khc-best-stock-151151571.html",
-      "occidental-petroleum-oxy-best-energy-152150255.html",
-      "1-rule-3-stocks-why-155000600.html",
-      "property-brothers-drew-and-jonathan-scott-on-the-biggest-mistake-homebuyers-are-still-making-180030467.html",
-      "wall-street-priced-a-swift-bombing-campaign-what-it-got-was-an-energy-war-100009193.html",
       "jim-cramer-highlights-skyworks-solutions-163137274.html",
       "jim-cramer-stellantis-just-t-163138724.html",
       "jim-cramer-ge-vernova-just-163140483.html",
@@ -510,9 +505,14 @@
       "major-european-tissue-paper-maker-152800232.html",
       "berkshire-hathaway-betting-big-little-151718168.html",
       "stocks-fall-iran-war-drags-151907439.html",
-      "cathie-wood-sells-peter-thiel-152104896.html"
+      "cathie-wood-sells-peter-thiel-152104896.html",
+      "marvell-technology-mrvl-traded-lower-124912812.html",
+      "heavy-investment-residential-portal-weighed-125058333.html",
+      "godaddy-stock-underperforming-nasdaq-125155013.html",
+      "moment-brutal-candor-dave-ramsey-125831006.html",
+      "strategy-plans-42-billion-capital-125500130.html"
     ],
-    "last_run": "2026-03-25T23:14:51.769063+00:00",
+    "last_run": "2026-03-26T00:40:47.216373+00:00",
     "seeded": true
   }
 }
