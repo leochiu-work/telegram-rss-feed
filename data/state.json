@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "duke-energy-corporation-duk-good-210908323.html",
-      "applied-digital-corporation-apld-good-210933594.html",
-      "paypal-holdings-inc-pypl-good-211003322.html",
-      "high-flying-biotech-stock-360-224315304.html",
-      "stock-buy-dip-225000511.html",
       "long-term-care-costs-outpacing-181838112.html",
       "sugar-prices-rally-gasoline-soars-182603366.html",
       "coinbase-global-launches-stock-perpetual-182400082.html",
@@ -510,9 +505,14 @@
       "jpmorgan-lowers-price-target-constellation-193235255.html",
       "nyse-partners-securitize-tokenized-stock-193100257.html",
       "why-simple-2-etf-portfolio-193140037.html",
-      "dollar-general-just-named-ceo-192711654.html"
+      "dollar-general-just-named-ceo-192711654.html",
+      "lawmakers-look-limit-prediction-markets-201122461.html",
+      "alphabet-googl-best-wide-moat-201458703.html",
+      "valero-energy-corporation-vlo-good-202051990.html",
+      "intuit-inc-intu-good-stock-201136092.html",
+      "c3-ais-executive-chairman-dumped-202055923.html"
     ],
-    "last_run": "2026-03-26T07:31:56.755411+00:00",
+    "last_run": "2026-03-26T08:23:45.741191+00:00",
     "seeded": true
   }
 }
