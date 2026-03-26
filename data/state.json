@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nuclear-reactor-developer-x-energy-222014732.html",
-      "strategy-mstr-extends-1-57-221936416.html",
-      "atlassian-team-prepares-itself-openai-221745924.html",
-      "jpmorgan-strategists-cut-p-500-221807695.html",
-      "replacement-cycle-trends-evolving-fundamentals-221840218.html",
       "blackline-smith-nephew-and-more-stocks-see-action-from-activist-investors-ff027953?siteid=yhoof2&yptr=yahoo",
       "bank-america-trims-paramount-skydance-013928908.html",
       "healthpeak-properties-stock-doc-underperforming-021153569.html",
@@ -510,9 +505,14 @@
       "euro-1-16-changes-everything-131044973.html",
       "apple-adds-bosch-cirrus-logic-130214230.html",
       "european-payments-initiative-ceo-says-130517824.html",
-      "lynas-partners-ls-eco-energy-131354356.html"
+      "lynas-partners-ls-eco-energy-131354356.html",
+      "ARGUS_3394_AnalystReport_1774521714000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "spectral-ai-inc-q4-2025-140914414.html",
+      "logicmark-inc-q4-2025-earnings-141105597.html",
+      "tax-tips-side-hustle-write-141507416.html",
+      "stock-market-today-dow-sp-500-nasdaq-slide-as-wall-street-weighs-prospects-for-iran-truce-133318192.html"
     ],
-    "last_run": "2026-03-26T13:36:14.041130+00:00",
+    "last_run": "2026-03-26T14:37:40.778495+00:00",
     "seeded": true
   }
 }
