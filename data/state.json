@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "arista-networks-anet-targets-ai-165313250.html",
-      "marvell-technology-inc-mrvl-unveils-165314179.html",
-      "get-ready-for-4-gasoline-gasbuddy-says-q8Vj3LCXSzdHzTAgE2kV?siteid=yhoof2&yptr=yahoo",
-      "traders-brace-turbulent-open-war-193000196.html",
-      "why-im-buying-servicenow-stock-205000586.html",
       "advanced-micro-devices-inc-amd-165310096.html",
       "stagwell-taps-applovin-corporation-app-165311165.html",
       "taiwan-semiconductor-controls-72-global-212500987.html",
@@ -510,9 +505,14 @@
       "iran-war-and-ai-advances-are-creating-winners-and-losers-among-transport-stocks-173815429.html",
       "arm-stock-just-entered-overbought-174610601.html",
       "best-cash-back-credit-cards-182338292.html",
-      "major-steakhouse-chain-closes-more-174700559.html"
+      "major-steakhouse-chain-closes-more-174700559.html",
+      "red-hot-oil-stock-flashing-183850169.html",
+      "alibaba-launches-chip-agentic-ai-183853437.html",
+      "sugar-prices-fall-crude-oil-183507189.html",
+      "western-alliance-wal-one-best-183408337.html",
+      "robinhood-stock-jumps-7-1-183000073.html"
     ],
-    "last_run": "2026-03-27T05:37:28.890749+00:00",
+    "last_run": "2026-03-27T06:33:38.070471+00:00",
     "seeded": true
   }
 }
