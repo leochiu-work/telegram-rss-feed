@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "babcock-wilcox-bw-soars-44-062226206.html",
-      "india-holds-fuel-prices-steady-063054376.html",
-      "japanese-firms-agree-5-26-072221720.html",
-      "gold-extends-losses-amid-brutal-flush-as-inflation-worries-mount-040428981.html",
-      "australia-accc-monitors-petrol-prices-092022505.html",
       "best-money-market-account-rates-today-monday-march-23-2026-100013520.html",
       "best-cd-rates-today-monday-march-23-2026-100028338.html",
       "best-high-yield-savings-interest-rates-today-monday-march-23-2026-100043794.html",
@@ -510,9 +505,14 @@
       "best-way-to-invest-in-gold-152426261.html",
       "believe-growth-prospects-eaton-corporation-160235344.html",
       "oracle-corporation-orcl-fell-amid-160451737.html",
-      "bitcoin-xrp-down-trump-delays-161137359.html"
+      "bitcoin-xrp-down-trump-delays-161137359.html",
+      "why-arm-holdings-stock-tumbling-165700831.html",
+      "amazon-com-amzn-underperformed-despite-163704097.html",
+      "tech-stocks-today-big-tech-stocks-sell-off-anthropic-considers-ipo-as-soon-as-q4-144220271.html",
+      "legence-corp-class-common-stock-164504561.html",
+      "j-j-darzalex-nets-first-165805024.html"
     ],
-    "last_run": "2026-03-27T16:23:08.117641+00:00",
+    "last_run": "2026-03-27T17:21:57.298471+00:00",
     "seeded": true
   }
 }
