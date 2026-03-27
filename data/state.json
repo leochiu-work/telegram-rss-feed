@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "cava-group-inc-cava-good-200751816.html",
-      "powell-industries-highlights-record-1-190416034.html",
-      "bitfarms-ltd-bitf-good-stock-200701166.html",
-      "calumet-inc-clmt-good-stock-200632251.html",
-      "wall-street-analyst-warns-ai-190500826.html",
       "prenetics-global-ceo-touts-im8-200250143.html",
       "cipher-digital-inc-cifr-good-200847182.html",
       "applied-optoelectronics-inc-aaoi-good-200732353.html",
@@ -510,9 +505,14 @@
       "hyundai-motor-aims-double-china-030802632.html",
       "lynas-expands-rare-earth-metals-021100007.html",
       "gulf-etfs-defy-iran-war-012306983.html",
-      "amazon-entering-humanoid-robot-market-012315042.html"
+      "amazon-entering-humanoid-robot-market-012315042.html",
+      "bloom-energy-surged-q4-due-135403908.html",
+      "applied-digital-under-debt-overhang-141012229.html",
+      "led-varonis-systems-vrns-material-135823899.html",
+      "offers-beta-technologies-beta-multiple-140120075.html",
+      "netflix-price-hikes-could-unlock-141113467.html"
     ],
-    "last_run": "2026-03-27T13:34:30.200691+00:00",
+    "last_run": "2026-03-27T14:25:25.914257+00:00",
     "seeded": true
   }
 }
