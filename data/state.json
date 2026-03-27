@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "goldman-sachs-reduce-underperforming-staff-115745112.html",
-      "why-trade-desk-ttd-traded-115535382.html",
-      "blackrock-ceo-fink-backs-staying-115903674.html",
-      "steve-ballmer-once-recalled-charlie-120105214.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-soar-as-trump-postpones-iran-strike-citing-very-good-talks-230122467.html",
       "nebius-says-well-funded-ai-125730023.html",
       "want-decades-passive-income-buy-132000722.html",
       "selling-home-63-punishing-medicare-140000397.html",
@@ -510,9 +505,14 @@
       "copy-best-high-yield-savings-interest-rates-today-thursday-march-26-2026-100000881.html",
       "rmds-start-soon-want-convert-123106570.html",
       "couple-making-over-200k-says-091500241.html",
-      "want-100-super-safe-monthly-092600109.html"
+      "want-100-super-safe-monthly-092600109.html",
+      "massive-chunk-berkshire-hathaway-300-104500091.html",
+      "heres-expect-j-b-hunts-103946786.html",
+      "stocks-plunge-open-oil-prices-103328552.html",
+      "china-official-calm-belies-war-102021995.html",
+      "down-payment-aid-programs-average-101700898.html"
     ],
-    "last_run": "2026-03-27T19:20:10.979265+00:00",
+    "last_run": "2026-03-27T20:14:13.697664+00:00",
     "seeded": true
   }
 }
