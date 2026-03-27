@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "prenetics-global-ceo-touts-im8-200250143.html",
-      "cipher-digital-inc-cifr-good-200847182.html",
-      "applied-optoelectronics-inc-aaoi-good-200732353.html",
-      "rush-enterprises-inc-rusha-good-201032366.html",
-      "401-k-balance-60s-average-200000082.html",
       "palantir-technologies-inc-pltr-good-210608088.html",
       "microsoft-now-cheapest-magnificent-seven-210700655.html",
       "advanced-micro-devices-inc-amd-210836582.html",
@@ -510,9 +505,14 @@
       "applied-digital-under-debt-overhang-141012229.html",
       "led-varonis-systems-vrns-material-135823899.html",
       "offers-beta-technologies-beta-multiple-140120075.html",
-      "netflix-price-hikes-could-unlock-141113467.html"
+      "netflix-price-hikes-could-unlock-141113467.html",
+      "ARGUS_3608_AnalystReport_1774609122000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "how-high-will-gold-go-this-year-top-3-predictions-about-gold-prices-150000192.html",
+      "oil-prices-could-hit-200-per-barrel-if-the-war-in-iran-continues-into-the-summer-150224933.html",
+      "consumer-sentiment-hits-lowest-level-since-december-as-americans-begin-feeling-wars-effects-151203975.html",
+      "better-buy-ast-spacemobile-rocket-151300081.html"
     ],
-    "last_run": "2026-03-27T14:25:25.914257+00:00",
+    "last_run": "2026-03-27T15:21:46.549340+00:00",
     "seeded": true
   }
 }
