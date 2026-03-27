@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "advanced-micro-devices-inc-amd-165310096.html",
-      "stagwell-taps-applovin-corporation-app-165311165.html",
-      "taiwan-semiconductor-controls-72-global-212500987.html",
-      "oil-above-100-barrel-first-213500928.html",
-      "alibaba-headcount-falls-sun-art-215200388.html",
       "markets-fear-gauge-just-spiked-225000270.html",
       "history-says-now-turning-point-225300949.html",
       "peter-thiel-betting-big-2b-222000722.html",
@@ -510,9 +505,14 @@
       "alibaba-launches-chip-agentic-ai-183853437.html",
       "sugar-prices-fall-crude-oil-183507189.html",
       "western-alliance-wal-one-best-183408337.html",
-      "robinhood-stock-jumps-7-1-183000073.html"
+      "robinhood-stock-jumps-7-1-183000073.html",
+      "growing-optimism-proqr-therapeutics-prqr-192934535.html",
+      "cervomed-crvo-q4-results-feature-192818604.html",
+      "oil-shock-sends-energy-stocks-192318612.html",
+      "don-t-leave-remote-guru-192204574.html",
+      "crude-oil-prices-slide-hopes-192214758.html"
     ],
-    "last_run": "2026-03-27T06:33:38.070471+00:00",
+    "last_run": "2026-03-27T07:31:27.431979+00:00",
     "seeded": true
   }
 }
