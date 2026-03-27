@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "norfolk-southern-corporation-nsc-showcases-125717569.html",
-      "trinity-industries-trn-raises-dividend-125821640.html",
-      "hedge-fund-sees-31-gain-140000745.html",
-      "dell-stock-big-winner-super-130002430.html",
-      "abacus-global-expands-manning-napier-134505435.html",
       "energy-fuels-uuuu-stock-slightly-163026176.html",
       "nexgen-energy-nxe-shares-jim-163023490.html",
       "centrus-leu-shares-jim-cramer-163021897.html",
@@ -510,9 +505,14 @@
       "epsilon-energy-ltd-q4-2025-204032854.html",
       "stocks-finish-higher-us-push-203541408.html",
       "zions-latest-deal-boost-multifamily-203324348.html",
-      "explainer-comes-next-social-media-203049039.html"
+      "explainer-comes-next-social-media-203049039.html",
+      "best-credit-cards-for-walmart-182948137.html",
+      "best-balance-transfer-credit-cards-123841213.html",
+      "best-credit-cards-with-no-annual-fee-204747522.html",
+      "the-best-0-apr-credit-cards-for-march-2026-avoid-paying-interest-for-up-to-24-months-on-purchases-and-balance-transfers-181718599.html",
+      "best-credit-cards-for-gas-234013440.html"
     ],
-    "last_run": "2026-03-27T08:21:03.704193+00:00",
+    "last_run": "2026-03-27T09:23:05.163568+00:00",
     "seeded": true
   }
 }
