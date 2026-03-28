@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46514_SectorWatch_1774294817000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "broadcom-inc-avgo-positioned-robust-165308236.html",
-      "retirees-steel-yourselves-global-crises-121000010.html",
-      "coreweave-stock-gets-headlines-ai-153000848.html",
-      "2-brilliant-energy-stocks-buy-152000766.html",
       "ARGUS_3200_AnalystReport_1774284894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "micron-ceo-drops-bombshell-micron-170700832.html",
       "united-airlines-cuts-routes-predicts-100-plus-oil-prices-all-year-AhzD2Iq76kQdMxj0kqAI?siteid=yhoof2&yptr=yahoo",
@@ -510,9 +505,14 @@
       "harmony-gold-mining-hmy-releases-073058432.html",
       "jim-cramer-says-war-over-073133457.html",
       "nearly-half-million-customers-hit-081753399.html",
-      "nikkei-falls-1-0-dragged-by-machinery-electronics-stocks-b7676504?siteid=yhoof2&yptr=yahoo"
+      "nikkei-falls-1-0-dragged-by-machinery-electronics-stocks-b7676504?siteid=yhoof2&yptr=yahoo",
+      "expect-edwards-lifesciences-next-quarterly-093929492.html",
+      "chinas-pony-ai-more-double-093030410.html",
+      "earnings-preview-expect-otis-worldwides-093350150.html",
+      "tiktoker-claims-hospital-bill-discounted-093000341.html",
+      "iesba-examine-ethical-impact-private-093114828.html"
     ],
-    "last_run": "2026-03-28T10:12:25.351668+00:00",
+    "last_run": "2026-03-28T11:10:48.881492+00:00",
     "seeded": true
   }
 }
