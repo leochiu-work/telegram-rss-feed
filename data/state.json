@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_3200_AnalystReport_1774284894000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "micron-ceo-drops-bombshell-micron-170700832.html",
-      "united-airlines-cuts-routes-predicts-100-plus-oil-prices-all-year-AhzD2Iq76kQdMxj0kqAI?siteid=yhoof2&yptr=yahoo",
-      "natural-gas-prices-texas-plunge-171103943.html",
-      "heres-why-high-oil-prices-170900838.html",
       "gen-z-401-k-balances-180000722.html",
       "cnooc-names-huang-yongzhang-chief-015939219.html",
       "gamestop-carnival-chewy-jefferies-and-more-to-watch-this-week-737326aa?siteid=yhoof2&yptr=yahoo",
@@ -510,9 +505,14 @@
       "chinas-pony-ai-more-double-093030410.html",
       "earnings-preview-expect-otis-worldwides-093350150.html",
       "tiktoker-claims-hospital-bill-discounted-093000341.html",
-      "iesba-examine-ethical-impact-private-093114828.html"
+      "iesba-examine-ethical-impact-private-093114828.html",
+      "expect-international-business-machines-q1-103902391.html",
+      "morning-bid-cant-handle-truth-104023586.html",
+      "surgeon-struggle-665k-salary-ramit-120000399.html",
+      "cybersecurity-stocks-slide-following-anthropic-120141853.html",
+      "canadas-tariff-frontline-business-stalls-100730047.html"
     ],
-    "last_run": "2026-03-28T11:10:48.881492+00:00",
+    "last_run": "2026-03-28T12:16:24.259167+00:00",
     "seeded": true
   }
 }
