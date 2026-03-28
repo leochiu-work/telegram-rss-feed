@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "better-nuclear-energy-stock-cameco-101000264.html",
-      "best-cd-rates-today-march-24-2026-lock-in-up-to-4-1-5-apy-today-100022097.html",
-      "morning-brief-hopes-for-a-deal-lift-stocks--and-send-oil-down-100030178.html",
-      "best-high-yield-savings-interest-rates-today-tuesday-march-24-2026-100053103.html",
-      "borr-drilling-acquire-five-jack-101400866.html",
       "franklin-templeton-says-xrp-boom-110111253.html",
       "morning-bid-48-hours-five-103519974.html",
       "gold-price-today-tuesday-march-24-gold-moves-back-over-4400-104957743.html",
@@ -510,9 +505,14 @@
       "shopify-shop-adds-another-ai-151849403.html",
       "enliven-theraeutics-elvn-chief-medical-164654704.html",
       "financial-advisor-overcharged-15k-over-162000395.html",
-      "blue-owl-private-credit-fund-164700152.html"
+      "blue-owl-private-credit-fund-164700152.html",
+      "oracle-orcl-backlog-drives-bull-151844148.html",
+      "analysts-saying-applovin-corporation-app-151847197.html",
+      "did-investors-too-far-ahead-173500698.html",
+      "lxp-industrial-trust-buy-sell-173633841.html",
+      "robosense-crosses-profitability-robotics-demand-174638418.html"
     ],
-    "last_run": "2026-03-28T17:11:20.331404+00:00",
+    "last_run": "2026-03-28T18:13:35.990945+00:00",
     "seeded": true
   }
 }
