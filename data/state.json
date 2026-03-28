@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ray-dalio-says-us-may-110000295.html",
-      "president-trump-portable-mortgage-push-104300043.html",
-      "minnesota-man-accused-tax-fraud-103000791.html",
-      "florida-woman-38-wants-retire-100000713.html",
-      "superior-group-companies-touts-3-090705240.html",
       "struggling-ne-veteran-now-single-113000891.html",
       "one-family-21m-charity-fund-111500365.html",
       "sharonai-holdings-pitches-australia-neocloud-100519178.html",
@@ -510,9 +505,14 @@
       "ge-aerospace-ge-stock-jim-183308750.html",
       "bwx-technologies-bwxt-shares-jim-183331553.html",
       "mvb-financial-touts-ai-efficiency-183336249.html",
-      "honeywell-hon-stock-jim-cramer-183426775.html"
+      "honeywell-hon-stock-jim-cramer-183426775.html",
+      "etf-league-tables-vaneck-sheds-210004776.html",
+      "daily-etf-flows-itot-cracks-210005076.html",
+      "still-bet-tesla-spacex-merger-205735704.html",
+      "why-bmo-sees-california-expansion-210012839.html",
+      "super-micro-facing-challenges-dell-210029185.html"
     ],
-    "last_run": "2026-03-28T01:38:43.498104+00:00",
+    "last_run": "2026-03-28T03:07:15.160869+00:00",
     "seeded": true
   }
 }
