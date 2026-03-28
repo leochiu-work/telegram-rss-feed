@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46501_InsiderActivity_1774261699000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "trinity-capital-14-bdc-roller-130002439.html",
-      "heloc-home-equity-loan-rates-today-monday-march-23-2026-100000632.html",
-      "people-dont-know-how-prices-will-behave-in-the-near-term-especially-right-now-165314720.html",
-      "got-1-000-invest-xrp-130106638.html",
       "really-destroying-social-security-congress-135948789.html",
       "mercadolibre-inc-meli-positioned-e-165307096.html",
       "4-etfs-yielding-over-7-133500817.html",
@@ -510,9 +505,14 @@
       "analysts-remain-mixed-blackline-bl-032909974.html",
       "kodiak-sciences-kod-climbs-75-033106683.html",
       "arlo-technologies-touts-ai-cloud-033321766.html",
-      "visionsys-ai-vsa-soars-140-033658184.html"
+      "visionsys-ai-vsa-soars-140-033658184.html",
+      "65-1-9-million-401-121500894.html",
+      "novartis-buy-u-based-biotech-075003961.html",
+      "h-c-wainwright-bullish-ataibeckley-064451893.html",
+      "oil-markets-price-peace-upside-064159237.html",
+      "reeves-turned-oil-price-spike-060000439.html"
     ],
-    "last_run": "2026-03-28T08:16:14.673553+00:00",
+    "last_run": "2026-03-28T09:16:17.439348+00:00",
     "seeded": true
   }
 }
