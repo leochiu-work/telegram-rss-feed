@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_3158_AnalystReport_1774350993000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "bitgo-offers-institutional-clients-access-135100414.html",
-      "why-citi-still-sees-150-oil-135622313.html",
-      "valero-98-capacity-run-rate-141744031.html",
-      "more-americans-than-ever-are-turning-to-personal-loans-heres-whats-driving-it-141834099.html",
       "ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "apple-bring-paid-ads-maps-150129908.html",
       "stock-market-today-dow-sp-500-nasdaq-wobble-after-rally-as-iran-war-drags-on-150624837.html",
@@ -510,9 +505,14 @@
       "oklos-ai-tailwind-fades-fuel-200700729.html",
       "inside-project-eagle-jpmorgan-high-190000250.html",
       "analysts-bullish-blackrock-blk-following-205000960.html",
-      "bristol-myers-squibb-bmy-faces-205109228.html"
+      "bristol-myers-squibb-bmy-faces-205109228.html",
+      "jim-cramer-aris-mining-aris-211226009.html",
+      "jim-cramer-says-likes-cheniere-211321109.html",
+      "jim-cramer-provides-bear-case-211559670.html",
+      "jim-cramer-says-stocks-generac-211719827.html",
+      "could-investing-10-000-nobl-214300323.html"
     ],
-    "last_run": "2026-03-28T21:11:20.601250+00:00",
+    "last_run": "2026-03-28T22:09:53.690913+00:00",
     "seeded": true
   }
 }
