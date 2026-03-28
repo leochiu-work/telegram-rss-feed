@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "franklin-templeton-says-xrp-boom-110111253.html",
-      "morning-bid-48-hours-five-103519974.html",
-      "gold-price-today-tuesday-march-24-gold-moves-back-over-4400-104957743.html",
-      "married-unequal-income-heres-overlooked-110000409.html",
-      "nvidia-stock-could-become-next-110500452.html",
       "brown-advisory-mid-cap-growth-120629527.html",
       "chipotle-cmg-slid-comparable-sales-121101292.html",
       "norway-wealth-fund-moves-towards-121341485.html",
@@ -510,9 +505,14 @@
       "analysts-saying-applovin-corporation-app-151847197.html",
       "did-investors-too-far-ahead-173500698.html",
       "lxp-industrial-trust-buy-sell-173633841.html",
-      "robosense-crosses-profitability-robotics-demand-174638418.html"
+      "robosense-crosses-profitability-robotics-demand-174638418.html",
+      "married-couple-retire-social-security-182000304.html",
+      "ARGUS_46561_MarketSummary_1774608222000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "heres-ark-innovation-etfs-vision-182100985.html",
+      "heres-investors-know-ast-spacemobile-184500336.html",
+      "huge-debt-forces-big-food-184700478.html"
     ],
-    "last_run": "2026-03-28T18:13:35.990945+00:00",
+    "last_run": "2026-03-28T19:14:28.498069+00:00",
     "seeded": true
   }
 }
