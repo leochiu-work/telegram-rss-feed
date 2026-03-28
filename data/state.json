@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46523_MarketOutlook_1774352547000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "apple-bring-paid-ads-maps-150129908.html",
-      "stock-market-today-dow-sp-500-nasdaq-wobble-after-rally-as-iran-war-drags-on-150624837.html",
-      "tech-stocks-today-anthropic-announces-new-capability-for-claude-sk-hynix-places-8-billion-asml-order-144220371.html",
-      "musonoi-ramp-mutanda-feed-drive-152011592.html",
       "radnet-rdnt-acquires-gleamer-230-144319165.html",
       "5-stocks-buy-now-strait-145644041.html",
       "regional-bank-stock-33-3-161000896.html",
@@ -510,9 +505,14 @@
       "jim-cramer-says-likes-cheniere-211321109.html",
       "jim-cramer-provides-bear-case-211559670.html",
       "jim-cramer-says-stocks-generac-211719827.html",
-      "could-investing-10-000-nobl-214300323.html"
+      "could-investing-10-000-nobl-214300323.html",
+      "jim-cramer-vermilion-energy-vet-210843778.html",
+      "jim-cramer-tower-semiconductor-tsem-211002134.html",
+      "jim-cramer-reddit-rddt-want-211109612.html",
+      "7-figures-invested-stocks-afford-223137863.html",
+      "spacex-anthropic-ipo-frenzy-begins-223141127.html"
     ],
-    "last_run": "2026-03-28T22:09:53.690913+00:00",
+    "last_run": "2026-03-28T23:11:38.516664+00:00",
     "seeded": true
   }
 }
