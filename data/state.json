@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "gen-z-401-k-balances-180000722.html",
-      "cnooc-names-huang-yongzhang-chief-015939219.html",
-      "gamestop-carnival-chewy-jefferies-and-more-to-watch-this-week-737326aa?siteid=yhoof2&yptr=yahoo",
-      "159-old-liquor-brands-chapter-151332137.html",
-      "7-million-masimo-exit-came-175649704.html",
       "south-koreas-kospi-down-5-020310134.html",
       "national-visions-ceo-sold-35-192306586.html",
       "goldman-sachs-sends-blunt-message-191300147.html",
@@ -510,9 +505,14 @@
       "morning-bid-cant-handle-truth-104023586.html",
       "surgeon-struggle-665k-salary-ramit-120000399.html",
       "cybersecurity-stocks-slide-following-anthropic-120141853.html",
-      "canadas-tariff-frontline-business-stalls-100730047.html"
+      "canadas-tariff-frontline-business-stalls-100730047.html",
+      "almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
+      "magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html",
+      "crypto-wants-collateral-not-just-130216698.html",
+      "warren-buffett-once-said-2-125500617.html",
+      "2-energy-stocks-buy-oil-130700307.html"
     ],
-    "last_run": "2026-03-28T12:16:24.259167+00:00",
+    "last_run": "2026-03-28T13:25:40.729509+00:00",
     "seeded": true
   }
 }
