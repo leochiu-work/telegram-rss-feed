@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "what-if-i-cant-pay-my-taxes-215416984.html",
-      "revisiting-gold-prices-s-p-500-where-they-stand-99bd7e40?siteid=yhoof2&yptr=yahoo",
-      "europe-gasoline-exports-shift-asia-163000592.html",
-      "peloton-launching-bikes-treadmills-gyms-163649753.html",
-      "175-million-move-sotera-health-163956966.html",
       "toyotas-1-billion-bet-kentucky-173801144.html",
       "unusual-options-activity-flares-meta-173002533.html",
       "flashing-crypto-stock-bull-signal-173204696.html",
@@ -510,9 +505,14 @@
       "blackline-inc-bl-expands-board-101751697.html",
       "sprout-social-spt-beats-q4-101703494.html",
       "pagerduty-pd-faces-churn-headwinds-101712636.html",
-      "accenture-acn-sees-record-bookings-101742797.html"
+      "accenture-acn-sees-record-bookings-101742797.html",
+      "did-fed-chair-jerome-powell-105600878.html",
+      "asure-software-asur-delivers-strong-101735112.html",
+      "florida-womans-house-fire-her-103000862.html",
+      "rspa-8-9-yield-hides-104840530.html",
+      "44-old-nurse-paid-off-104900916.html"
     ],
-    "last_run": "2026-03-29T11:11:34.234803+00:00",
+    "last_run": "2026-03-29T12:16:28.298384+00:00",
     "seeded": true
   }
 }
