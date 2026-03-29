@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "boeing-company-ba-secures-777-184031589.html",
-      "u-energy-dominance-agenda-cant-190000909.html",
-      "tax-refund-delays-hit-5-states-is-yours-one-of-them-205225811.html",
-      "trump-giving-stock-40-billion-185220322.html",
-      "fed-chair-jerome-powell-just-185000954.html",
       "radnet-insider-sells-15-000-194731695.html",
       "dollar-declines-gold-plunges-hopes-193344010.html",
       "retirees-rmds-early-wait-195413236.html",
@@ -510,9 +505,14 @@
       "eqt-corporation-price-target-raised-114221048.html",
       "credit-card-could-costing-3-113000170.html",
       "ex-opened-credit-card-using-113000197.html",
-      "social-security-6-years-away-113424640.html"
+      "social-security-6-years-away-113424640.html",
+      "five9-presidents-share-sale-half-122505819.html",
+      "does-google-turboquant-compressor-really-130002603.html",
+      "better-industrial-reit-stag-industrial-122500384.html",
+      "trump-pays-attention-to-the-stock-market-wall-street-eyes-signs-of-taco-amid-iran-war-140048438.html",
+      "gas-prices-nearing-psychological-wall-123000488.html"
     ],
-    "last_run": "2026-03-29T13:26:52.440273+00:00",
+    "last_run": "2026-03-29T14:14:50.616579+00:00",
     "seeded": true
   }
 }
