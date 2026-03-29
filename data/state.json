@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oil-price-slides-4-ceasefire-110443201.html",
-      "citi-raises-price-target-merck-110232030.html",
-      "rbc-capital-lowers-price-target-110239958.html",
-      "morgan-stanley-names-intuit-intu-110343753.html",
-      "best-cryptocurrencies-buy-next-bitcoin-110500282.html",
       "tech-stocks-today-openai-shuts-down-sora-arm-launches-data-center-chip-144220331.html",
       "stock-market-today-dow-sp-500-nasdaq-futures-jump-amid-reports-us-sent-ceasefire-plan-to-iran-230359776.html",
       "xrp-tipping-point-come-firms-120047127.html",
@@ -510,9 +505,14 @@
       "parsons-psn-announces-expansion-inet-173757014.html",
       "strong-analyst-sentiment-nice-nice-173759502.html",
       "much-higher-digitalocean-stock-175000792.html",
-      "a-bold-2011-market-call-is-echoed-in-2026-180220110.html"
+      "a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
+      "analysts-remain-bullish-pattern-group-173753066.html",
+      "goldman-sachs-raises-pt-navan-173754476.html",
+      "niq-global-intelligence-niq-launches-173751360.html",
+      "im-watching-brookfield-see-beat-183500355.html",
+      "micron-just-had-worst-week-185000992.html"
     ],
-    "last_run": "2026-03-29T18:14:33.291160+00:00",
+    "last_run": "2026-03-29T19:15:49.840255+00:00",
     "seeded": true
   }
 }
