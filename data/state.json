@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "italy-fines-trustpilot-4-6-075305441.html",
-      "ask-advisor-im-49-500k-130746902.html",
-      "tapestry-stock-performance-compared-other-093030828.html",
-      "goldman-boosts-oil-price-forecast-091000146.html",
-      "eu-standards-reshape-compliance-packaging-092018991.html",
       "3-mundane-habits-quietly-trigger-110000570.html",
       "willis-circle-asia-launch-art-102342287.html",
       "high-probability-iron-condor-trade-110002246.html",
@@ -510,9 +505,14 @@
       "google-turboquant-shakes-sandisk-sndk-191709474.html",
       "homebuying-america-want-just-got-190500827.html",
       "why-us-stock-market-down-193723673.html",
-      "ev-insurance-153443980.html"
+      "ev-insurance-153443980.html",
+      "america-first-credit-union-review-204737529.html",
+      "shuffle-board-names-co-ceos-200000884.html",
+      "bernstein-says-qualcomm-isn-t-201045953.html",
+      "why-paying-off-mortgage-early-200626850.html",
+      "the-dow-closes-in-correction-the-s-p-500-isn-t-far-off--9ccxQZSIz8s99WDD67Sk?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-29T01:38:04.521490+00:00",
+    "last_run": "2026-03-29T03:10:42.070956+00:00",
     "seeded": true
   }
 }
