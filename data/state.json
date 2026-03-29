@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46533_MarketSummary_1774436223000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "blackrock-says-crypto-business-generate-141300262.html",
-      "supreme-court-sides-cox-communications-141735222.html",
-      "stock-market-today-dow-sp-500-nasdaq-rise-amid-hopes-of-us-iran-talks-oil-falls-below-100-133140032.html",
-      "parazero-announces-closing-4m-registered-142538566.html",
       "gas-prices-inch-toward-4-a-gallon-as-iran-war-drags-on-150926752.html",
       "microsoft-msft-declines-amid-investor-151025673.html",
       "bitcoin-hovers-around-71000-as-bernstein-analysts-say-token-looks-bottomed-151108043.html",
@@ -510,9 +505,14 @@
       "1-unstoppable-quantum-computing-stock-205100042.html",
       "why-vertical-aerospace-evtl-expanding-205237302.html",
       "datavault-ai-dvlt-reached-first-205332667.html",
-      "why-rocket-pharmaceuticals-rckt-got-205429646.html"
+      "why-rocket-pharmaceuticals-rckt-got-205429646.html",
+      "why-agilon-health-agl-doing-204823913.html",
+      "why-rezolve-ai-rzlv-betting-204942465.html",
+      "prediction-palantirs-stock-price-2030-213900532.html",
+      "business-loan-6-steps-191951647.html",
+      "wall-street-expected-micron-stumble-215000568.html"
     ],
-    "last_run": "2026-03-29T21:12:15.469655+00:00",
+    "last_run": "2026-03-29T22:10:30.351395+00:00",
     "seeded": true
   }
 }
