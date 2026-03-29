@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "radnet-rdnt-acquires-gleamer-230-144319165.html",
-      "5-stocks-buy-now-strait-145644041.html",
-      "regional-bank-stock-33-3-161000896.html",
-      "bitcoin-sinks-below-70000-as-bernstein-analysts-say-token-looks-bottomed-155220732.html",
-      "china-auto-market-achieved-steady-161557446.html",
       "nmi-holdings-executive-chairman-sells-171050062.html",
       "dr-doom-shares-biggest-economic-concerns-as-the-us-war-on-iran-persists-162944501.html",
       "arm-unveils-ai-chip-expects-170223282.html",
@@ -510,9 +505,14 @@
       "jim-cramer-tower-semiconductor-tsem-211002134.html",
       "jim-cramer-reddit-rddt-want-211109612.html",
       "7-figures-invested-stocks-afford-223137863.html",
-      "spacex-anthropic-ipo-frenzy-begins-223141127.html"
+      "spacex-anthropic-ipo-frenzy-begins-223141127.html",
+      "iran-war-one-month-markets-stocks-gold-oil-bonds-56fd2d18?siteid=yhoof2&yptr=yahoo",
+      "higher-brazil-sugar-production-weighs-182602164.html",
+      "215-ytd-small-cap-stock-182122159.html",
+      "meta-social-media-stocks-continue-slide-friday-amid-fallout-from-lawsuit-losses-182821052.html",
+      "wix-com-just-got-hit-182153775.html"
     ],
-    "last_run": "2026-03-28T23:11:38.516664+00:00",
+    "last_run": "2026-03-29T00:43:18.225880+00:00",
     "seeded": true
   }
 }
