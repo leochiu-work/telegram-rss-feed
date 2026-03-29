@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "3-high-yield-stocks-buy-135812394.html",
-      "trimble-stock-underperforming-dow-135245593.html",
-      "gold-extends-losses-amid-brutal-flush-135632457.html",
-      "epam-stock-underperforming-nasdaq-135500250.html",
-      "feds-miran-still-backs-rate-cuts-despite-surging-oil-prices-31449a19?siteid=yhoof2&yptr=yahoo",
       "dollar-falls-stocks-rally-hopes-143631703.html",
       "ge-vernova-gev-heavily-jim-144316605.html",
       "not-maintenance-violations-same-144700521.html",
@@ -510,9 +505,14 @@
       "cotton-rallies-friday-221001318.html",
       "wheat-posts-friday-gains-221001796.html",
       "soybeans-sell-fact-following-rvo-221001853.html",
-      "stock-market-today-march-27-223029646.html"
+      "stock-market-today-march-27-223029646.html",
+      "best-same-day-emergency-loans-220714166.html",
+      "bitcoin-280-000-grant-cardone-231044952.html",
+      "only-1-top-2-reits-230002470.html",
+      "stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html",
+      "forum-energy-technologies-touts-2026-231047324.html"
     ],
-    "last_run": "2026-03-29T06:31:03.067722+00:00",
+    "last_run": "2026-03-29T07:26:56.672839+00:00",
     "seeded": true
   }
 }
