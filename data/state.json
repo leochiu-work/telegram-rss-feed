@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dollar-falls-stocks-rally-hopes-143631703.html",
-      "ge-vernova-gev-heavily-jim-144316605.html",
-      "not-maintenance-violations-same-144700521.html",
-      "delivery-hero-divest-taiwan-food-144537213.html",
-      "super-micro-computer-co-founder-144512657.html",
       "wheat-slipping-monday-morning-123636681.html",
       "corn-slipping-president-trump-comments-123635152.html",
       "soybeans-sitting-positive-monday-morning-123635375.html",
@@ -510,9 +505,14 @@
       "bitcoin-280-000-grant-cardone-231044952.html",
       "only-1-top-2-reits-230002470.html",
       "stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html",
-      "forum-energy-technologies-touts-2026-231047324.html"
+      "forum-energy-technologies-touts-2026-231047324.html",
+      "campbell-cpb-rallies-5-ahead-041000833.html",
+      "iamgold-iag-shines-4-9-040811813.html",
+      "equinox-eqx-climbs-4-57-040115899.html",
+      "hecla-mining-hl-jumps-4-035819884.html",
+      "every-magnificent-seven-stock-down-025000446.html"
     ],
-    "last_run": "2026-03-29T07:26:56.672839+00:00",
+    "last_run": "2026-03-29T08:16:33.036106+00:00",
     "seeded": true
   }
 }
