@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "wheat-slipping-monday-morning-123636681.html",
-      "corn-slipping-president-trump-comments-123635152.html",
-      "soybeans-sitting-positive-monday-morning-123635375.html",
-      "makes-axon-axon-attractive-opportunity-121711819.html",
-      "buy-3-highest-paying-dividend-122800795.html",
       "stock-market-correction-iran-trump-a15e3caa?siteid=yhoof2&yptr=yahoo",
       "doordash-offers-added-payments-us-133454831.html",
       "eqt-stock-outperforming-nasdaq-133718887.html",
@@ -510,9 +505,14 @@
       "iamgold-iag-shines-4-9-040811813.html",
       "equinox-eqx-climbs-4-57-040115899.html",
       "hecla-mining-hl-jumps-4-035819884.html",
-      "every-magnificent-seven-stock-down-025000446.html"
+      "every-magnificent-seven-stock-down-025000446.html",
+      "entergy-etr-rallies-6-8-041828890.html",
+      "3-technology-stocks-belong-every-042000060.html",
+      "coeur-mining-cde-jumps-5-041516747.html",
+      "brown-forman-bf-b-climbs-041208727.html",
+      "unity-software-u-soars-13-043433039.html"
     ],
-    "last_run": "2026-03-29T08:16:33.036106+00:00",
+    "last_run": "2026-03-29T09:16:58.228492+00:00",
     "seeded": true
   }
 }
