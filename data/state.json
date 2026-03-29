@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "2-safe-dividend-stocks-buy-233002866.html",
-      "capital-one-vs-chase-184106558.html",
-      "middle-east-chaos-hands-canada-230000596.html",
-      "exxonmobil-stock-hits-time-high-232000788.html",
-      "what-would-happen-if-all-of-the-worlds-gold-were-sold-tomorrow-195737847.html",
       "3-factors-have-driven-double-digit-stock-market-losses-in-the-last-100-years-theyre-all-in-play-100007909.html",
       "regional-reit-q4-earnings-call-101441241.html",
       "tech-stocks-today-anthropic-announces-new-claude-capability-nvidias-jensen-huang-says-agi-era-is-here-144220360.html",
@@ -510,9 +505,14 @@
       "heres-expect-gold-silver-mining-153500892.html",
       "microns-hbm4-now-mass-production-155000477.html",
       "meta-and-google-lost-a-major-social-media-addiction-lawsuit-their-troubles-are-far-from-over-130000496.html",
-      "wall-street-touts-grind-lower-140002340.html"
+      "wall-street-touts-grind-lower-140002340.html",
+      "one-etf-rule-them-164100122.html",
+      "meta-platforms-just-cut-jobs-153002282.html",
+      "berkshire-hathaway-stock-price-losing-streak-buy-c67a501f?siteid=yhoof2&yptr=yahoo",
+      "philippines-declares-iran-war-poses-164500501.html",
+      "artificial-intelligence-ai-portfolio-probably-165000266.html"
     ],
-    "last_run": "2026-03-29T16:12:18.499151+00:00",
+    "last_run": "2026-03-29T17:12:45.609282+00:00",
     "seeded": true
   }
 }
