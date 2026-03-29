@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tech-stocks-today-openai-shuts-down-sora-arm-launches-data-center-chip-144220331.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-jump-amid-reports-us-sent-ceasefire-plan-to-iran-230359776.html",
-      "xrp-tipping-point-come-firms-120047127.html",
-      "cnbc-anchor-shocked-us-trade-120000909.html",
-      "ufp-packaging-introduces-nail-free-120259887.html",
       "jim-cramer-says-target-standout-131334926.html",
       "jim-cramer-says-wouldn-t-131339390.html",
       "jim-cramer-notes-charitable-trust-131337924.html",
@@ -510,9 +505,14 @@
       "goldman-sachs-raises-pt-navan-173754476.html",
       "niq-global-intelligence-niq-launches-173751360.html",
       "im-watching-brookfield-see-beat-183500355.html",
-      "micron-just-had-worst-week-185000992.html"
+      "micron-just-had-worst-week-185000992.html",
+      "dlocal-limited-dlo-one-most-195653659.html",
+      "surging-oil-the-march-jobs-report-and-anxious-consumers-what-to-watch-this-week-113601445.html",
+      "aerovironment-inc-avav-secures-117m-195803479.html",
+      "rocket-lab-corporation-rklb-secures-195916877.html",
+      "leidos-holdings-ldos-partners-cloud-200014014.html"
     ],
-    "last_run": "2026-03-29T19:15:49.840255+00:00",
+    "last_run": "2026-03-29T20:11:21.053592+00:00",
     "seeded": true
   }
 }
