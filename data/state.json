@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "cotton-reverting-higher-midday-173109503.html",
-      "soybeans-mixed-midday-173108298.html",
-      "influencer-tax-rules-a-guide-for-tiktok-twitch-and-other-creators-172421382.html",
-      "investors-piling-microsoft-call-options-173002650.html",
-      "war-noise-where-invest-now-172906466.html",
       "?src=A00220&yptr=yahoo",
       "advanced-micro-devices-amd-best-183101186.html",
       "options-data-says-could-come-182831977.html",
@@ -510,9 +505,14 @@
       "coca-cola-femsa-kof-best-131145079.html",
       "why-uber-uber-fell-despite-131259914.html",
       "low-cost-etf-buy-now-131742140.html",
-      "stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html"
+      "stock-market-bulls-dont-forget-this-one-oil-price-shocks-usually-lead-to-a-recession-131921062.html",
+      "jack-henry-associates-jkhy-surged-135903205.html",
+      "sysco-buying-warehouse-could-never-140555268.html",
+      "stock-market-today-dow-sp-500-nasdaq-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645176.html",
+      "7-things-to-know-about-schwabs-new-brokerage-account-for-teenagers-142336241.html",
+      "saudi-arabia-fall-short-130gw-143030011.html"
     ],
-    "last_run": "2026-03-30T13:38:47.518250+00:00",
+    "last_run": "2026-03-30T14:38:17.551713+00:00",
     "seeded": true
   }
 }
