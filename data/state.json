@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "best-credit-card-interest-rates-193519877.html",
-      "wells-fargo-reflect-card-review-192505523.html",
-      "microsoft-price-target-lowered-m365-171200393.html",
-      "ally-unlimited-cash-back-review-165948540.html",
-      "wells-fargo-autograph-journey-card-review-215134623.html",
       "totalenergies-exits-u-offshore-wind-094600039.html",
       "venture-global-secures-5-lng-084535710.html",
       "ask-advisor-cover-3-000-110000758.html",
@@ -510,9 +505,14 @@
       "soundhound-ai-soun-stock-down-134616372.html",
       "why-jdiv-riskier-normal-dividend-135704458.html",
       "dividend-resilience-why-kings-safe-135600950.html",
-      "etf-gives-oil-upside-minus-135612095.html"
+      "etf-gives-oil-upside-minus-135612095.html",
+      "taiwan-semiconductor-tsm-going-strong-151840195.html",
+      "analysts-nudge-nvidia-nvda-price-151838495.html",
+      "fox-tungsten-secures-11m-fox-150004517.html",
+      "lazard-laz-insider-sold-11-141637665.html",
+      "dip-buyers-arrive-pull-gold-090052564.html"
     ],
-    "last_run": "2026-03-30T00:44:29.777516+00:00",
+    "last_run": "2026-03-30T01:39:52.371346+00:00",
     "seeded": true
   }
 }
