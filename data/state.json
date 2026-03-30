@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dollar-general-just-named-ceo-192711654.html",
-      "lawmakers-look-limit-prediction-markets-201122461.html",
-      "alphabet-googl-best-wide-moat-201458703.html",
-      "valero-energy-corporation-vlo-good-202051990.html",
-      "intuit-inc-intu-good-stock-201136092.html",
       "c3-ais-executive-chairman-dumped-202055923.html",
       "u-stocks-looking-cheap-first-211800526.html",
       "how-does-business-travel-insurance-work-182812567.html",
@@ -510,9 +505,14 @@
       "connecticut-woman-empties-her-401-154500659.html",
       "?src=A00220&yptr=yahoo",
       "house-tilting-furious-las-vegas-160300674.html",
-      "sysco-calls-29b-restaurant-depot-161009500.html"
+      "sysco-calls-29b-restaurant-depot-161009500.html",
+      "citi-lowers-price-target-rapid7-164646804.html",
+      "semiconductor-stock-flashing-bull-signal-164713166.html",
+      "fed-chair-powell-sees-no-threat-of-private-credit-contagion-says-interest-rates-are-in-a-good-place-165159434.html",
+      "does-nvidia-pay-dividends-payouts-165700159.html",
+      "stock-market-today-dow-sp-500-rise-nasdaq-slips-as-war-uncertainty-drives-oil-prices-higher-230645464.html"
     ],
-    "last_run": "2026-03-30T16:26:33.043519+00:00",
+    "last_run": "2026-03-30T17:23:22.071512+00:00",
     "seeded": true
   }
 }
