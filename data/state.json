@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "totalenergies-exits-u-offshore-wind-094600039.html",
-      "venture-global-secures-5-lng-084535710.html",
-      "ask-advisor-cover-3-000-110000758.html",
-      "super-micros-fate-lies-in-nvidias-hands-ac3157ab?siteid=yhoof2&yptr=yahoo",
-      "china-green-energy-stocks-surge-092700676.html",
       "ftse-100-live-stocks-start-071700145.html",
       "p-futures-waver-concerns-over-103127645.html",
       "11-000-californians-fall-behind-103000646.html",
@@ -510,9 +505,14 @@
       "analysts-nudge-nvidia-nvda-price-151838495.html",
       "fox-tungsten-secures-11m-fox-150004517.html",
       "lazard-laz-insider-sold-11-141637665.html",
-      "dip-buyers-arrive-pull-gold-090052564.html"
+      "dip-buyers-arrive-pull-gold-090052564.html",
+      "rising-gas-prices-could-be-good-news-for-evs-151643093.html",
+      "streaming-wars-1-netflix-rival-160500423.html",
+      "leaked-meta-memo-reveals-company-160300827.html",
+      "workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
+      "state-streets-sptm-better-u-160205864.html"
     ],
-    "last_run": "2026-03-30T01:39:52.371346+00:00",
+    "last_run": "2026-03-30T03:11:08.523562+00:00",
     "seeded": true
   }
 }
