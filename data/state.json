@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "paramount-skydance-stock-underperforming-dow-125700463.html",
-      "invesco-stock-outperforming-p-500-130428829.html",
-      "tax-refund-help-save-750-130200067.html",
-      "conocophillips-stock-peak-covered-call-130002315.html",
-      "3-ways-your-relationship-status-could-impact-your-tax-bill-130041862.html",
       "home-equity-loan-investment-rental-160233597.html",
       "world-largest-freighter-aircraft-lessor-141718681.html",
       "stocks-pressured-crude-oil-prices-140709282.html",
@@ -510,9 +505,14 @@
       "unitedhealth-group-unh-launches-ai-210007765.html",
       "tightening-credit-conditions-evolving-regulatory-205857075.html",
       "evercore-bullish-union-pacific-unp-205711509.html",
-      "retiring-next-set-monthly-income-191500008.html"
+      "retiring-next-set-monthly-income-191500008.html",
+      "jim-cramer-lemonade-inc-lmnd-210737732.html",
+      "jim-cramer-says-kind-environment-210627352.html",
+      "401-k-balances-40s-50s-201500302.html",
+      "jim-cramer-believes-chewy-chwy-210532397.html",
+      "why-gen-x-faces-retirement-200000874.html"
     ],
-    "last_run": "2026-03-30T06:46:03.932999+00:00",
+    "last_run": "2026-03-30T07:38:01.184052+00:00",
     "seeded": true
   }
 }
