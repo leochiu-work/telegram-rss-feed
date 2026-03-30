@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "pinnacle-west-capital-stock-pnw-135120940.html",
-      "apollos-private-credit-bet-really-135300309.html",
-      "easy-way-leverage-boost-qqq-140115097.html",
-      "norwegian-cruise-line-stock-nclh-135521304.html",
-      "global-banking-firm-hsbc-introduces-140218343.html",
       "amd-rapidly-expanding-south-korea-153004133.html",
       "williams-sonoma-stock-outperforming-dow-152932523.html",
       "yes-petrol-expensive-not-evidence-151603494.html",
@@ -510,9 +505,14 @@
       "copy-best-high-yield-savings-interest-rates-today-monday-march-30-2026-100000029.html",
       "copy-best-cd-rates-today-monday-march-30-2026-100000258.html",
       "copy-mortgage-refinance-rates-today-monday-march-30-2026-100000304.html",
-      "sap-acquire-reltio-boost-master-101726552.html"
+      "sap-acquire-reltio-boost-master-101726552.html",
+      "novo-nordisk-nvo-shares-since-110721816.html",
+      "merck-mrk-shares-significantly-since-110730217.html",
+      "jabil-jbl-shares-significantly-since-110738869.html",
+      "gold-price-today-monday-march-30-gold-holds-strong-opening-above-4500-111116970.html",
+      "oil-prices-surge-houthi-attacks-111508081.html"
     ],
-    "last_run": "2026-03-30T10:34:17.622597+00:00",
+    "last_run": "2026-03-30T11:26:43.218814+00:00",
     "seeded": true
   }
 }
