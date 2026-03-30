@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "marvell-mrvl-earnings-beat-driven-114429304.html",
-      "apple-aapl-rated-sector-weight-114402942.html",
-      "brown-advisory-mid-cap-growth-113626623.html",
-      "elon-musk-offers-pay-tsa-115300310.html",
-      "oil-prices-rise-iran-denies-114036922.html",
       "paramount-skydance-stock-underperforming-dow-125700463.html",
       "invesco-stock-outperforming-p-500-130428829.html",
       "tax-refund-help-save-750-130200067.html",
@@ -510,9 +505,14 @@
       "jefferies-bullish-home-depot-hd-205452289.html",
       "analysts-remain-constructive-mcdonald-mcd-205402726.html",
       "analysts-constructive-procter-gamble-pg-205256745.html",
-      "jefferies-bullish-coca-cola-company-205155333.html"
+      "jefferies-bullish-coca-cola-company-205155333.html",
+      "jim-cramer-medtronic-mdt-think-210424975.html",
+      "unitedhealth-group-unh-launches-ai-210007765.html",
+      "tightening-credit-conditions-evolving-regulatory-205857075.html",
+      "evercore-bullish-union-pacific-unp-205711509.html",
+      "retiring-next-set-monthly-income-191500008.html"
     ],
-    "last_run": "2026-03-30T05:02:17.531367+00:00",
+    "last_run": "2026-03-30T06:46:03.932999+00:00",
     "seeded": true
   }
 }
