@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nba-star-kyrie-irving-says-123111907.html",
-      "prestige-consumer-healthcare-pbh-free-133827535.html",
-      "ark-invest-bought-16-million-133700325.html",
-      "watsco-wso-benefit-technology-investments-133602669.html",
-      "last-time-oil-prices-spiked-133209867.html",
       "dave-ramsey-told-caller-just-133108676.html",
       "dollar-tree-fixes-big-shopper-150700708.html",
       "coreweave-crwv-fell-despite-more-151502543.html",
@@ -510,9 +505,14 @@
       "analysts-remain-bullish-vox-royalty-100613480.html",
       "analysts-bullish-gold-royalty-groy-100609328.html",
       "us-gas-prices-top-4-a-gallon-for-first-time-since-2022-as-iran-war-drags-on-100213651.html",
-      "stock-market-today-dow-sp-500-nasdaq-rise-after-trump-remarks-on-ending-war-with-hormuz-closed-230141471.html"
+      "stock-market-today-dow-sp-500-nasdaq-rise-after-trump-remarks-on-ending-war-with-hormuz-closed-230141471.html",
+      "bmo-capital-just-initiated-coverage-104940627.html",
+      "morning-bid-march-cruellest-month-105417040.html",
+      "gold-price-today-tuesday-march-31-gold-price-strengthens-after-report-that-trump-is-considering-war-exit-111116757.html",
+      "tariff-turmoil-refunds-lawsuits-duties-110000181.html",
+      "2-ai-healthcare-stocks-buy-110500891.html"
     ],
-    "last_run": "2026-03-31T10:26:40.550729+00:00",
+    "last_run": "2026-03-31T11:22:39.707651+00:00",
     "seeded": true
   }
 }
