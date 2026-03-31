@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "best-credit-cards-for-gas-234013440.html",
-      "wells-fargo-active-cash-card-180512515.html",
-      "best-credit-cards-shopping-on-amazon-212142241.html",
-      "aarp-travel-rewards-mastercard-191437742.html",
-      "wells-fargo-autograph-card-review-174306239.html",
       "mansion-taxes-175547491.html",
       "verdicts-against-social-media-companies-232615554.html",
       "corvel-insider-sale-130k-comes-232019276.html",
@@ -510,9 +505,14 @@
       "amphenol-quarterly-earnings-preview-know-085744643.html",
       "heres-expect-te-connectivity-next-090616998.html",
       "expect-lam-research-next-quarterly-090917458.html",
-      "schwab-u-dividend-equity-etf-092000369.html"
+      "schwab-u-dividend-equity-etf-092000369.html",
+      "ARGUS_5978_AnalystReport_1774955346000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "morning-bid-crude-escalation-103706337.html",
+      "m-soon-retired-texan-67k-104500358.html",
+      "norfolk-southern-earnings-preview-expect-101340953.html",
+      "stocks-set-open-higher-bond-102637299.html"
     ],
-    "last_run": "2026-03-31T18:25:58.293252+00:00",
+    "last_run": "2026-03-31T19:27:28.611042+00:00",
     "seeded": true
   }
 }
