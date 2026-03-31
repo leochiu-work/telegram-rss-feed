@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "veteran-investor-slams-michael-saylor-143000289.html",
-      "coinbase-integrates-chainlink-deliver-institutional-153700667.html",
-      "why-kkr-co-kkr-could-154423512.html",
-      "blackstone-bx-slipped-amid-private-154015523.html",
-      "not-father-gold-market-anymore-154016979.html",
       "bank-america-sends-stark-oracle-154037792.html",
       "5-things-know-stock-market-123142412.html",
       "expect-fastenals-q1-2026-earnings-124523024.html",
@@ -510,9 +505,14 @@
       "acm-research-acmr-shanghai-unit-203813942.html",
       "why-aardvark-therapeutics-aard-paused-204232901.html",
       "alphabet-just-introduced-newest-ai-205000995.html",
-      "stock-yields-6-6-127-210900247.html"
+      "stock-yields-6-6-127-210900247.html",
+      "canaccord-maintains-hold-joby-joby-084608632.html",
+      "analysts-reaffirm-buy-rivian-rivn-084609921.html",
+      "ferrari-race-stock-rated-outperform-084611588.html",
+      "rigetti-rgti-rated-buy-quantum-084612547.html",
+      "discount-retailer-poundstretcher-weighing-store-091511423.html"
     ],
-    "last_run": "2026-03-31T08:29:56.474940+00:00",
+    "last_run": "2026-03-31T09:29:46.143060+00:00",
     "seeded": true
   }
 }
