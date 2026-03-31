@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mansion-taxes-175547491.html",
-      "verdicts-against-social-media-companies-232615554.html",
-      "corvel-insider-sale-130k-comes-232019276.html",
-      "adventure-travel-insurance-224933844.html",
-      "are-cds-fdic-insured-161815227.html",
       "how-are-people-affording-houses-in-todays-market-195928862.html",
       "cognyte-software-ltd-q4-2026-002038640.html",
       "dyadic-international-inc-q4-2025-001522328.html",
@@ -510,9 +505,14 @@
       "morning-bid-crude-escalation-103706337.html",
       "m-soon-retired-texan-67k-104500358.html",
       "norfolk-southern-earnings-preview-expect-101340953.html",
-      "stocks-set-open-higher-bond-102637299.html"
+      "stocks-set-open-higher-bond-102637299.html",
+      "ARGUS_46593_MarketOutlook_1774956212000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "boomers-bad-money-habits-throwing-110000811.html",
+      "bear-call-spread-opportunities-march-110002768.html",
+      "boeing-earnings-preview-expect-105845117.html",
+      "bonds-treasury-yields-stocks-sp-500-4085c25c?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-31T19:27:28.611042+00:00",
+    "last_run": "2026-03-31T20:17:54.870860+00:00",
     "seeded": true
   }
 }
