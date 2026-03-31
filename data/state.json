@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "what-traders-made-of-tuesday-s-uneasy-markets-tq3KqFMmSlNCkND3ZA2L?siteid=yhoof2&yptr=yahoo",
-      "apollo-global-apo-caps-redemptions-103530439.html",
-      "walt-disney-dis-plans-expand-103557051.html",
-      "enquest-holds-2026-output-view-093358900.html",
-      "earnings-preview-expect-progressives-report-091415170.html",
       "sk-hynix-could-get-valuation-boost-from-adr-listing-eS6EpTvl1lcGAPR3DnGM?siteid=yhoof2&yptr=yahoo",
       "best-buy-6-1-dividend-115056910.html",
       "netflix-nflx-slid-despite-strong-115132005.html",
@@ -510,9 +505,14 @@
       "ray-dalio-flags-risky-times-173109810.html",
       "7-reasons-buy-life-insurance-172905144.html",
       "3-reasons-celsius-stock-bounce-172700397.html",
-      "struggling-mall-retailer-closes-100s-172221745.html"
+      "struggling-mall-retailer-closes-100s-172221745.html",
+      "super-micro-computer-inc-smci-195042695.html",
+      "halozyme-therapeutics-halo-appoints-interim-194815553.html",
+      "1-stock-benefits-no-matter-180700081.html",
+      "why-500-000-401-k-180232767.html",
+      "jobs-home-prices-nike-mccormick-conagra-and-more-to-watch-this-week-bfc2847e?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-03-31T04:53:35.420159+00:00",
+    "last_run": "2026-03-31T05:37:45.222452+00:00",
     "seeded": true
   }
 }
