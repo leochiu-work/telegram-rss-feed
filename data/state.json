@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tech-stocks-today-meta-google-face-legal-reckoning-openai-narrows-its-focus-144220284.html",
-      "2-2-million-invested-advisor-134203276.html",
-      "wells-fargos-q1-2026-earnings-074215773.html",
-      "know-ahead-nike-earnings-release-075035564.html",
-      "kenya-flower-industry-loses-millions-081213207.html",
       "what-traders-made-of-tuesday-s-uneasy-markets-tq3KqFMmSlNCkND3ZA2L?siteid=yhoof2&yptr=yahoo",
       "apollo-global-apo-caps-redemptions-103530439.html",
       "walt-disney-dis-plans-expand-103557051.html",
@@ -510,9 +505,14 @@
       "jim-cramer-nvidia-only-being-194121085.html",
       "7-reasons-home-equity-193400988.html",
       "amazon-chip-division-hit-second-153208552.html",
-      "expect-markets-week-march-jobs-153822185.html"
+      "expect-markets-week-march-jobs-153822185.html",
+      "pan-american-silver-corp-paas-194722007.html",
+      "ray-dalio-flags-risky-times-173109810.html",
+      "7-reasons-buy-life-insurance-172905144.html",
+      "3-reasons-celsius-stock-bounce-172700397.html",
+      "struggling-mall-retailer-closes-100s-172221745.html"
     ],
-    "last_run": "2026-03-31T03:10:43.380427+00:00",
+    "last_run": "2026-03-31T04:53:35.420159+00:00",
     "seeded": true
   }
 }
