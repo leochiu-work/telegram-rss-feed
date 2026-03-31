@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "sk-hynix-could-get-valuation-boost-from-adr-listing-eS6EpTvl1lcGAPR3DnGM?siteid=yhoof2&yptr=yahoo",
-      "best-buy-6-1-dividend-115056910.html",
-      "netflix-nflx-slid-despite-strong-115132005.html",
-      "earnings-preview-expect-kinder-morgans-115023973.html",
-      "lam-research-corporation-lrcx-positioned-115400829.html",
       "l-g-manulife-wam-form-115320104.html",
       "hsbc-just-double-upgraded-arm-130002402.html",
       "bitpanda-links-european-banks-tokenized-130500971.html",
@@ -510,9 +505,14 @@
       "halozyme-therapeutics-halo-appoints-interim-194815553.html",
       "1-stock-benefits-no-matter-180700081.html",
       "why-500-000-401-k-180232767.html",
-      "jobs-home-prices-nike-mccormick-conagra-and-more-to-watch-this-week-bfc2847e?siteid=yhoof2&yptr=yahoo"
+      "jobs-home-prices-nike-mccormick-conagra-and-more-to-watch-this-week-bfc2847e?siteid=yhoof2&yptr=yahoo",
+      "amentum-holdings-amtm-poised-growth-195422741.html",
+      "ringcentrals-chief-accounting-officer-sold-192340845.html",
+      "apollo-global-management-apo-acquiring-195313919.html",
+      "erste-group-warns-gold-sell-195154641.html",
+      "did-nvidia-40-billion-mistake-190700609.html"
     ],
-    "last_run": "2026-03-31T05:37:45.222452+00:00",
+    "last_run": "2026-03-31T06:36:12.895173+00:00",
     "seeded": true
   }
 }
