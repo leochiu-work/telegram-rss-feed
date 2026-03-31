@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "explainer-comes-next-social-media-203049039.html",
-      "best-credit-cards-for-walmart-182948137.html",
-      "best-balance-transfer-credit-cards-123841213.html",
-      "best-credit-cards-with-no-annual-fee-204747522.html",
-      "the-best-0-apr-credit-cards-for-march-2026-avoid-paying-interest-for-up-to-24-months-on-purchases-and-balance-transfers-181718599.html",
       "best-credit-cards-for-gas-234013440.html",
       "wells-fargo-active-cash-card-180512515.html",
       "best-credit-cards-shopping-on-amazon-212142241.html",
@@ -510,9 +505,14 @@
       "bank5-connect-review-213751126.html",
       "what-is-a-gold-ira-163508790.html",
       "airo-group-earnings-stock-price-507c4dc6?siteid=yhoof2&yptr=yahoo",
-      "airlines-face-price-hikes-lower-margins-as-iran-war-pressures-business-171745222.html"
+      "airlines-face-price-hikes-lower-margins-as-iran-war-pressures-business-171745222.html",
+      "ARGUS_46590_MarketSummary_1774954446000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "amphenol-quarterly-earnings-preview-know-085744643.html",
+      "heres-expect-te-connectivity-next-090616998.html",
+      "expect-lam-research-next-quarterly-090917458.html",
+      "schwab-u-dividend-equity-etf-092000369.html"
     ],
-    "last_run": "2026-03-31T17:25:44.362456+00:00",
+    "last_run": "2026-03-31T18:25:58.293252+00:00",
     "seeded": true
   }
 }
