@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "robinhood-stock-jumps-7-1-183000073.html",
-      "growing-optimism-proqr-therapeutics-prqr-192934535.html",
-      "cervomed-crvo-q4-results-feature-192818604.html",
-      "oil-shock-sends-energy-stocks-192318612.html",
-      "don-t-leave-remote-guru-192204574.html",
       "crude-oil-prices-slide-hopes-192214758.html",
       "paychex-inc-q3-2026-earnings-204056392.html",
       "epsilon-energy-ltd-q4-2025-204032854.html",
@@ -510,9 +505,14 @@
       "bitcoin-on-the-brink-of-its-longest-losing-streak-on-record-151110890.html",
       "car-insurance-inflation-151203005.html",
       "oil-prices-goldman-sachs-research-151503808.html",
-      "citi-cuts-pt-stellantis-n-151623419.html"
+      "citi-cuts-pt-stellantis-n-151623419.html",
+      "ariel-global-fund-added-t-160115762.html",
+      "whoop-ceo-after-raising-575-million-our-next-step-is-an-ipo-160340411.html",
+      "johnson-johnson-jnj-benefits-growth-160548994.html",
+      "oracle-corporation-orcl-faces-near-160806186.html",
+      "factset-research-systems-q2-earnings-160854245.html"
     ],
-    "last_run": "2026-03-31T15:32:05.132069+00:00",
+    "last_run": "2026-03-31T16:27:26.777052+00:00",
     "seeded": true
   }
 }
