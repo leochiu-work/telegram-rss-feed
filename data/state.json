@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "abbott-earnings-preview-expect-130616282.html",
-      "investors-concerns-hurt-netflix-nflx-143124499.html",
-      "riverpark-large-growth-fund-meta-142859898.html",
-      "why-meta-platforms-meta-key-142802393.html",
-      "jim-cramer-apple-aapl-143101685.html",
       "veteran-investor-slams-michael-saylor-143000289.html",
       "coinbase-integrates-chainlink-deliver-institutional-153700667.html",
       "why-kkr-co-kkr-could-154423512.html",
@@ -510,9 +505,14 @@
       "jefferies-remains-buy-eli-lilly-201552318.html",
       "lockheed-martin-corporation-lmt-one-200901837.html",
       "apple-inc-aapl-siri-powerful-201501407.html",
-      "ubs-lowers-pt-microsoft-msft-201215591.html"
+      "ubs-lowers-pt-microsoft-msft-201215591.html",
+      "silicon-laboratories-slab-banf-introduces-203700109.html",
+      "acm-research-acmr-shanghai-unit-203813942.html",
+      "why-aardvark-therapeutics-aard-paused-204232901.html",
+      "alphabet-just-introduced-newest-ai-205000995.html",
+      "stock-yields-6-6-127-210900247.html"
     ],
-    "last_run": "2026-03-31T07:35:52.329910+00:00",
+    "last_run": "2026-03-31T08:29:56.474940+00:00",
     "seeded": true
   }
 }
