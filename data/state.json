@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "l-g-manulife-wam-form-115320104.html",
-      "hsbc-just-double-upgraded-arm-130002402.html",
-      "bitpanda-links-european-banks-tokenized-130500971.html",
-      "slb-expands-nvidia-partnership-develop-125705668.html",
-      "5-strategies-high-net-worth-131606675.html",
       "abbott-earnings-preview-expect-130616282.html",
       "investors-concerns-hurt-netflix-nflx-143124499.html",
       "riverpark-large-growth-fund-meta-142859898.html",
@@ -510,9 +505,14 @@
       "ringcentrals-chief-accounting-officer-sold-192340845.html",
       "apollo-global-management-apo-acquiring-195313919.html",
       "erste-group-warns-gold-sell-195154641.html",
-      "did-nvidia-40-billion-mistake-190700609.html"
+      "did-nvidia-40-billion-mistake-190700609.html",
+      "l3harris-technologies-lhx-expanding-growth-200425732.html",
+      "jefferies-remains-buy-eli-lilly-201552318.html",
+      "lockheed-martin-corporation-lmt-one-200901837.html",
+      "apple-inc-aapl-siri-powerful-201501407.html",
+      "ubs-lowers-pt-microsoft-msft-201215591.html"
     ],
-    "last_run": "2026-03-31T06:36:12.895173+00:00",
+    "last_run": "2026-03-31T07:35:52.329910+00:00",
     "seeded": true
   }
 }
