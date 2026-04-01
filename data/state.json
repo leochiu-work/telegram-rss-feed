@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "does-states-effective-tax-rate-170758098.html",
-      "howmet-aerospace-hwm-stock-jim-183343509.html",
-      "ge-aerospace-ge-stock-jim-183308750.html",
-      "bwx-technologies-bwxt-shares-jim-183331553.html",
-      "mvb-financial-touts-ai-efficiency-183336249.html",
       "honeywell-hon-stock-jim-cramer-183426775.html",
       "etf-league-tables-vaneck-sheds-210004776.html",
       "daily-etf-flows-itot-cracks-210005076.html",
@@ -510,9 +505,14 @@
       "da-davidson-maintains-neutral-rating-110601175.html",
       "nuvation-bio-inc-nuvb-eisai-110724788.html",
       "lumen-technologies-lumn-announces-board-110814311.html",
-      "goldman-sachs-upgrades-nokia-nok-110932917.html"
+      "goldman-sachs-upgrades-nokia-nok-110932917.html",
+      "millions-millionaires-don-t-feel-120000676.html",
+      "1-beaten-down-ai-stock-120500157.html",
+      "ARGUS_3294_AnalystReport_1775041593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "spacex-seen-break-test-mega-120228923.html",
+      "goldman-sachs-very-bullish-5-121015162.html"
     ],
-    "last_run": "2026-04-01T11:24:19.688780+00:00",
+    "last_run": "2026-04-01T12:27:22.492868+00:00",
     "seeded": true
   }
 }
