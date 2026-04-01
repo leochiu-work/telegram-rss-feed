@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "silicon-squeeze-ai-pricing-power-221700077.html",
-      "feds-miran-lays-path-shrink-223325601.html",
-      "ny-fed-official-said-central-230624689.html",
-      "lendingclub-bank-review-230320850.html",
-      "trump-playing-markets-fiddle-expert-233131908.html",
       "general-mills-dividend-yields-6-233002748.html",
       "best-buy-bby-climbs-4-025033611.html",
       "occidental-petroleum-oxy-soars-52-024105363.html",
@@ -510,9 +505,14 @@
       "apple-inc-aapl-billionaire-paul-151529152.html",
       "netflix-inc-nflx-billionaire-paul-151615363.html",
       "morgan-stanley-ms-billionaire-paul-151707499.html",
-      "tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threatens-big-tech-operations-144220238.html"
+      "tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threatens-big-tech-operations-144220238.html",
+      "crypto-exchange-bithumb-postpones-ipo-160841467.html",
+      "stevanato-group-stvn-core-business-155656099.html",
+      "10-best-high-yield-savings-accounts-for-april-2026-earn-up-to-410-apy-171334124.html",
+      "best-travel-rewards-credit-card-172745542.html",
+      "where-nu-holdings-stock-10-161000941.html"
     ],
-    "last_run": "2026-04-01T15:34:38.752995+00:00",
+    "last_run": "2026-04-01T16:25:38.735866+00:00",
     "seeded": true
   }
 }
