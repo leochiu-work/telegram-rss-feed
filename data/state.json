@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "iesba-examine-ethical-impact-private-093114828.html",
-      "expect-international-business-machines-q1-103902391.html",
-      "morning-bid-cant-handle-truth-104023586.html",
-      "surgeon-struggle-665k-salary-ramit-120000399.html",
-      "cybersecurity-stocks-slide-following-anthropic-120141853.html",
       "canadas-tariff-frontline-business-stalls-100730047.html",
       "almost-everything-is-going-wrong-for-markets-right-now-100005327.html",
       "magnificent-7-stocks-wipe-more-than-850-billion-in-value-as-stock-market-sell-off-hits-ai-winners-hard-213921360.html",
@@ -510,9 +505,14 @@
       "amplitech-group-price-target-lowered-131040114.html",
       "jacobs-solutions-j-poised-thrive-131625842.html",
       "platinum-international-fund-uber-technologies-131426545.html",
-      "heres-solana-price-prediction-april-130900691.html"
+      "heres-solana-price-prediction-april-130900691.html",
+      "alcoa-stock-surging-iran-war-141019320.html",
+      "while-p-500-struggles-3-140911137.html",
+      "airjoule-technologies-q4-earnings-call-141034377.html",
+      "nvidia-nvda-stock-discount-could-141031241.html",
+      "ocean-majan-secures-financing-scale-141156148.html"
     ],
-    "last_run": "2026-04-01T21:19:29.054900+00:00",
+    "last_run": "2026-04-01T22:15:51.468661+00:00",
     "seeded": true
   }
 }
