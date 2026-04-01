@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "war-iran-sparks-global-fertilizer-022616465.html",
-      "analysts-remain-confident-workday-wday-032906521.html",
-      "analysts-remain-mixed-blackline-bl-032909974.html",
-      "kodiak-sciences-kod-climbs-75-033106683.html",
-      "arlo-technologies-touts-ai-cloud-033321766.html",
       "visionsys-ai-vsa-soars-140-033658184.html",
       "65-1-9-million-401-121500894.html",
       "novartis-buy-u-based-biotech-075003961.html",
@@ -510,9 +505,14 @@
       "alliance-global-keeps-neutral-rating-165604077.html",
       "wm-technology-inc-maps-announces-165612954.html",
       "canaccord-bullish-canopy-growth-corporation-165627084.html",
-      "stock-market-today-nasdaq-leads-sp-500-dow-higher-as-deescalation-talk-in-iran-extends-rally-133208579.html"
+      "stock-market-today-nasdaq-leads-sp-500-dow-higher-as-deescalation-talk-in-iran-extends-rally-133208579.html",
+      "ARGUS_46609_MarketUpdate_1775063149000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "rocket-lab-rklb-rated-buy-084604659.html",
+      "crispr-crsp-rated-overweight-gene-084606764.html",
+      "oklo-inc-oklo-rated-buy-084602204.html",
+      "mcdonald-reshuffles-senior-leadership-support-092717931.html"
     ],
-    "last_run": "2026-04-01T17:23:56.253866+00:00",
+    "last_run": "2026-04-01T18:25:37.534199+00:00",
     "seeded": true
   }
 }
