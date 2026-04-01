@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "discover-rewards-calendar-163005023.html",
-      "apr-personal-loan-175302358.html",
-      "unsecured-loan-205736524.html",
-      "qualify-low-interest-personal-loans-221743658.html",
-      "t-rex-files-leveraged-spacex-222054617.html",
       "silicon-squeeze-ai-pricing-power-221700077.html",
       "feds-miran-lays-path-shrink-223325601.html",
       "ny-fed-official-said-central-230624689.html",
@@ -510,9 +505,14 @@
       "us-manufacturing-sector-grows-march-140114096.html",
       "franklin-templeton-acquire-coinfund-spinoff-140252894.html",
       "stock-market-today-dow-sp-500-nasdaq-climb-as-deescalation-talk-in-iran-extends-rally-133208948.html",
-      "flavour-foodservice-markets-six-takeaways-125511422.html"
+      "flavour-foodservice-markets-six-takeaways-125511422.html",
+      "electronic-arts-inc-ea-billionaire-151430403.html",
+      "apple-inc-aapl-billionaire-paul-151529152.html",
+      "netflix-inc-nflx-billionaire-paul-151615363.html",
+      "morgan-stanley-ms-billionaire-paul-151707499.html",
+      "tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threatens-big-tech-operations-144220238.html"
     ],
-    "last_run": "2026-04-01T14:37:02.544013+00:00",
+    "last_run": "2026-04-01T15:34:38.752995+00:00",
     "seeded": true
   }
 }
