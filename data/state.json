@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "general-mills-dividend-yields-6-233002748.html",
-      "best-buy-bby-climbs-4-025033611.html",
-      "occidental-petroleum-oxy-soars-52-024105363.html",
-      "energy-etfs-pull-billions-oil-022250303.html",
-      "southport-acquisition-conference-angel-studios-023500670.html",
       "war-iran-sparks-global-fertilizer-022616465.html",
       "analysts-remain-confident-workday-wday-032906521.html",
       "analysts-remain-mixed-blackline-bl-032909974.html",
@@ -510,9 +505,14 @@
       "stevanato-group-stvn-core-business-155656099.html",
       "10-best-high-yield-savings-accounts-for-april-2026-earn-up-to-410-apy-171334124.html",
       "best-travel-rewards-credit-card-172745542.html",
-      "where-nu-holdings-stock-10-161000941.html"
+      "where-nu-holdings-stock-10-161000941.html",
+      "tilray-brands-inc-tlry-among-165534392.html",
+      "alliance-global-keeps-neutral-rating-165604077.html",
+      "wm-technology-inc-maps-announces-165612954.html",
+      "canaccord-bullish-canopy-growth-corporation-165627084.html",
+      "stock-market-today-nasdaq-leads-sp-500-dow-higher-as-deescalation-talk-in-iran-extends-rally-133208579.html"
     ],
-    "last_run": "2026-04-01T16:25:38.735866+00:00",
+    "last_run": "2026-04-01T17:23:56.253866+00:00",
     "seeded": true
   }
 }
