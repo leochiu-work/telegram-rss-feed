@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nikkei-falls-1-0-dragged-by-machinery-electronics-stocks-b7676504?siteid=yhoof2&yptr=yahoo",
-      "expect-edwards-lifesciences-next-quarterly-093929492.html",
-      "chinas-pony-ai-more-double-093030410.html",
-      "earnings-preview-expect-otis-worldwides-093350150.html",
-      "tiktoker-claims-hospital-bill-discounted-093000341.html",
       "iesba-examine-ethical-impact-private-093114828.html",
       "expect-international-business-machines-q1-103902391.html",
       "morning-bid-cant-handle-truth-104023586.html",
@@ -510,9 +505,14 @@
       "blackstone-bets-golfer-tommy-fleetwood-120000392.html",
       "core-scientific-corz-shares-slightly-115517062.html",
       "coinbase-coin-stock-slightly-jim-115536802.html",
-      "jpmorgan-aims-boost-small-business-120232610.html"
+      "jpmorgan-aims-boost-small-business-120232610.html",
+      "copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
+      "amplitech-group-price-target-lowered-131040114.html",
+      "jacobs-solutions-j-poised-thrive-131625842.html",
+      "platinum-international-fund-uber-technologies-131426545.html",
+      "heres-solana-price-prediction-april-130900691.html"
     ],
-    "last_run": "2026-04-01T20:18:32.568104+00:00",
+    "last_run": "2026-04-01T21:19:29.054900+00:00",
     "seeded": true
   }
 }
