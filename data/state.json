@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "smith-wesson-brands-swbi-one-215403842.html",
-      "corn-fades-lower-weekend-221000634.html",
-      "cotton-rallies-friday-221001318.html",
-      "wheat-posts-friday-gains-221001796.html",
-      "soybeans-sell-fact-following-rvo-221001853.html",
       "stock-market-today-march-27-223029646.html",
       "best-same-day-emergency-loans-220714166.html",
       "bitcoin-280-000-grant-cardone-231044952.html",
@@ -510,9 +505,14 @@
       "card-spending-at-furniture-department-stores-fall-as-gas-station-sales-surge-bank-of-america-150805244.html",
       "how-many-credit-cards-is-too-many-191232220.html",
       "tech-stocks-today-tesla-stock-falls-as-tech-stocks-rebound-ai-industry-leaks-highlight-cybersecurity-risks-144220928.html",
-      "navigating-triple-squeeze-151556275.html"
+      "navigating-triple-squeeze-151556275.html",
+      "mortgage-rates-rise-for-5th-straight-week-above-6-mortgage-and-refinance-interest-rates-today-100000623.html",
+      "jet-fuel-prices-are-up-100-oil-prices-keep-surging-and-airlines-are-paying-the-price-160448588.html",
+      "canada-logistics-market-heats-dcs-160544204.html",
+      "ubs-message-palantir-investors-160720421.html",
+      "starbucks-offering-baristas-managers-1200-bonuses-in-a-push-to-boost-sales-and-make-customers-happy-161048195.html"
     ],
-    "last_run": "2026-04-02T15:27:14.130876+00:00",
+    "last_run": "2026-04-02T16:25:40.650624+00:00",
     "seeded": true
   }
 }
