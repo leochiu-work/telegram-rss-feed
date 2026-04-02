@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "wix-com-just-got-hit-182153775.html",
-      "cooler-us-weather-forecasts-lift-191725482.html",
-      "google-turboquant-shakes-sandisk-sndk-191709474.html",
-      "homebuying-america-want-just-got-190500827.html",
-      "why-us-stock-market-down-193723673.html",
       "ev-insurance-153443980.html",
       "america-first-credit-union-review-204737529.html",
       "shuffle-board-names-co-ceos-200000884.html",
@@ -510,9 +505,14 @@
       "apples-50-journey-garage-tech-003140629.html",
       "dividend-king-down-26-bounce-233002048.html",
       "insider-trading-prediction-markets-among-232914945.html",
-      "warren-buffett-offers-350b-rescue-231753006.html"
+      "warren-buffett-offers-350b-rescue-231753006.html",
+      "china-expands-digital-yuan-programme-114527858.html",
+      "stock-market-today-dow-sp-500-nasdaq-futures-stumble-after-trump-says-war-with-iran-not-yet-over-224909008.html",
+      "trump-officials-consider-auto-enrolling-120000187.html",
+      "how-to-keep-your-crypto-safe-120000773.html",
+      "moniepoint-buys-kenya-sumac-microfinance-120343002.html"
     ],
-    "last_run": "2026-04-02T11:21:09.587114+00:00",
+    "last_run": "2026-04-02T12:26:47.396757+00:00",
     "seeded": true
   }
 }
