@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "forum-energy-technologies-touts-2026-231047324.html",
-      "campbell-cpb-rallies-5-ahead-041000833.html",
-      "iamgold-iag-shines-4-9-040811813.html",
-      "equinox-eqx-climbs-4-57-040115899.html",
-      "hecla-mining-hl-jumps-4-035819884.html",
       "every-magnificent-seven-stock-down-025000446.html",
       "entergy-etr-rallies-6-8-041828890.html",
       "3-technology-stocks-belong-every-042000060.html",
@@ -510,9 +505,14 @@
       "cheche-group-inc-q4-2025-164334084.html",
       "airsculpt-technologies-inc-q4-2025-164601400.html",
       "acuity-brands-inc-q2-2026-164615971.html",
-      "us-light-vehicle-market-down-165851984.html"
+      "us-light-vehicle-market-down-165851984.html",
+      "ARGUS_2775_AnalystReport_1775148173000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "principal-financial-groups-quarterly-earnings-072134819.html",
+      "heres-expect-cbre-groups-next-074527098.html",
+      "nvidia-investors-just-had-a-surprising-first-quarter-204546936.html",
+      "phreesia-stock-growth-guidance-disappoints-pulling-buy-recommendation-04088533?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-02T17:21:37.606948+00:00",
+    "last_run": "2026-04-02T18:23:55.692100+00:00",
     "seeded": true
   }
 }
