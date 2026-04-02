@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oil-prices-threaten-blow-3tn-080000133.html",
-      "where-cryptocurrency-xrp-10-years-101400601.html",
-      "blackline-inc-bl-expands-board-101751697.html",
-      "sprout-social-spt-beats-q4-101703494.html",
-      "pagerduty-pd-faces-churn-headwinds-101712636.html",
       "accenture-acn-sees-record-bookings-101742797.html",
       "did-fed-chair-jerome-powell-105600878.html",
       "asure-software-asur-delivers-strong-101735112.html",
@@ -510,9 +505,14 @@
       "kbr-kbr-invests-applied-computing-114135106.html",
       "citi-lowers-price-target-sl-114200744.html",
       "jefferies-reiterates-buy-home-depot-114223067.html",
-      "could-buying-meta-platforms-stock-115000100.html"
+      "could-buying-meta-platforms-stock-115000100.html",
+      "sba-communications-sbac-earnings-call-130143159.html",
+      "strategy-holds-strc-dividend-payment-130300178.html",
+      "intel-buy-back-apollo-stake-130343809.html",
+      "bitgo-launches-crypto-financing-institutions-130400583.html",
+      "fleetcor-technologies-q4-earnings-call-130649987.html"
     ],
-    "last_run": "2026-04-02T20:14:49.780329+00:00",
+    "last_run": "2026-04-02T21:15:32.414975+00:00",
     "seeded": true
   }
 }
