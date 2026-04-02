@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "unity-software-u-soars-13-043433039.html",
-      "jack-henry-jkhy-financial-crimes-071803439.html",
-      "cboe-global-nasdaq-cboe-introduces-071757432.html",
-      "texas-capital-initiates-globe-life-071802873.html",
-      "total-wireless-launch-device-protection-071807376.html",
       "oil-prices-threaten-blow-3tn-080000133.html",
       "where-cryptocurrency-xrp-10-years-101400601.html",
       "blackline-inc-bl-expands-board-101751697.html",
@@ -510,9 +505,14 @@
       "earnings-preview-expect-prologis-report-091303295.html",
       "suze-orman-says-best-way-093000991.html",
       "chinese-chipmakers-claim-nearly-half-091441757.html",
-      "why-microsoft-growth-isn-t-092140945.html"
+      "why-microsoft-growth-isn-t-092140945.html",
+      "oppenheimer-initiates-coverage-figma-fig-114105424.html",
+      "kbr-kbr-invests-applied-computing-114135106.html",
+      "citi-lowers-price-target-sl-114200744.html",
+      "jefferies-reiterates-buy-home-depot-114223067.html",
+      "could-buying-meta-platforms-stock-115000100.html"
     ],
-    "last_run": "2026-04-02T19:24:58.135251+00:00",
+    "last_run": "2026-04-02T20:14:49.780329+00:00",
     "seeded": true
   }
 }
