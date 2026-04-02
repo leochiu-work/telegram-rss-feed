@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "teradyne-ter-stock-significantly-jim-135243347.html",
-      "deere-shares-jim-cramer-said-134912513.html",
-      "spectrum-shifts-gears-customers-desert-143700921.html",
-      "ARGUS_2862_AnalystReport_1774609122000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "retired-florida-couple-fear-losing-143000642.html",
       "saudi-pipeline-bypass-hormuz-hits-141020239.html",
       "rosenblatt-reiterates-palantir-pltr-rating-151850792.html",
       "retail-giant-trading-half-price-153500130.html",
@@ -510,9 +505,14 @@
       "calculate-home-equity-055505667.html",
       "european-banks-approach-end-of-three-year-bull-run-55895987?siteid=yhoof2&yptr=yahoo",
       "rotate-your-european-portfolio-to-prepare-for-stagflation-risk-goldman-sachs-says-125522124.html",
-      "why-p-global-inc-spgi-125720299.html"
+      "why-p-global-inc-spgi-125720299.html",
+      "everyone-gen-z-saving-less-140044974.html",
+      "netflix-just-admitted-needs-more-140003570.html",
+      "boycott-brewing-against-target-hurt-140003151.html",
+      "l3harris-technologies-quarterly-earnings-preview-140323333.html",
+      "nvidia-marvell-deal-3-reasons-140248226.html"
     ],
-    "last_run": "2026-04-02T00:38:43.645808+00:00",
+    "last_run": "2026-04-02T01:39:26.166971+00:00",
     "seeded": true
   }
 }
