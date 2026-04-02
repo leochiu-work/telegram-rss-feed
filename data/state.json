@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "blue-owl-private-credit-fund-164700152.html",
-      "oracle-orcl-backlog-drives-bull-151844148.html",
-      "analysts-saying-applovin-corporation-app-151847197.html",
-      "did-investors-too-far-ahead-173500698.html",
-      "lxp-industrial-trust-buy-sell-173633841.html",
       "robosense-crosses-profitability-robotics-demand-174638418.html",
       "married-couple-retire-social-security-182000304.html",
       "ARGUS_46561_MarketSummary_1774608222000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -510,9 +505,14 @@
       "is-gold-ira-good-investment-165004455.html",
       "hiring-fell-lockdown-levels-ahead-164913489.html",
       "soybeans-rallying-acres-seen-lower-164917509.html",
-      "corn-bouncing-following-positive-stocks-164917571.html"
+      "corn-bouncing-following-positive-stocks-164917571.html",
+      "tesla-tesla-spacex-plan-build-173759944.html",
+      "meta-meta-ceo-mark-zuckerberg-173809972.html",
+      "micron-technology-inc-mu-shares-173825036.html",
+      "palantir-technologies-inc-pltr-among-173901414.html",
+      "ai-startup-upstage-talks-purchase-173924600.html"
     ],
-    "last_run": "2026-04-02T04:49:19.010130+00:00",
+    "last_run": "2026-04-02T05:36:41.618751+00:00",
     "seeded": true
   }
 }
