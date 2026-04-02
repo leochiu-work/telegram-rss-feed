@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ev-insurance-153443980.html",
-      "america-first-credit-union-review-204737529.html",
-      "shuffle-board-names-co-ceos-200000884.html",
-      "bernstein-says-qualcomm-isn-t-201045953.html",
-      "why-paying-off-mortgage-early-200626850.html",
       "the-dow-closes-in-correction-the-s-p-500-isn-t-far-off--9ccxQZSIz8s99WDD67Sk?siteid=yhoof2&yptr=yahoo",
       "canaccord-genuity-maintains-buy-newell-212618839.html",
       "peloton-interactive-pton-appoints-sarah-212248352.html",
@@ -510,9 +505,14 @@
       "stock-market-today-dow-sp-500-nasdaq-futures-stumble-after-trump-says-war-with-iran-not-yet-over-224909008.html",
       "trump-officials-consider-auto-enrolling-120000187.html",
       "how-to-keep-your-crypto-safe-120000773.html",
-      "moniepoint-buys-kenya-sumac-microfinance-120343002.html"
+      "moniepoint-buys-kenya-sumac-microfinance-120343002.html",
+      "rocket-companies-rkt-upgraded-improving-131837080.html",
+      "why-timessquare-capital-u-small-131926739.html",
+      "bank-america-securities-maintains-buy-132143944.html",
+      "tesla-q1-deliveries-miss-estimates-in-challenging-ev-landscape-123741547.html",
+      "irs-warns-ghost-tax-preparers-132338395.html"
     ],
-    "last_run": "2026-04-02T12:26:47.396757+00:00",
+    "last_run": "2026-04-02T13:36:31.521076+00:00",
     "seeded": true
   }
 }
