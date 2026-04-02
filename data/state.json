@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "2-energy-stocks-buy-oil-130700307.html",
-      "intuitive-surgical-isrg-stock-jim-134920256.html",
-      "tesla-tsla-shares-jim-cramer-134928306.html",
-      "nvidia-nvda-shares-higher-jim-134935341.html",
-      "3-social-security-filing-myths-135200883.html",
       "teradyne-ter-stock-significantly-jim-135243347.html",
       "deere-shares-jim-cramer-said-134912513.html",
       "spectrum-shifts-gears-customers-desert-143700921.html",
@@ -510,9 +505,14 @@
       "53-2026-does-century-aluminum-152328004.html",
       "esab-corp-esab-apeears-well-071852185.html",
       "why-m-staying-cautious-nvidia-152153084.html",
-      "republic-services-quarterly-earnings-preview-152039224.html"
+      "republic-services-quarterly-earnings-preview-152039224.html",
+      "qualify-debt-consolidation-loan-221839444.html",
+      "calculate-home-equity-055505667.html",
+      "european-banks-approach-end-of-three-year-bull-run-55895987?siteid=yhoof2&yptr=yahoo",
+      "rotate-your-european-portfolio-to-prepare-for-stagflation-risk-goldman-sachs-says-125522124.html",
+      "why-p-global-inc-spgi-125720299.html"
     ],
-    "last_run": "2026-04-01T23:16:28.823065+00:00",
+    "last_run": "2026-04-02T00:38:43.645808+00:00",
     "seeded": true
   }
 }
