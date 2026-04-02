@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "the-dow-closes-in-correction-the-s-p-500-isn-t-far-off--9ccxQZSIz8s99WDD67Sk?siteid=yhoof2&yptr=yahoo",
-      "canaccord-genuity-maintains-buy-newell-212618839.html",
-      "peloton-interactive-pton-appoints-sarah-212248352.html",
-      "bmo-capital-reiterates-buy-b2gold-212153989.html",
-      "blackberry-bb-qnx-upgrades-online-212434504.html",
       "why-altria-stock-closed-today-212431990.html",
       "cytomx-therapeutics-ctmx-gains-analyst-215137718.html",
       "mannkind-corporation-mnkd-one-popular-215233914.html",
@@ -510,9 +505,14 @@
       "why-timessquare-capital-u-small-131926739.html",
       "bank-america-securities-maintains-buy-132143944.html",
       "tesla-q1-deliveries-miss-estimates-in-challenging-ev-landscape-123741547.html",
-      "irs-warns-ghost-tax-preparers-132338395.html"
+      "irs-warns-ghost-tax-preparers-132338395.html",
+      "william-blair-downgrades-adobe-adbe-141220129.html",
+      "morgan-stanley-defends-memory-stocks-141309232.html",
+      "trumps-fresh-iran-threats-investors-064515350.html",
+      "wall-street-upgrades-cheniere-energy-142035153.html",
+      "logan-sketches-path-shrink-size-141736169.html"
     ],
-    "last_run": "2026-04-02T13:36:31.521076+00:00",
+    "last_run": "2026-04-02T14:32:15.485450+00:00",
     "seeded": true
   }
 }
