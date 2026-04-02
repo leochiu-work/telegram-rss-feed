@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "stock-market-today-march-27-223029646.html",
-      "best-same-day-emergency-loans-220714166.html",
-      "bitcoin-280-000-grant-cardone-231044952.html",
-      "only-1-top-2-reits-230002470.html",
-      "stock-market-today-sp-500-clinches-longest-losing-streak-since-2022-as-oil-surges-magnificent-7-stocks-shed-300-billion-200142689.html",
       "forum-energy-technologies-touts-2026-231047324.html",
       "campbell-cpb-rallies-5-ahead-041000833.html",
       "iamgold-iag-shines-4-9-040811813.html",
@@ -510,9 +505,14 @@
       "jet-fuel-prices-are-up-100-oil-prices-keep-surging-and-airlines-are-paying-the-price-160448588.html",
       "canada-logistics-market-heats-dcs-160544204.html",
       "ubs-message-palantir-investors-160720421.html",
-      "starbucks-offering-baristas-managers-1200-bonuses-in-a-push-to-boost-sales-and-make-customers-happy-161048195.html"
+      "starbucks-offering-baristas-managers-1200-bonuses-in-a-push-to-boost-sales-and-make-customers-happy-161048195.html",
+      "xrp-price-xrp-just-posted-165231269.html",
+      "cheche-group-inc-q4-2025-164334084.html",
+      "airsculpt-technologies-inc-q4-2025-164601400.html",
+      "acuity-brands-inc-q2-2026-164615971.html",
+      "us-light-vehicle-market-down-165851984.html"
     ],
-    "last_run": "2026-04-02T16:25:40.650624+00:00",
+    "last_run": "2026-04-02T17:21:37.606948+00:00",
     "seeded": true
   }
 }
