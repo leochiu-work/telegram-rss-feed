@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "44-old-nurse-paid-off-104900916.html",
-      "irs-issues-tax-refund-average-112500745.html",
-      "eqt-corporation-price-target-raised-114221048.html",
-      "credit-card-could-costing-3-113000170.html",
-      "ex-opened-credit-card-using-113000197.html",
       "social-security-6-years-away-113424640.html",
       "five9-presidents-share-sale-half-122505819.html",
       "does-google-turboquant-compressor-really-130002603.html",
@@ -510,9 +505,14 @@
       "down-37-2026-dan-ives-143002849.html",
       "virgin-galactic-just-released-750-143112315.html",
       "oil-price-predictions-surge-200-143222139.html",
-      "despite-delays-exxonmobil-timed-lng-143500136.html"
+      "despite-delays-exxonmobil-timed-lng-143500136.html",
+      "spacex-registers-rocket-maker-public-152655158.html",
+      "crude-oil-prices-tumble-hopes-154409917.html",
+      "makes-prosperity-bancshares-pb-good-154315881.html",
+      "2-billion-reason-buy-marvell-153907821.html",
+      "nvidia-vs-broadcom-ai-stock-154211167.html"
     ],
-    "last_run": "2026-04-02T22:14:16.307504+00:00",
+    "last_run": "2026-04-02T23:14:10.011182+00:00",
     "seeded": true
   }
 }
