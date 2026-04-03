@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "leidos-holdings-ldos-partners-cloud-200014014.html",
-      "why-ubs-started-jasper-therapeutics-205045376.html",
-      "1-unstoppable-quantum-computing-stock-205100042.html",
-      "why-vertical-aerospace-evtl-expanding-205237302.html",
-      "datavault-ai-dvlt-reached-first-205332667.html",
       "why-rocket-pharmaceuticals-rckt-got-205429646.html",
       "why-agilon-health-agl-doing-204823913.html",
       "why-rezolve-ai-rzlv-betting-204942465.html",
@@ -510,9 +505,14 @@
       "william-blair-weary-avepoint-avpt-192346106.html",
       "samsara-stock-flashing-bullish-options-192202715.html",
       "vinfast-auto-vfs-ramps-production-192201660.html",
-      "nike-stock-just-plummeted-more-192208764.html"
+      "nike-stock-just-plummeted-more-192208764.html",
+      "totalenergies-dominating-amidst-iran-war-205234797.html",
+      "norfolk-southern-inks-atlanta-transload-203821363.html",
+      "bit-digital-inc-q4-2025-203924495.html",
+      "gold-200-day-bounce-reversal-204937446.html",
+      "unitedhealth-stock-lost-nearly-half-204844636.html"
     ],
-    "last_run": "2026-04-03T07:32:45.308665+00:00",
+    "last_run": "2026-04-03T08:23:50.767882+00:00",
     "seeded": true
   }
 }
