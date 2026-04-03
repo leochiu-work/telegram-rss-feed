@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "northwestern-mutual-found-80-gen-210255006.html",
-      "ades-posts-modest-profit-growth-081500820.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html",
-      "changan-launches-vehicle-production-brazil-092416124.html",
-      "former-financial-advisor-admits-years-091500288.html",
       "byd-reports-drop-earnings-2025-092609022.html",
       "ai-doomsday-everyone-worried-wrong-120000919.html",
       "copy-best-high-yield-savings-interest-rates-today-monday-march-30-2026-100000029.html",
@@ -510,9 +505,14 @@
       "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
       "sofi-vs-ally-213127255.html",
       "sofi-vs-td-bank-173415811.html",
-      "upstart-stock-millionaire-maker-165000605.html"
+      "upstart-stock-millionaire-maker-165000605.html",
+      "ask-advisor-advisor-sold-nvidia-120000769.html",
+      "states-stockpiling-gold-hedge-against-090000300.html",
+      "proposed-roth-ira-rollover-legislation-130000101.html",
+      "why-sky-high-oil-prices-havent-shaken-wall-streets-confidence-in-delta-stock-183930241.html",
+      "gold-silver-fall-as-investors-doubt-trump-s-exit-plan-dWf10hxhjezvIpELb7nf?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-03T17:14:55.664654+00:00",
+    "last_run": "2026-04-03T18:17:57.725648+00:00",
     "seeded": true
   }
 }
