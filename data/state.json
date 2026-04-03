@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "asx-small-ordinaries-slip-companies-225300898.html",
-      "ambarella-amba-stock-down-since-134649570.html",
-      "soundhound-ai-soun-stock-down-134616372.html",
-      "why-jdiv-riskier-normal-dividend-135704458.html",
-      "dividend-resilience-why-kings-safe-135600950.html",
       "etf-gives-oil-upside-minus-135612095.html",
       "taiwan-semiconductor-tsm-going-strong-151840195.html",
       "analysts-nudge-nvidia-nvda-price-151838495.html",
@@ -510,9 +505,14 @@
       "best-credit-cards-for-gas-234013440.html",
       "best-money-market-accounts-rates-160154089.html",
       "best-free-checking-accounts-195709452.html",
-      "apple-savings-account-185858446.html"
+      "apple-savings-account-185858446.html",
+      "home-flipping-profits-havent-bad-234819173.html",
+      "openai-falling-favor-secondary-buyers-230920764.html",
+      "best-va-loan-lenders-182919054.html",
+      "dividend-stock-steady-amid-iran-233002387.html",
+      "why-altria-stock-sagged-wednesday-230717209.html"
     ],
-    "last_run": "2026-04-03T10:19:02.579671+00:00",
+    "last_run": "2026-04-03T11:19:22.087952+00:00",
     "seeded": true
   }
 }
