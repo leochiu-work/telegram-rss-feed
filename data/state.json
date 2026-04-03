@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "wall-street-touts-grind-lower-140002340.html",
-      "one-etf-rule-them-164100122.html",
-      "meta-platforms-just-cut-jobs-153002282.html",
-      "berkshire-hathaway-stock-price-losing-streak-buy-c67a501f?siteid=yhoof2&yptr=yahoo",
-      "philippines-declares-iran-war-poses-164500501.html",
       "artificial-intelligence-ai-portfolio-probably-165000266.html",
       "analysts-remain-bullish-sailpoint-sail-173756699.html",
       "parsons-psn-announces-expansion-inet-173757014.html",
@@ -510,9 +505,14 @@
       "commodity-roundup-march-top-performers-150039399.html",
       "concerns-over-regulatory-challenges-affecting-145834255.html",
       "wall-street-turns-tactical-constellation-145652500.html",
-      "artisan-mid-cap-value-fund-145616357.html"
+      "artisan-mid-cap-value-fund-145616357.html",
+      "congress-may-finally-ban-own-165349514.html",
+      "analysts-microsoft-msft-164434631.html",
+      "bullish-analyst-sentiment-amid-nvidia-164435881.html",
+      "jpmorgan-downgrades-neutral-overweight-scotts-165511314.html",
+      "underrated-artificial-intelligence-ai-infrastructure-165000883.html"
     ],
-    "last_run": "2026-04-03T03:10:19.305413+00:00",
+    "last_run": "2026-04-03T04:50:36.023277+00:00",
     "seeded": true
   }
 }
