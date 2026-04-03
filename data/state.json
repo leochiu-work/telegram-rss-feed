@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "sap-acquire-reltio-boost-master-101726552.html",
-      "novo-nordisk-nvo-shares-since-110721816.html",
-      "merck-mrk-shares-significantly-since-110730217.html",
-      "jabil-jbl-shares-significantly-since-110738869.html",
-      "gold-price-today-monday-march-30-gold-holds-strong-opening-above-4500-111116970.html",
       "oil-prices-surge-houthi-attacks-111508081.html",
       "freight-bankruptcies-mount-march-trucking-120000643.html",
       "how-to-invest-in-silver-for-beginners-120000199.html",
@@ -510,9 +505,14 @@
       "u-k-businesses-anticipated-slight-pickup-in-price-rises-boe-survey-finds-64e437d0?siteid=yhoof2&yptr=yahoo",
       "bill-ackman-says-high-quality-093000907.html",
       "just-ridiculous-unpaid-5-cent-093000953.html",
-      "p-500-just-triggered-alarm-092600090.html"
+      "p-500-just-triggered-alarm-092600090.html",
+      "morning-bid-no-easter-truce-105235815.html",
+      "phillips-66s-q1-2026-earnings-101509545.html",
+      "heres-expect-lyondellbasells-next-earnings-101736683.html",
+      "stocks-tumble-open-oil-prices-103637246.html",
+      "sharpton-cites-bnpl-racial-disparities-102402567.html"
     ],
-    "last_run": "2026-04-03T19:19:18.025702+00:00",
+    "last_run": "2026-04-03T20:13:22.983726+00:00",
     "seeded": true
   }
 }
