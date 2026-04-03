@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "byd-reports-drop-earnings-2025-092609022.html",
-      "ai-doomsday-everyone-worried-wrong-120000919.html",
-      "copy-best-high-yield-savings-interest-rates-today-monday-march-30-2026-100000029.html",
-      "copy-best-cd-rates-today-monday-march-30-2026-100000258.html",
-      "copy-mortgage-refinance-rates-today-monday-march-30-2026-100000304.html",
       "sap-acquire-reltio-boost-master-101726552.html",
       "novo-nordisk-nvo-shares-since-110721816.html",
       "merck-mrk-shares-significantly-since-110730217.html",
@@ -510,9 +505,14 @@
       "states-stockpiling-gold-hedge-against-090000300.html",
       "proposed-roth-ira-rollover-legislation-130000101.html",
       "why-sky-high-oil-prices-havent-shaken-wall-streets-confidence-in-delta-stock-183930241.html",
-      "gold-silver-fall-as-investors-doubt-trump-s-exit-plan-dWf10hxhjezvIpELb7nf?siteid=yhoof2&yptr=yahoo"
+      "gold-silver-fall-as-investors-doubt-trump-s-exit-plan-dWf10hxhjezvIpELb7nf?siteid=yhoof2&yptr=yahoo",
+      "5-defense-stocks-rebuilding-military-100000298.html",
+      "u-k-businesses-anticipated-slight-pickup-in-price-rises-boe-survey-finds-64e437d0?siteid=yhoof2&yptr=yahoo",
+      "bill-ackman-says-high-quality-093000907.html",
+      "just-ridiculous-unpaid-5-cent-093000953.html",
+      "p-500-just-triggered-alarm-092600090.html"
     ],
-    "last_run": "2026-04-03T18:17:57.725648+00:00",
+    "last_run": "2026-04-03T19:19:18.025702+00:00",
     "seeded": true
   }
 }
