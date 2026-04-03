@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "gas-prices-nearing-psychological-wall-123000488.html",
-      "vanguard-etf-33-ytd-still-143937817.html",
-      "symbotic-sym-share-price-performance-134855804.html",
-      "rockwell-automation-rok-since-jim-134904787.html",
-      "delony-tells-houston-caller-secret-144517625.html",
       "u-enter-recession-2026-heres-145000541.html",
       "uipath-path-stock-down-since-134831052.html",
       "heres-expect-gold-silver-mining-153500892.html",
@@ -510,9 +505,14 @@
       "rising-mortgage-rates-affordability-present-123453080.html",
       "soybeans-starting-april-weakness-123149703.html",
       "corn-falling-back-wednesday-123149503.html",
-      "brown-brown-bro-fell-slow-123139896.html"
+      "brown-brown-bro-fell-slow-123139896.html",
+      "openai-just-raised-a-historic-amount-of-money-here-are-2-stunning-numbers-you-shouldnt-forget-133202041.html",
+      "uber-holds-5-82-stake-133002718.html",
+      "super-micro-computer-stock-bounces-132651499.html",
+      "tiktok-targets-brazilian-market-dual-132641785.html",
+      "kia-sell-lower-priced-electric-132608783.html"
     ],
-    "last_run": "2026-04-03T00:41:30.230966+00:00",
+    "last_run": "2026-04-03T01:39:08.357689+00:00",
     "seeded": true
   }
 }
