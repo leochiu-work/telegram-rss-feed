@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
-      "analysts-remain-bullish-pattern-group-173753066.html",
-      "goldman-sachs-raises-pt-navan-173754476.html",
-      "niq-global-intelligence-niq-launches-173751360.html",
-      "im-watching-brookfield-see-beat-183500355.html",
       "micron-just-had-worst-week-185000992.html",
       "dlocal-limited-dlo-one-most-195653659.html",
       "surging-oil-the-march-jobs-report-and-anxious-consumers-what-to-watch-this-week-113601445.html",
@@ -510,9 +505,14 @@
       "intel-unusual-put-option-volume-173002443.html",
       "happens-p-500-joins-nasdaq-173500867.html",
       "doing-eld-data-174309534.html",
-      "down-71-peak-nike-still-174238687.html"
+      "down-71-peak-nike-still-174238687.html",
+      "subaru-secures-y100bn-credit-line-182743743.html",
+      "nike-china-margin-problem-time-183047273.html",
+      "traders-ramp-bearish-oil-bets-183000694.html",
+      "crude-oil-weakness-pressures-sugar-182850294.html",
+      "gold-edges-higher-on-signs-of-de-escalating-middle-east-tensions-8ced6505?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-03T05:36:43.613932+00:00",
+    "last_run": "2026-04-03T06:32:58.577981+00:00",
     "seeded": true
   }
 }
