@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "etf-gives-oil-upside-minus-135612095.html",
-      "taiwan-semiconductor-tsm-going-strong-151840195.html",
-      "analysts-nudge-nvidia-nvda-price-151838495.html",
-      "fox-tungsten-secures-11m-fox-150004517.html",
-      "lazard-laz-insider-sold-11-141637665.html",
       "dip-buyers-arrive-pull-gold-090052564.html",
       "rising-gas-prices-could-be-good-news-for-evs-151643093.html",
       "streaming-wars-1-netflix-rival-160500423.html",
@@ -510,9 +505,14 @@
       "openai-falling-favor-secondary-buyers-230920764.html",
       "best-va-loan-lenders-182919054.html",
       "dividend-stock-steady-amid-iran-233002387.html",
-      "why-altria-stock-sagged-wednesday-230717209.html"
+      "why-altria-stock-sagged-wednesday-230717209.html",
+      "msc-industrial-direct-co-inc-002200561.html",
+      "rh-q4-2025-earnings-call-001817593.html",
+      "american-shared-hospital-services-q4-001212873.html",
+      "best-heloc-lenders-223619700.html",
+      "best-mortgage-lenders-173044403.html"
     ],
-    "last_run": "2026-04-03T11:19:22.087952+00:00",
+    "last_run": "2026-04-03T12:20:26.684563+00:00",
     "seeded": true
   }
 }
