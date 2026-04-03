@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "social-security-6-years-away-113424640.html",
-      "five9-presidents-share-sale-half-122505819.html",
-      "does-google-turboquant-compressor-really-130002603.html",
-      "better-industrial-reit-stag-industrial-122500384.html",
-      "trump-pays-attention-to-the-stock-market-wall-street-eyes-signs-of-taco-amid-iran-war-140048438.html",
       "gas-prices-nearing-psychological-wall-123000488.html",
       "vanguard-etf-33-ytd-still-143937817.html",
       "symbotic-sym-share-price-performance-134855804.html",
@@ -510,9 +505,14 @@
       "crude-oil-prices-tumble-hopes-154409917.html",
       "makes-prosperity-bancshares-pb-good-154315881.html",
       "2-billion-reason-buy-marvell-153907821.html",
-      "nvidia-vs-broadcom-ai-stock-154211167.html"
+      "nvidia-vs-broadcom-ai-stock-154211167.html",
+      "mortgage-refinance-interest-rates-today-wednesday-april-1-2026-100000434.html",
+      "rising-mortgage-rates-affordability-present-123453080.html",
+      "soybeans-starting-april-weakness-123149703.html",
+      "corn-falling-back-wednesday-123149503.html",
+      "brown-brown-bro-fell-slow-123139896.html"
     ],
-    "last_run": "2026-04-02T23:14:10.011182+00:00",
+    "last_run": "2026-04-03T00:41:30.230966+00:00",
     "seeded": true
   }
 }
