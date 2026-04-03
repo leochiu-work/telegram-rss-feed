@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "jefferies-bullish-coca-cola-company-205155333.html",
-      "jim-cramer-medtronic-mdt-think-210424975.html",
-      "unitedhealth-group-unh-launches-ai-210007765.html",
-      "tightening-credit-conditions-evolving-regulatory-205857075.html",
-      "evercore-bullish-union-pacific-unp-205711509.html",
       "retiring-next-set-monthly-income-191500008.html",
       "jim-cramer-lemonade-inc-lmnd-210737732.html",
       "jim-cramer-says-kind-environment-210627352.html",
@@ -510,9 +505,14 @@
       "ethereum-foundation-reaches-target-70-133900289.html",
       "openai-buys-tech-news-show-tbpn-in-ai-giants-biggest-media-push-yet-175749747.html",
       "blue-owl-falls-capping-withdrawals-140054682.html",
-      "march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html"
+      "march-jobs-report-us-economy-adds-178000-jobs-unemployment-rate-falls-to-43-in-surprise-turnaround-190000531.html",
+      "safety-net-becomes-risk-135935273.html",
+      "plug-power-secures-largest-electrolyzer-150035301.html",
+      "wheres-my-tax-refund-4-reasons-your-refund-might-be-delayed-223701586.html",
+      "braclays-points-capex-concerns-tesla-151845903.html",
+      "bitcoin-xrp-climb-good-friday-150246460.html"
     ],
-    "last_run": "2026-04-03T14:20:46.374941+00:00",
+    "last_run": "2026-04-03T15:19:58.823470+00:00",
     "seeded": true
   }
 }
