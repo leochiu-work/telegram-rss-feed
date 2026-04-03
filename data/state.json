@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dip-buyers-arrive-pull-gold-090052564.html",
-      "rising-gas-prices-could-be-good-news-for-evs-151643093.html",
-      "streaming-wars-1-netflix-rival-160500423.html",
-      "leaked-meta-memo-reveals-company-160300827.html",
-      "workers-everywhere-feel-very-bad-about-their-job-security-160224025.html",
       "state-streets-sptm-better-u-160205864.html",
       "merck-co-mrk-acquire-terns-205555495.html",
       "jefferies-bullish-home-depot-hd-205452289.html",
@@ -510,9 +505,14 @@
       "rh-q4-2025-earnings-call-001817593.html",
       "american-shared-hospital-services-q4-001212873.html",
       "best-heloc-lenders-223619700.html",
-      "best-mortgage-lenders-173044403.html"
+      "best-mortgage-lenders-173044403.html",
+      "honeywell-partners-rhombus-launch-ai-012658371.html",
+      "deutsche-bank-highlights-inflation-currency-013044337.html",
+      "royalty-pharma-johnson-johnson-strike-013222604.html",
+      "truist-cautious-corning-glw-despite-012849072.html",
+      "oil-prices-soar-50-in-march-from-iran-conflict-G9x6cRUeuzLayIHNh3UW?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-03T12:20:26.684563+00:00",
+    "last_run": "2026-04-03T13:32:52.637360+00:00",
     "seeded": true
   }
 }
