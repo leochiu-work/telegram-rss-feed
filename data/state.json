@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "u-enter-recession-2026-heres-145000541.html",
-      "uipath-path-stock-down-since-134831052.html",
-      "heres-expect-gold-silver-mining-153500892.html",
-      "microns-hbm4-now-mass-production-155000477.html",
-      "meta-and-google-lost-a-major-social-media-addiction-lawsuit-their-troubles-are-far-from-over-130000496.html",
       "wall-street-touts-grind-lower-140002340.html",
       "one-etf-rule-them-164100122.html",
       "meta-platforms-just-cut-jobs-153002282.html",
@@ -510,9 +505,14 @@
       "uber-holds-5-82-stake-133002718.html",
       "super-micro-computer-stock-bounces-132651499.html",
       "tiktok-targets-brazilian-market-dual-132641785.html",
-      "kia-sell-lower-priced-electric-132608783.html"
+      "kia-sell-lower-priced-electric-132608783.html",
+      "artisan-mid-cap-value-fund-150052635.html",
+      "commodity-roundup-march-top-performers-150039399.html",
+      "concerns-over-regulatory-challenges-affecting-145834255.html",
+      "wall-street-turns-tactical-constellation-145652500.html",
+      "artisan-mid-cap-value-fund-145616357.html"
     ],
-    "last_run": "2026-04-03T01:39:08.357689+00:00",
+    "last_run": "2026-04-03T03:10:19.305413+00:00",
     "seeded": true
   }
 }
