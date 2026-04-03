@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "oil-prices-surge-houthi-attacks-111508081.html",
-      "freight-bankruptcies-mount-march-trucking-120000643.html",
-      "how-to-invest-in-silver-for-beginners-120000199.html",
-      "bitcoin-and-ethereum-price-today-monday-march-30-2026-values-moving-up-after-lower-weekend-prices-120045377.html",
-      "1-dividend-stock-hold-next-120500488.html",
       "caterpillar-inc-cat-good-stock-120621026.html",
       "2-magnificent-7-stocks-see-stunning-plunges-130430799.html",
       "coca-cola-femsa-kof-best-131145079.html",
@@ -510,9 +505,14 @@
       "phillips-66s-q1-2026-earnings-101509545.html",
       "heres-expect-lyondellbasells-next-earnings-101736683.html",
       "stocks-tumble-open-oil-prices-103637246.html",
-      "sharpton-cites-bnpl-racial-disparities-102402567.html"
+      "sharpton-cites-bnpl-racial-disparities-102402567.html",
+      "baidu-bidu-raises-ai-cloud-134523328.html",
+      "morgan-stanley-upgrades-banco-santander-134247317.html",
+      "bmo-capital-maintains-hold-rating-134032033.html",
+      "abivax-sa-abvx-surged-58-134508828.html",
+      "lemonade-lmnd-upgraded-tesla-insurance-134750435.html"
     ],
-    "last_run": "2026-04-03T20:13:22.983726+00:00",
+    "last_run": "2026-04-03T21:13:29.235709+00:00",
     "seeded": true
   }
 }
