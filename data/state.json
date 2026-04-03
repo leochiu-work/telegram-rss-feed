@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "artificial-intelligence-ai-portfolio-probably-165000266.html",
-      "analysts-remain-bullish-sailpoint-sail-173756699.html",
-      "parsons-psn-announces-expansion-inet-173757014.html",
-      "strong-analyst-sentiment-nice-nice-173759502.html",
-      "much-higher-digitalocean-stock-175000792.html",
       "a-bold-2011-market-call-is-echoed-in-2026-180220110.html",
       "analysts-remain-bullish-pattern-group-173753066.html",
       "goldman-sachs-raises-pt-navan-173754476.html",
@@ -510,9 +505,14 @@
       "analysts-microsoft-msft-164434631.html",
       "bullish-analyst-sentiment-amid-nvidia-164435881.html",
       "jpmorgan-downgrades-neutral-overweight-scotts-165511314.html",
-      "underrated-artificial-intelligence-ai-infrastructure-165000883.html"
+      "underrated-artificial-intelligence-ai-infrastructure-165000883.html",
+      "why-oppenheimer-betting-monolithic-power-173000924.html",
+      "intel-unusual-put-option-volume-173002443.html",
+      "happens-p-500-joins-nasdaq-173500867.html",
+      "doing-eld-data-174309534.html",
+      "down-71-peak-nike-still-174238687.html"
     ],
-    "last_run": "2026-04-03T04:50:36.023277+00:00",
+    "last_run": "2026-04-03T05:36:43.613932+00:00",
     "seeded": true
   }
 }
