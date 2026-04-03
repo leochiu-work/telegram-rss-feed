@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "why-gen-x-faces-retirement-200000874.html",
-      "5-biggest-surprises-gmac-prospective-000854341.html",
-      "drillers-see-triple-digit-crude-230000518.html",
-      "many-workers-surprised-more-value-210000932.html",
-      "transalta-investor-day-ceo-transition-210207523.html",
       "northwestern-mutual-found-80-gen-210255006.html",
       "ades-posts-modest-profit-growth-081500820.html",
       "stock-market-today-dow-sp-500-nasdaq-futures-rise-entering-shortened-week-featuring-jobs-data-war-uncertainty-230645645.html",
@@ -510,9 +505,14 @@
       "amazon-com-inc-amzn-advances-154620326.html",
       "asml-holding-n-v-asml-154636546.html",
       "does-the-irs-owe-you-a-pandemic-tax-refund-heres-whats-happening-203224738.html",
-      "gdx-vs-slvp-gold-silver-155130685.html"
+      "gdx-vs-slvp-gold-silver-155130685.html",
+      "stock-market-open-closed-today-hours-good-friday-easter-monday-banks-usps-fedex-ups-9bcffa79?siteid=yhoof2&yptr=yahoo",
+      "tax-refund-delays-hit-a-handful-of-states-is-yours-one-of-them-205225491.html",
+      "sofi-vs-ally-213127255.html",
+      "sofi-vs-td-bank-173415811.html",
+      "upstart-stock-millionaire-maker-165000605.html"
     ],
-    "last_run": "2026-04-03T16:16:04.881356+00:00",
+    "last_run": "2026-04-03T17:14:55.664654+00:00",
     "seeded": true
   }
 }
