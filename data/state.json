@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "canaccord-maintains-hold-joby-joby-084608632.html",
-      "analysts-reaffirm-buy-rivian-rivn-084609921.html",
-      "ferrari-race-stock-rated-outperform-084611588.html",
-      "rigetti-rgti-rated-buy-quantum-084612547.html",
-      "discount-retailer-poundstretcher-weighing-store-091511423.html",
       "analysts-sentiment-trx-gold-trx-100611703.html",
       "analysts-remain-bullish-vox-royalty-100613480.html",
       "analysts-bullish-gold-royalty-groy-100609328.html",
@@ -510,9 +505,14 @@
       "vanguard-etf-portfolio-could-replace-163500690.html",
       "nike-latest-quarter-shows-customers-164700751.html",
       "top-stock-could-win-big-165000259.html",
-      "rail-truck-data-highlight-strong-165301602.html"
+      "rail-truck-data-highlight-strong-165301602.html",
+      "wedbush-lowers-price-target-progress-121854053.html",
+      "30-old-chain-closing-28-170700367.html",
+      "case-owning-broad-market-etf-172000995.html",
+      "history-says-great-rotation-just-173500096.html",
+      "why-marvell-technology-rallied-march-174100238.html"
     ],
-    "last_run": "2026-04-04T17:12:46.096513+00:00",
+    "last_run": "2026-04-04T18:14:25.152694+00:00",
     "seeded": true
   }
 }
