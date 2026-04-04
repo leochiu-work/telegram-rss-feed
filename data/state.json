@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "wont-believe-return-made-bought-131500501.html",
-      "meta-doubles-down-data-center-140002961.html",
-      "occidental-petroleum-stock-may-peak-140002101.html",
-      "buy-dip-western-digital-stock-130002246.html",
-      "disney-down-25-worst-might-131719269.html",
       "ARGUS_46574_MarketSummary_1774868041000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "ARGUS_46576_TechnicalAnalysis_1774868974000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "netskope-ntsk-still-seen-strong-173749088.html",
@@ -510,9 +505,14 @@
       "zerostack-inks-107m-deal-21-030800797.html",
       "corporate-owned-life-insurance-types-014935067.html",
       "bank-owned-life-insurance-works-014651436.html",
-      "rivian-defies-expectations-despite-rough-023300613.html"
+      "rivian-defies-expectations-despite-rough-023300613.html",
+      "looming-oil-cliff-pinches-airline-040100383.html",
+      "dol-proposal-more-alts-401-040100418.html",
+      "blue-owl-slams-brakes-redemptions-040100495.html",
+      "bp-names-carol-howle-deputy-035729557.html",
+      "49-old-home-depot-rival-035500086.html"
     ],
-    "last_run": "2026-04-04T07:26:04.389321+00:00",
+    "last_run": "2026-04-04T08:17:13.441195+00:00",
     "seeded": true
   }
 }
