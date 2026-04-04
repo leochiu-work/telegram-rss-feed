@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "pan-american-silver-corp-paas-194722007.html",
-      "ray-dalio-flags-risky-times-173109810.html",
-      "7-reasons-buy-life-insurance-172905144.html",
-      "3-reasons-celsius-stock-bounce-172700397.html",
-      "struggling-mall-retailer-closes-100s-172221745.html",
       "super-micro-computer-inc-smci-195042695.html",
       "halozyme-therapeutics-halo-appoints-interim-194815553.html",
       "1-stock-benefits-no-matter-180700081.html",
@@ -510,9 +505,14 @@
       "gas-prices-spiking-now-reason-103000672.html",
       "250k-savings-already-halfway-1m-120000469.html",
       "bucket-draw-first-suze-orman-120000684.html",
-      "better-healthcare-stock-own-recession-120500981.html"
+      "better-healthcare-stock-own-recession-120500981.html",
+      "nearly-40-billionaire-bill-ackmans-125000992.html",
+      "jpmorgan-says-lamb-weston-holdings-122041893.html",
+      "trump-tells-allies-own-oil-123000192.html",
+      "going-circles-one-woman-got-130000334.html",
+      "oil-spiked-12-one-day-130359187.html"
     ],
-    "last_run": "2026-04-04T12:16:31.949525+00:00",
+    "last_run": "2026-04-04T13:26:51.110515+00:00",
     "seeded": true
   }
 }
