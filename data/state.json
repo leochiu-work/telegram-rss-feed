@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "may-god-mercy-robert-kiyosaki-120000841.html",
-      "investing-insights-tax-returns-120000453.html",
-      "banks-open-on-sunday-170650488.html",
-      "how-the-fed-has--and-hasnt--responded-to-previous-oil-price-shocks-090035039.html",
-      "selecting-technology-partner-recordkeeping-platform-123652403.html",
       "wont-believe-return-made-bought-131500501.html",
       "meta-doubles-down-data-center-140002961.html",
       "occidental-petroleum-stock-may-peak-140002101.html",
@@ -510,9 +505,14 @@
       "tilrays-shock-top-unveils-strongest-233058211.html",
       "what-is-fednow-173505833.html",
       "sysco-just-announced-29-1-233002373.html",
-      "the-wealthy-investors-that-powered-private-credit-are-rushing-for-the-exits-7a3db81e?siteid=yhoof2&yptr=yahoo"
+      "the-wealthy-investors-that-powered-private-credit-are-rushing-for-the-exits-7a3db81e?siteid=yhoof2&yptr=yahoo",
+      "telsey-lowers-lands-end-inc-004215690.html",
+      "zerostack-inks-107m-deal-21-030800797.html",
+      "corporate-owned-life-insurance-types-014935067.html",
+      "bank-owned-life-insurance-works-014651436.html",
+      "rivian-defies-expectations-despite-rough-023300613.html"
     ],
-    "last_run": "2026-04-04T06:28:21.814230+00:00",
+    "last_run": "2026-04-04T07:26:04.389321+00:00",
     "seeded": true
   }
 }
