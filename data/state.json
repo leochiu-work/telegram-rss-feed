@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "car-collateral-loan-160951029.html",
-      "jim-cramer-nvidia-only-being-194121085.html",
-      "7-reasons-home-equity-193400988.html",
-      "amazon-chip-division-hit-second-153208552.html",
-      "expect-markets-week-march-jobs-153822185.html",
       "pan-american-silver-corp-paas-194722007.html",
       "ray-dalio-flags-risky-times-173109810.html",
       "7-reasons-buy-life-insurance-172905144.html",
@@ -510,9 +505,14 @@
       "jim-cramer-says-buyer-okta-091054168.html",
       "jim-cramer-says-sysco-jetro-091120825.html",
       "jim-cramer-mccormick-company-stock-091106681.html",
-      "whats-a-private-credit-fund-worth-when-the-money-is-locked-up-c93c687d?siteid=yhoof2&yptr=yahoo"
+      "whats-a-private-credit-fund-worth-when-the-money-is-locked-up-c93c687d?siteid=yhoof2&yptr=yahoo",
+      "why-buying-voo-might-actually-115800947.html",
+      "gas-prices-spiking-now-reason-103000672.html",
+      "250k-savings-already-halfway-1m-120000469.html",
+      "bucket-draw-first-suze-orman-120000684.html",
+      "better-healthcare-stock-own-recession-120500981.html"
     ],
-    "last_run": "2026-04-04T11:11:39.355644+00:00",
+    "last_run": "2026-04-04T12:16:31.949525+00:00",
     "seeded": true
   }
 }
