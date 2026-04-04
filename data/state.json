@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bmo-capital-just-initiated-coverage-104940627.html",
-      "morning-bid-march-cruellest-month-105417040.html",
-      "gold-price-today-tuesday-march-31-gold-price-strengthens-after-report-that-trump-is-considering-war-exit-111116757.html",
-      "tariff-turmoil-refunds-lawsuits-duties-110000181.html",
-      "2-ai-healthcare-stocks-buy-110500891.html",
       "iren-iren-stock-down-significantly-115556709.html",
       "paypal-pypl-stock-down-significantly-115617666.html",
       "circle-internet-crcl-shares-down-115626074.html",
@@ -510,9 +505,14 @@
       "jim-cramer-discusses-salesforce-crm-182834856.html",
       "jim-cramer-praises-intel-intc-182846306.html",
       "jim-cramer-reveals-second-half-182900793.html",
-      "buy-carmax-while-below-45-185000615.html"
+      "buy-carmax-while-below-45-185000615.html",
+      "arm-holdings-arm-winner-says-182752785.html",
+      "jim-cramer-doesn-t-know-182804706.html",
+      "jim-cramer-discusses-starbucks-sbux-182816273.html",
+      "imf-warns-tokenized-finance-risks-130000327.html",
+      "retiring-volatile-market-heres-protect-195200672.html"
     ],
-    "last_run": "2026-04-04T19:15:01.084176+00:00",
+    "last_run": "2026-04-04T20:10:11.723139+00:00",
     "seeded": true
   }
 }
