@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "iren-iren-stock-down-significantly-115556709.html",
-      "paypal-pypl-stock-down-significantly-115617666.html",
-      "circle-internet-crcl-shares-down-115626074.html",
-      "gold-ira-rollover-mistakes-120000806.html",
-      "j-safra-sarasin-posts-3-120655047.html",
       "tech-stocks-today-big-tech-stocks-recover-meta-tests-a-premium-instagram-subscription-144220223.html",
       "taiwan-semiconductor-manufacturing-company-limited-130902244.html",
       "trump-backed-american-bitcoin-now-131100752.html",
@@ -510,9 +505,14 @@
       "jim-cramer-doesn-t-know-182804706.html",
       "jim-cramer-discusses-starbucks-sbux-182816273.html",
       "imf-warns-tokenized-finance-risks-130000327.html",
-      "retiring-volatile-market-heres-protect-195200672.html"
+      "retiring-volatile-market-heres-protect-195200672.html",
+      "samsung-still-leads-foldable-rivals-203215922.html",
+      "1-vanguard-etf-trust-outperform-203500898.html",
+      "spacex-has-the-momentum-to-become-musks-favored-project-100002842.html",
+      "unitedhealth-group-unh-best-healthcare-202429256.html",
+      "tsmc-vs-nvidia-ai-supercycle-205000484.html"
     ],
-    "last_run": "2026-04-04T20:10:11.723139+00:00",
+    "last_run": "2026-04-04T21:11:55.915477+00:00",
     "seeded": true
   }
 }
