@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "analysts-sentiment-trx-gold-trx-100611703.html",
-      "analysts-remain-bullish-vox-royalty-100613480.html",
-      "analysts-bullish-gold-royalty-groy-100609328.html",
-      "us-gas-prices-top-4-a-gallon-for-first-time-since-2022-as-iran-war-drags-on-100213651.html",
-      "stock-market-today-dow-sp-500-nasdaq-rise-after-trump-remarks-on-ending-war-with-hormuz-closed-230141471.html",
       "bmo-capital-just-initiated-coverage-104940627.html",
       "morning-bid-march-cruellest-month-105417040.html",
       "gold-price-today-tuesday-march-31-gold-price-strengthens-after-report-that-trump-is-considering-war-exit-111116757.html",
@@ -510,9 +505,14 @@
       "30-old-chain-closing-28-170700367.html",
       "case-owning-broad-market-etf-172000995.html",
       "history-says-great-rotation-just-173500096.html",
-      "why-marvell-technology-rallied-march-174100238.html"
+      "why-marvell-technology-rallied-march-174100238.html",
+      "jim-cramer-likes-eli-lilly-182825287.html",
+      "jim-cramer-discusses-salesforce-crm-182834856.html",
+      "jim-cramer-praises-intel-intc-182846306.html",
+      "jim-cramer-reveals-second-half-182900793.html",
+      "buy-carmax-while-below-45-185000615.html"
     ],
-    "last_run": "2026-04-04T18:14:25.152694+00:00",
+    "last_run": "2026-04-04T19:15:01.084176+00:00",
     "seeded": true
   }
 }
