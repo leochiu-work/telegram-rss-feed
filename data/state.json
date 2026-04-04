@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46572_InsiderActivity_1774866334000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "filing-2025-taxes-gemini-help-131204380.html",
-      "copy-mortgage-refinance-interest-rates-today-sunday-march-22-2026-100000398.html",
-      "often-missed-corner-healthcare-wall-130700388.html",
-      "national-bank-canada-conference-ceo-130321249.html",
       "cathie-wood-going-cold-big-133122912.html",
       "ARGUS_46583_MarketUpdate_1774888649000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "better-space-stock-rocket-lab-135000922.html",
@@ -510,9 +505,14 @@
       "planet-labs-pbc-pl-soars-064157306.html",
       "ondas-inc-onds-climbs-8-064118485.html",
       "mara-holdings-mara-jumps-8-064112649.html",
-      "artificial-intelligence-ai-stock-could-060700047.html"
+      "artificial-intelligence-ai-stock-could-060700047.html",
+      "im-60-750k-401-k-151349628.html",
+      "ask-advisor-spouse-dies-full-100000535.html",
+      "samsung-elec-likely-report-stupendous-080411493.html",
+      "hyundai-motor-flags-export-disruptions-073001120.html",
+      "cfos-move-week-ending-april-083700610.html"
     ],
-    "last_run": "2026-04-04T09:17:27.607055+00:00",
+    "last_run": "2026-04-04T10:13:30.509154+00:00",
     "seeded": true
   }
 }
