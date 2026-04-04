@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "copy-best-cd-rates-today-sunday-march-29-2026-100000730.html",
-      "ai-cryptocurrency-57-3-months-102000541.html",
-      "white-collar-workers-now-taking-103000172.html",
-      "going-wiped-robert-kiyosaki-warns-102300324.html",
-      "oppenheimer-predicts-560-rally-2-101500859.html",
       "scared-market-volatility-best-places-113000759.html",
       "chicago-woman-600k-selling-1-113000052.html",
       "m-52-200k-2-4m-110000369.html",
@@ -510,9 +505,14 @@
       "how-do-balance-transfers-work-204135174.html",
       "energy-shock-part-3-where-213040864.html",
       "?src=A00220&yptr=yahoo",
-      "health-care-roundup-market-talk-8158f818?siteid=yhoof2&yptr=yahoo"
+      "health-care-roundup-market-talk-8158f818?siteid=yhoof2&yptr=yahoo",
+      "two-solid-yes-votes-echo-215518877.html",
+      "fuel-shock-forces-airlines-emergency-220000159.html",
+      "best-balance-transfer-credit-cards-123841213.html",
+      "corn-heads-long-weekend-mixed-221444555.html",
+      "2-industrial-stocks-youll-wish-222500995.html"
     ],
-    "last_run": "2026-04-04T04:39:49.419266+00:00",
+    "last_run": "2026-04-04T05:31:27.715928+00:00",
     "seeded": true
   }
 }
