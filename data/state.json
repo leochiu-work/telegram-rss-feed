@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "l3harris-technologies-lhx-expanding-growth-200425732.html",
-      "jefferies-remains-buy-eli-lilly-201552318.html",
-      "lockheed-martin-corporation-lmt-one-200901837.html",
-      "apple-inc-aapl-siri-powerful-201501407.html",
-      "ubs-lowers-pt-microsoft-msft-201215591.html",
       "silicon-laboratories-slab-banf-introduces-203700109.html",
       "acm-research-acmr-shanghai-unit-203813942.html",
       "why-aardvark-therapeutics-aard-paused-204232901.html",
@@ -510,9 +505,14 @@
       "dave-ramsey-tells-wife-30-144545469.html",
       "rosenblatt-raises-price-target-penguin-121936452.html",
       "not-just-more-units-one-144612737.html",
-      "5-incredible-ai-stocks-buy-145000969.html"
+      "5-incredible-ai-stocks-buy-145000969.html",
+      "alliance-global-maintains-buy-rating-121904563.html",
+      "morgan-stanley-raises-price-target-121913310.html",
+      "spacex-2-things-never-seen-152400451.html",
+      "home-depots-headquarters-everything-know-153300036.html",
+      "costco-opportunity-over-153500040.html"
     ],
-    "last_run": "2026-04-04T15:12:22.837847+00:00",
+    "last_run": "2026-04-04T16:12:13.660859+00:00",
     "seeded": true
   }
 }
