@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "silicon-laboratories-slab-banf-introduces-203700109.html",
-      "acm-research-acmr-shanghai-unit-203813942.html",
-      "why-aardvark-therapeutics-aard-paused-204232901.html",
-      "alphabet-just-introduced-newest-ai-205000995.html",
-      "stock-yields-6-6-127-210900247.html",
       "canaccord-maintains-hold-joby-joby-084608632.html",
       "analysts-reaffirm-buy-rivian-rivn-084609921.html",
       "ferrari-race-stock-rated-outperform-084611588.html",
@@ -510,9 +505,14 @@
       "morgan-stanley-raises-price-target-121913310.html",
       "spacex-2-things-never-seen-152400451.html",
       "home-depots-headquarters-everything-know-153300036.html",
-      "costco-opportunity-over-153500040.html"
+      "costco-opportunity-over-153500040.html",
+      "ARGUS_46627_InsiderActivity_1775214079000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "vanguard-etf-portfolio-could-replace-163500690.html",
+      "nike-latest-quarter-shows-customers-164700751.html",
+      "top-stock-could-win-big-165000259.html",
+      "rail-truck-data-highlight-strong-165301602.html"
     ],
-    "last_run": "2026-04-04T16:12:13.660859+00:00",
+    "last_run": "2026-04-04T17:12:46.096513+00:00",
     "seeded": true
   }
 }
