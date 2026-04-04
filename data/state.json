@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tech-stocks-today-big-tech-stocks-recover-meta-tests-a-premium-instagram-subscription-144220223.html",
-      "taiwan-semiconductor-manufacturing-company-limited-130902244.html",
-      "trump-backed-american-bitcoin-now-131100752.html",
-      "coreweave-secures-8-5-billion-130401875.html",
-      "agnico-eagle-invest-cascadia-minerals-132025320.html",
       "gold-track-worst-month-since-140300996.html",
       "4-000-stock-become-affordable-141559947.html",
       "alaska-airlines-taps-primeflight-cargo-141337170.html",
@@ -510,9 +505,14 @@
       "1-vanguard-etf-trust-outperform-203500898.html",
       "spacex-has-the-momentum-to-become-musks-favored-project-100002842.html",
       "unitedhealth-group-unh-best-healthcare-202429256.html",
-      "tsmc-vs-nvidia-ai-supercycle-205000484.html"
+      "tsmc-vs-nvidia-ai-supercycle-205000484.html",
+      "jim-cramer-thinks-apple-aapl-182741049.html",
+      "brookfield-corporation-become-next-berkshire-213500826.html",
+      "youd-invested-100-cvs-health-215200483.html",
+      "americas-largest-homebuilder-faces-claims-210500482.html",
+      "photronics-director-sold-10-000-215648976.html"
     ],
-    "last_run": "2026-04-04T21:11:55.915477+00:00",
+    "last_run": "2026-04-04T22:09:48.816265+00:00",
     "seeded": true
   }
 }
