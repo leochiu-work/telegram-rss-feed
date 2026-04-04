@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "scared-market-volatility-best-places-113000759.html",
-      "chicago-woman-600k-selling-1-113000052.html",
-      "m-52-200k-2-4m-110000369.html",
-      "peter-schiff-warns-inflation-could-110000701.html",
-      "15-low-yielding-6-7-111245800.html",
       "may-god-mercy-robert-kiyosaki-120000841.html",
       "investing-insights-tax-returns-120000453.html",
       "banks-open-on-sunday-170650488.html",
@@ -510,9 +505,14 @@
       "fuel-shock-forces-airlines-emergency-220000159.html",
       "best-balance-transfer-credit-cards-123841213.html",
       "corn-heads-long-weekend-mixed-221444555.html",
-      "2-industrial-stocks-youll-wish-222500995.html"
+      "2-industrial-stocks-youll-wish-222500995.html",
+      "best-home-equity-loan-lenders-223817340.html",
+      "tilrays-shock-top-unveils-strongest-233058211.html",
+      "what-is-fednow-173505833.html",
+      "sysco-just-announced-29-1-233002373.html",
+      "the-wealthy-investors-that-powered-private-credit-are-rushing-for-the-exits-7a3db81e?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-04T05:31:27.715928+00:00",
+    "last_run": "2026-04-04T06:28:21.814230+00:00",
     "seeded": true
   }
 }
