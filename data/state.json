@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "nike-stock-tumbles-more-than-13-hits-11-year-low-as-weakness-in-china-high-oil-prices-weigh-on-outlook-140026004.html",
-      "us-manufacturing-sector-grows-march-140114096.html",
-      "franklin-templeton-acquire-coinfund-spinoff-140252894.html",
-      "stock-market-today-dow-sp-500-nasdaq-climb-as-deescalation-talk-in-iran-extends-rally-133208948.html",
-      "flavour-foodservice-markets-six-takeaways-125511422.html",
       "electronic-arts-inc-ea-billionaire-151430403.html",
       "apple-inc-aapl-billionaire-paul-151529152.html",
       "netflix-inc-nflx-billionaire-paul-151615363.html",
@@ -510,9 +505,14 @@
       "royal-caribbean-rcl-bank-america-183120949.html",
       "xrp-price-prediction-april-2026-201418337.html",
       "rich-dad-poor-dad-author-203200836.html",
-      "peloton-moving-direction-still-solve-203500057.html"
+      "peloton-moving-direction-still-solve-203500057.html",
+      "carlyle-group-cg-acquire-majority-183117536.html",
+      "m-crypto-expert-why-d-210006603.html",
+      "nebius-stock-jumped-15-meta-212000784.html",
+      "mit-backed-tool-shows-exactly-205500689.html",
+      "washingtons-millionaires-tax-drive-rich-213204367.html"
     ],
-    "last_run": "2026-04-05T21:11:57.532448+00:00",
+    "last_run": "2026-04-05T22:10:39.297806+00:00",
     "seeded": true
   }
 }
