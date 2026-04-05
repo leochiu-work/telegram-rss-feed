@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo",
-      "bank5-connect-review-213751126.html",
-      "what-is-a-gold-ira-163508790.html",
-      "airo-group-earnings-stock-price-507c4dc6?siteid=yhoof2&yptr=yahoo",
-      "airlines-face-price-hikes-lower-margins-as-iran-war-pressures-business-171745222.html",
       "ARGUS_46590_MarketSummary_1774954446000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "amphenol-quarterly-earnings-preview-know-085744643.html",
       "heres-expect-te-connectivity-next-090616998.html",
@@ -510,9 +505,14 @@
       "gold-gives-back-gains-war-185357364.html",
       "no-bottom-sight-p-500-191246786.html",
       "crypto-languishes-oil-prices-soar-191100353.html",
-      "average-etf-lifespan-collapses-wall-185634317.html"
+      "average-etf-lifespan-collapses-wall-185634317.html",
+      "microsoft-corporation-msft-billionaire-steve-210303332.html",
+      "nvidia-corporation-nvda-billionaire-steve-210029651.html",
+      "u-s-doubles-insurance-guarantee-for-ships-braving-hormuz-eep5AziER3yzeoos76sP?siteid=yhoof2&yptr=yahoo",
+      "best-mortgage-lenders-first-time-buyers-202829998.html",
+      "corporate-america-suck-dave-ramsey-200113340.html"
     ],
-    "last_run": "2026-04-05T01:38:08.003955+00:00",
+    "last_run": "2026-04-05T03:10:24.873555+00:00",
     "seeded": true
   }
 }
