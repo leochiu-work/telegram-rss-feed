@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "5-biotechs-big-pharma-could-110546039.html",
-      "da-davidson-maintains-neutral-rating-110601175.html",
-      "nuvation-bio-inc-nuvb-eisai-110724788.html",
-      "lumen-technologies-lumn-announces-board-110814311.html",
-      "goldman-sachs-upgrades-nokia-nok-110932917.html",
       "millions-millionaires-don-t-feel-120000676.html",
       "1-beaten-down-ai-stock-120500157.html",
       "ARGUS_3294_AnalystReport_1775041593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
@@ -510,9 +505,14 @@
       "2-stocks-killing-spacex-ipo-173500357.html",
       "opec-members-to-raise-oil-production-warn-of-slow-recovery-bGjsPSTzUZM7Aby2BmYQ?siteid=yhoof2&yptr=yahoo",
       "young-americans-falling-behind-bills-173500107.html",
-      "p-500-crash-2026-history-174000278.html"
+      "p-500-crash-2026-history-174000278.html",
+      "fiserv-fisv-western-alliance-bank-183127921.html",
+      "jd-com-jd-announces-pricing-183126246.html",
+      "generational-investment-opportunity-3-ai-183500913.html",
+      "how-income-and-costs-affect-everyone-differently-183751305.html",
+      "inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html"
     ],
-    "last_run": "2026-04-05T18:15:13.358856+00:00",
+    "last_run": "2026-04-05T19:17:38.838553+00:00",
     "seeded": true
   }
 }
