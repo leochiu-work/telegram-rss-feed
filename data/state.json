@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "makes-charles-schwab-corporation-schw-124423415.html",
-      "sequoia-strategy-updates-formula-one-124730407.html",
-      "why-sequoia-strategy-believes-capital-125017312.html",
-      "why-april-could-turning-point-125000625.html",
-      "raymond-james-financial-earnings-preview-125005054.html",
       "know-ahead-westinghouse-air-brake-135706208.html",
       "zscaler-stock-shows-no-signs-140002524.html",
       "super-micro-faces-securities-fraud-140002952.html",
@@ -510,9 +505,14 @@
       "why-redwire-stock-crushed-week-224727897.html",
       "sea-limited-se-billionaire-steve-210647641.html",
       "amd-vs-nvidia-ai-supercycle-224500658.html",
-      "why-avis-budget-group-stock-222426201.html"
+      "why-avis-budget-group-stock-222426201.html",
+      "ford-reports-weak-q1-sales-045342228.html",
+      "morgan-stanley-cuts-huntington-bancshares-044645063.html",
+      "scotiabank-lowers-comcast-cmcsa-target-045035425.html",
+      "anthony-scaramucci-says-hes-huge-233024101.html",
+      "why-better-home-finance-holding-230701177.html"
     ],
-    "last_run": "2026-04-05T06:32:51.713707+00:00",
+    "last_run": "2026-04-05T07:29:10.478173+00:00",
     "seeded": true
   }
 }
