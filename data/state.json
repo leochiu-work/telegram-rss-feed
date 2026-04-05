@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ariel-global-fund-added-t-160115762.html",
-      "whoop-ceo-after-raising-575-million-our-next-step-is-an-ipo-160340411.html",
-      "johnson-johnson-jnj-benefits-growth-160548994.html",
-      "oracle-corporation-orcl-faces-near-160806186.html",
-      "factset-research-systems-q2-earnings-160854245.html",
       "dow-surges-1-000-points-nasdaq-rallies-3-4--S53QG6YqHeHIwq5pgVDp?siteid=yhoof2&yptr=yahoo",
       "bank5-connect-review-213751126.html",
       "what-is-a-gold-ira-163508790.html",
@@ -510,9 +505,14 @@
       "stmicroelectronics-stm-expands-800v-portfolio-180256631.html",
       "bloom-energy-appoints-simon-edwards-180243989.html",
       "musk-asks-spacex-ipo-banks-181543454.html",
-      "2-must-stocks-buy-hold-181800043.html"
+      "2-must-stocks-buy-hold-181800043.html",
+      "micron-trillion-dollar-company-2030-190500676.html",
+      "gold-gives-back-gains-war-185357364.html",
+      "no-bottom-sight-p-500-191246786.html",
+      "crypto-languishes-oil-prices-soar-191100353.html",
+      "average-etf-lifespan-collapses-wall-185634317.html"
     ],
-    "last_run": "2026-04-05T00:43:39.950841+00:00",
+    "last_run": "2026-04-05T01:38:08.003955+00:00",
     "seeded": true
   }
 }
