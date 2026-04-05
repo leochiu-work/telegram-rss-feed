@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "best-business-credit-cards-181831412.html",
-      "best-capital-one-credit-cards-203558254.html",
-      "prediction-elon-musk-merge-tesla-203500851.html",
-      "stocks-pressured-economic-fallout-iran-203903451.html",
-      "strait-hormuz-causing-issues-scotts-203810511.html",
       "barrington-lowers-concentrix-cnxc-target-225916952.html",
       "citi-edges-oxford-industries-oxm-225712983.html",
       "barrington-sees-value-townsquare-media-230314935.html",
@@ -510,9 +505,14 @@
       "couple-alabama-says-owes-40-140000649.html",
       "retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
       "better-defense-stock-lockheed-martin-145000416.html",
-      "wouldnt-be-shocked-if-bull-market-continues-wall-street-aims-to-look-past-iran-conflict-150025546.html"
+      "wouldnt-be-shocked-if-bull-market-continues-wall-street-aims-to-look-past-iran-conflict-150025546.html",
+      "man-made-1-5-million-131500680.html",
+      "want-slash-taxes-retirement-5-133000621.html",
+      "prediction-1-artificial-intelligence-ai-155000815.html",
+      "gen-z-woman-couldnt-afford-150000716.html",
+      "analysis-target-repeats-starbucks-big-160300853.html"
     ],
-    "last_run": "2026-04-05T15:13:16.823476+00:00",
+    "last_run": "2026-04-05T16:13:21.894135+00:00",
     "seeded": true
   }
 }
