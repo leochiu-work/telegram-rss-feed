@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "millions-millionaires-don-t-feel-120000676.html",
-      "1-beaten-down-ai-stock-120500157.html",
-      "ARGUS_3294_AnalystReport_1775041593000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "spacex-seen-break-test-mega-120228923.html",
-      "goldman-sachs-very-bullish-5-121015162.html",
       "expedia-group-expe-artisan-mid-130834590.html",
       "stock-market-today-dow-sp-500-nasdaq-futures-climb-as-deescalation-talk-in-iran-sparks-rally-to-close-out-q1-224325760.html",
       "nov-nov-surged-following-earnings-131305850.html",
@@ -510,9 +505,14 @@
       "jd-com-jd-announces-pricing-183126246.html",
       "generational-investment-opportunity-3-ai-183500913.html",
       "how-income-and-costs-affect-everyone-differently-183751305.html",
-      "inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html"
+      "inflation-readings-oil-volatility-and-airline-earnings-what-to-watch-this-week-100027649.html",
+      "iqvia-iqv-launches-iqvia-ai-183121755.html",
+      "ge-healthcare-gehc-receives-fda-183123377.html",
+      "united-rentals-uri-launches-ai-183124272.html",
+      "1-tiny-artificial-intelligence-ai-192000355.html",
+      "got-5-000-5-agentic-194700470.html"
     ],
-    "last_run": "2026-04-05T19:17:38.838553+00:00",
+    "last_run": "2026-04-05T20:11:40.199520+00:00",
     "seeded": true
   }
 }
