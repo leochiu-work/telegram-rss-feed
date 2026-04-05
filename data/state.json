@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "expedia-group-expe-artisan-mid-130834590.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-climb-as-deescalation-talk-in-iran-sparks-rally-to-close-out-q1-224325760.html",
-      "nov-nov-surged-following-earnings-131305850.html",
-      "ai-factory-growth-stock-85-131500637.html",
-      "artisan-mid-cap-value-fund-131615692.html",
       "nike-stock-tumbles-more-than-13-hits-11-year-low-as-weakness-in-china-high-oil-prices-weigh-on-outlook-140026004.html",
       "us-manufacturing-sector-grows-march-140114096.html",
       "franklin-templeton-acquire-coinfund-spinoff-140252894.html",
@@ -510,9 +505,14 @@
       "ge-healthcare-gehc-receives-fda-183123377.html",
       "united-rentals-uri-launches-ai-183124272.html",
       "1-tiny-artificial-intelligence-ai-192000355.html",
-      "got-5-000-5-agentic-194700470.html"
+      "got-5-000-5-agentic-194700470.html",
+      "general-motors-gm-invest-over-183118451.html",
+      "royal-caribbean-rcl-bank-america-183120949.html",
+      "xrp-price-prediction-april-2026-201418337.html",
+      "rich-dad-poor-dad-author-203200836.html",
+      "peloton-moving-direction-still-solve-203500057.html"
     ],
-    "last_run": "2026-04-05T20:11:40.199520+00:00",
+    "last_run": "2026-04-05T21:11:57.532448+00:00",
     "seeded": true
   }
 }
