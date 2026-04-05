@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "electronic-arts-inc-ea-billionaire-151430403.html",
-      "apple-inc-aapl-billionaire-paul-151529152.html",
-      "netflix-inc-nflx-billionaire-paul-151615363.html",
-      "morgan-stanley-ms-billionaire-paul-151707499.html",
-      "tech-stocks-today-anthropic-does-damage-control-after-claude-leak-iran-threatens-big-tech-operations-144220238.html",
       "crypto-exchange-bithumb-postpones-ipo-160841467.html",
       "stevanato-group-stvn-core-business-155656099.html",
       "10-best-high-yield-savings-accounts-for-april-2026-earn-up-to-410-apy-171334124.html",
@@ -510,9 +505,14 @@
       "m-crypto-expert-why-d-210006603.html",
       "nebius-stock-jumped-15-meta-212000784.html",
       "mit-backed-tool-shows-exactly-205500689.html",
-      "washingtons-millionaires-tax-drive-rich-213204367.html"
+      "washingtons-millionaires-tax-drive-rich-213204367.html",
+      "pdd-holdings-pdd-reports-2025-183115087.html",
+      "why-conagra-stock-got-mashed-221215114.html",
+      "celsius-holdings-dropped-25-generational-222000540.html",
+      "senator-ditches-stocks-2026-7-223107257.html",
+      "buy-vanguard-fund-thats-soared-223500812.html"
     ],
-    "last_run": "2026-04-05T22:10:39.297806+00:00",
+    "last_run": "2026-04-05T23:13:06.567589+00:00",
     "seeded": true
   }
 }
