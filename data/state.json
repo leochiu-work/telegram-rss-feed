@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "heres-much-saved-401-k-200900121.html",
-      "risks-climb-2-stocks-30-201027640.html",
-      "sysco-stock-just-plunged-oversold-200849819.html",
-      "oil-leaps-above-115-as-widening-war-stokes-growth-fears-2a3c90b7?siteid=yhoof2&yptr=yahoo",
-      "fannie-mae-now-accepting-crypto-201531087.html",
       "best-business-credit-cards-181831412.html",
       "best-capital-one-credit-cards-203558254.html",
       "prediction-elon-musk-merge-tesla-203500851.html",
@@ -510,9 +505,14 @@
       "goldman-sachs-raises-price-target-121801395.html",
       "ai-gold-rush-real-great-123000576.html",
       "gavin-newsom-hails-apples-50-123123702.html",
-      "date-beyond-meat-shouldnt-missed-123500730.html"
+      "date-beyond-meat-shouldnt-missed-123500730.html",
+      "10-investing-lessons-i-learned-over-the-last-20-years-123033012.html",
+      "couple-alabama-says-owes-40-140000649.html",
+      "retiring-head-of-finra-foundation-fomo-is-investors-biggest-mistake-143053886.html",
+      "better-defense-stock-lockheed-martin-145000416.html",
+      "wouldnt-be-shocked-if-bull-market-continues-wall-street-aims-to-look-past-iran-conflict-150025546.html"
     ],
-    "last_run": "2026-04-05T14:15:18.703219+00:00",
+    "last_run": "2026-04-05T15:13:16.823476+00:00",
     "seeded": true
   }
 }
