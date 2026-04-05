@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tesla-appears-master-plan-spacex-150651232.html",
-      "2-things-every-lucid-lcid-145915707.html",
-      "earnings-preview-expect-rollins-report-145058237.html",
-      "ge-vernovas-quarterly-earnings-preview-145900719.html",
-      "even-billionaires-aren-t-safe-145604754.html",
       "while-other-markets-panic-corn-130002405.html",
       "taiwan-semiconductor-manufacturing-co-tsm-125604873.html",
       "mars-ceo-gets-board-role-124823252.html",
@@ -510,9 +505,14 @@
       "deutsche-bank-starts-international-paper-045722545.html",
       "bnp-paribas-warns-stakes-couldnt-031700328.html",
       "td-securities-turns-cautious-bce-045530265.html",
-      "forget-ethereum-buy-cryptocurrency-instead-025000681.html"
+      "forget-ethereum-buy-cryptocurrency-instead-025000681.html",
+      "citi-boosts-northern-oil-gas-050605968.html",
+      "poland-romania-ordered-honor-vaccine-050414945.html",
+      "bain-capital-david-gross-interview-4760823c?siteid=yhoof2&yptr=yahoo",
+      "erste-group-sees-profit-growth-050227676.html",
+      "jepi-vs-jepq-better-buy-045000547.html"
     ],
-    "last_run": "2026-04-05T08:17:13.072236+00:00",
+    "last_run": "2026-04-05T09:19:02.073170+00:00",
     "seeded": true
   }
 }
