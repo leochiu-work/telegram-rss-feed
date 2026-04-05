@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "while-other-markets-panic-corn-130002405.html",
-      "taiwan-semiconductor-manufacturing-co-tsm-125604873.html",
-      "mars-ceo-gets-board-role-124823252.html",
-      "hyperscale-data-expands-michigan-ai-124600591.html",
-      "felix-gold-exercises-option-treasure-124530465.html",
       "bristol-gate-capital-partners-sold-134014317.html",
       "caterpillar-cat-best-data-center-133349628.html",
       "microsoft-msft-beyond-openai-hype-134350721.html",
@@ -510,9 +505,14 @@
       "poland-romania-ordered-honor-vaccine-050414945.html",
       "bain-capital-david-gross-interview-4760823c?siteid=yhoof2&yptr=yahoo",
       "erste-group-sees-profit-growth-050227676.html",
-      "jepi-vs-jepq-better-buy-045000547.html"
+      "jepi-vs-jepq-better-buy-045000547.html",
+      "tax-economist-bet-entire-life-094500329.html",
+      "texas-man-convinced-investors-bet-093000384.html",
+      "florida-car-dealer-tried-ship-090000141.html",
+      "imf-urges-boj-keep-raising-071237151.html",
+      "goldman-sachs-says-bitcoin-bottom-074400256.html"
     ],
-    "last_run": "2026-04-05T09:19:02.073170+00:00",
+    "last_run": "2026-04-05T10:13:56.092162+00:00",
     "seeded": true
   }
 }
