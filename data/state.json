@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bitcoin-snaps-five-month-losing-streak-020352265.html",
-      "tesla-q1-deliveries-likely-dip-100411550.html",
-      "bessent-says-1-4-americans-100500427.html",
-      "mike-rowe-says-data-center-101500996.html",
-      "dream-hotels-resorts-adopts-stayntouch-101913040.html",
       "5-biotechs-big-pharma-could-110546039.html",
       "da-davidson-maintains-neutral-rating-110601175.html",
       "nuvation-bio-inc-nuvb-eisai-110724788.html",
@@ -510,9 +505,14 @@
       "vti-owns-over-3-500-165200402.html",
       "two-materials-predict-freight-demand-155839352.html",
       "the-bond-market-is-helping-resolve-the-feds-interest-rate-dilemma-103000702.html",
-      "us-inflation-seen-spiking-first-200000098.html"
+      "us-inflation-seen-spiking-first-200000098.html",
+      "7-billion-loyalty-iou-marriott-130000589.html",
+      "2-stocks-killing-spacex-ipo-173500357.html",
+      "opec-members-to-raise-oil-production-warn-of-slow-recovery-bGjsPSTzUZM7Aby2BmYQ?siteid=yhoof2&yptr=yahoo",
+      "young-americans-falling-behind-bills-173500107.html",
+      "p-500-crash-2026-history-174000278.html"
     ],
-    "last_run": "2026-04-05T17:13:24.095114+00:00",
+    "last_run": "2026-04-05T18:15:13.358856+00:00",
     "seeded": true
   }
 }
