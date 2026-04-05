@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "netflix-revenue-engine-heating-time-170549477.html",
-      "bitmine-surpasses-10-7-billion-171200968.html",
-      "labor-department-proposes-including-alternative-assets-in-retirement-accounts-as-private-equity-stocks-jump-171555906.html",
-      "acquisition-talks-swirling-buy-sell-171946953.html",
-      "could-artificial-intelligence-ai-stock-172000027.html",
       "popular-pizza-chain-franchisee-files-190100601.html",
       "mark-calendars-grain-traders-brace-190002719.html",
       "401k-to-gold-ira-rollover-190900596.html",
@@ -510,9 +505,14 @@
       "trump-claims-cusp-something-country-110000979.html",
       "law-may-just-delayed-refund-104500556.html",
       "roth-ira-rule-confuses-most-104500712.html",
-      "were-6-weeks-away-historic-105600835.html"
+      "were-6-weeks-away-historic-105600835.html",
+      "rbc-capital-lowers-price-target-121622828.html",
+      "towing-scams-surging-across-u-111500063.html",
+      "intel-deepens-sambanova-bet-fresh-113158494.html",
+      "good-chance-don-t-more-113000254.html",
+      "happens-debt-die-113000925.html"
     ],
-    "last_run": "2026-04-05T12:16:51.231121+00:00",
+    "last_run": "2026-04-05T13:27:48.719259+00:00",
     "seeded": true
   }
 }
