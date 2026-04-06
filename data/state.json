@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "rocket-companies-rkt-upgraded-improving-131837080.html",
-      "why-timessquare-capital-u-small-131926739.html",
-      "bank-america-securities-maintains-buy-132143944.html",
-      "tesla-q1-deliveries-miss-estimates-in-challenging-ev-landscape-123741547.html",
-      "irs-warns-ghost-tax-preparers-132338395.html",
       "william-blair-downgrades-adobe-adbe-141220129.html",
       "morgan-stanley-defends-memory-stocks-141309232.html",
       "trumps-fresh-iran-threats-investors-064515350.html",
@@ -510,9 +505,14 @@
       "don-t-care-charlie-munger-113900501.html",
       "mark-cuban-health-care-billing-120000363.html",
       "foxconn-first-quarter-revenue-jumps-074035924.html",
-      "chinas-middle-class-shadow-saving-123000937.html"
+      "chinas-middle-class-shadow-saving-123000937.html",
+      "3-utility-stocks-strong-dividends-132400977.html",
+      "ARGUS_3068_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "dividend-stock-down-8-makes-133500383.html",
+      "tesla-stock-keeps-falling-10-143002004.html",
+      "1-stat-proves-nvidia-remains-133240716.html"
     ],
-    "last_run": "2026-04-06T21:16:21.804242+00:00",
+    "last_run": "2026-04-06T22:14:18.790324+00:00",
     "seeded": true
   }
 }
