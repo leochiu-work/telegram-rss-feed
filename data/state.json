@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "ARGUS_46609_MarketUpdate_1775063149000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "rocket-lab-rklb-rated-buy-084604659.html",
-      "crispr-crsp-rated-overweight-gene-084606764.html",
-      "oklo-inc-oklo-rated-buy-084602204.html",
-      "mcdonald-reshuffles-senior-leadership-support-092717931.html",
       "chinas-zhipu-posts-132-rise-103512156.html",
       "earnings-preview-expect-pultegroups-report-101846260.html",
       "expect-alphabets-next-quarterly-earnings-102255508.html",
@@ -510,9 +505,14 @@
       "retirement-number-nobody-talks-why-143500147.html",
       "bitcoin-price-oil-reserves-keeping-143719236.html",
       "rh-rh-fighting-very-bad-182731354.html",
-      "jim-cramer-continues-chevron-cvx-182721377.html"
+      "jim-cramer-continues-chevron-cvx-182721377.html",
+      "2-ai-stocks-survived-march-155000757.html",
+      "why-poet-technologies-stock-soared-155740489.html",
+      "spacex-ipo-fever-hits-one-155802975.html",
+      "target-quietly-stops-competing-walmart-160300020.html",
+      "buy-silver-while-under-100-160500514.html"
     ],
-    "last_run": "2026-04-06T01:39:55.272971+00:00",
+    "last_run": "2026-04-06T03:11:53.955554+00:00",
     "seeded": true
   }
 }
