@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "crypto-exchange-bithumb-postpones-ipo-160841467.html",
-      "stevanato-group-stvn-core-business-155656099.html",
-      "10-best-high-yield-savings-accounts-for-april-2026-earn-up-to-410-apy-171334124.html",
-      "best-travel-rewards-credit-card-172745542.html",
-      "where-nu-holdings-stock-10-161000941.html",
       "tilray-brands-inc-tlry-among-165534392.html",
       "alliance-global-keeps-neutral-rating-165604077.html",
       "wm-technology-inc-maps-announces-165612954.html",
@@ -510,9 +505,14 @@
       "why-conagra-stock-got-mashed-221215114.html",
       "celsius-holdings-dropped-25-generational-222000540.html",
       "senator-ditches-stocks-2026-7-223107257.html",
-      "buy-vanguard-fund-thats-soared-223500812.html"
+      "buy-vanguard-fund-thats-soared-223500812.html",
+      "two-week-window-could-break-170000068.html",
+      "2-nuclear-energy-stocks-buy-140500048.html",
+      "mortgage-refinance-interest-rates-today-saturday-april-4-2026-100000974.html",
+      "next-big-ai-winner-might-153002888.html",
+      "ai-stocks-exiting-era-blind-140002473.html"
     ],
-    "last_run": "2026-04-05T23:13:06.567589+00:00",
+    "last_run": "2026-04-06T00:43:03.964843+00:00",
     "seeded": true
   }
 }
