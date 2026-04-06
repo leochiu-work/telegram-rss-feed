@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "bitfarms-conference-bitf-rebrand-keel-152018354.html",
-      "cathie-wood-adds-48k-shares-151831529.html",
-      "jpmorgan-cuts-pt-centene-corporation-151856656.html",
-      "mags-etf-two-signals-determine-151557151.html",
-      "goldman-sachs-initiates-coverage-smurfit-151725768.html",
       "how-much-gold-should-you-hold-in-a-retirement-portfolio-165308216.html",
       "is-gold-ira-good-investment-165004455.html",
       "hiring-fell-lockdown-levels-ahead-164913489.html",
@@ -510,9 +505,14 @@
       "heres-exactly-plan-market-crashes-105600205.html",
       "scammers-stole-rewrote-couples-tax-110000842.html",
       "moody-raises-ryder-debt-level-110000375.html",
-      "gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html"
+      "gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html",
+      "ARGUS_3727_AnalystReport_1775473843000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
+      "us-equity-funds-see-second-113904571.html",
+      "food-delivery-platform-magicpin-rolls-120138002.html",
+      "stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html"
     ],
-    "last_run": "2026-04-06T11:22:38.823362+00:00",
+    "last_run": "2026-04-06T12:24:52.673887+00:00",
     "seeded": true
   }
 }
