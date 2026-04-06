@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "capital-one-financial-corporation-cof-190031655.html",
-      "nucor-corporation-nue-one-best-203619582.html",
-      "gold-prices-rally-but-tracks-worst-month-in-more-than-a-decade-202916132.html",
-      "weight-loss-drug-stock-buy-202000438.html",
-      "dow-set-jump-easing-middle-121800484.html",
       "mag-7-stocks-sp500-rally-big-tech-ai-outlook-7b134293?siteid=yhoof2&yptr=yahoo",
       "gas-tops-4-and-diesel-is-over-5-how-an-extended-war-with-iran-could-push-prices-higher-225053638.html",
       "gold-ira-vs-traditional-ira-whats-the-difference-211000312.html",
@@ -510,9 +505,14 @@
       "tax-day-2026-7-common-tax-filing-mistakes-and-how-to-avoid-them-205435123.html",
       "3-mistakes-might-course-roth-160600632.html",
       "openai-releases-policy-proposals-aimed-at-addressing-fallout-from-ai-driven-job-losses-160912303.html",
-      "metal-credit-card-explainer-200039055.html"
+      "metal-credit-card-explainer-200039055.html",
+      "hell-reign-trump-easter-ultimatum-162900739.html",
+      "store-credit-cards-224240291.html",
+      "amazon-prime-rewards-visa-card-235422013.html",
+      "micron-stock-price-analyst-traget-c5b89194?siteid=yhoof2&yptr=yahoo",
+      "alexander-hamiltons-241-year-old-bank-just-got-tapped-for-trump-accounts-170931150.html"
     ],
-    "last_run": "2026-04-06T16:21:02.527314+00:00",
+    "last_run": "2026-04-06T17:21:07.992335+00:00",
     "seeded": true
   }
 }
