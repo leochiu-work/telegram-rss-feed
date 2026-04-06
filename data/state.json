@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "how-much-gold-should-you-hold-in-a-retirement-portfolio-165308216.html",
-      "is-gold-ira-good-investment-165004455.html",
-      "hiring-fell-lockdown-levels-ahead-164913489.html",
-      "soybeans-rallying-acres-seen-lower-164917509.html",
-      "corn-bouncing-following-positive-stocks-164917571.html",
       "tesla-tesla-spacex-plan-build-173759944.html",
       "meta-meta-ceo-mark-zuckerberg-173809972.html",
       "micron-technology-inc-mu-shares-173825036.html",
@@ -510,9 +505,14 @@
       "bitcoin-and-ethereum-price-today-monday-april-6-2026-prices-rise-amid-reports-of-a-proposed-iran-war-ceasefire-113813797.html",
       "us-equity-funds-see-second-113904571.html",
       "food-delivery-platform-magicpin-rolls-120138002.html",
-      "stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html"
+      "stock-market-today-us-stock-futures-rise-as-hopes-emerge-for-a-mideast-end-to-hostilities-002656513.html",
+      "first-solar-inc-fslr-good-125806664.html",
+      "x-money-elon-musks-fintech-app-130000383.html",
+      "stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html",
+      "where-rocket-lab-stock-5-130500931.html",
+      "tight-market-reliability-wins-131000559.html"
     ],
-    "last_run": "2026-04-06T12:24:52.673887+00:00",
+    "last_run": "2026-04-06T13:35:06.760933+00:00",
     "seeded": true
   }
 }
