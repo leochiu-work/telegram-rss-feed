@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "tesla-tesla-spacex-plan-build-173759944.html",
-      "meta-meta-ceo-mark-zuckerberg-173809972.html",
-      "micron-technology-inc-mu-shares-173825036.html",
-      "palantir-technologies-inc-pltr-among-173901414.html",
-      "ai-startup-upstage-talks-purchase-173924600.html",
       "61-counting-15-000-bonus-183000033.html",
       "u-energy-corp-useg-announces-182729514.html",
       "allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216?siteid=yhoof2&yptr=yahoo",
@@ -510,9 +505,14 @@
       "x-money-elon-musks-fintech-app-130000383.html",
       "stock-market-today-us-stock-futures-mixed-oil-dips-as-hopes-emerge-for-an-end-to-middle-east-hostilities-002656744.html",
       "where-rocket-lab-stock-5-130500931.html",
-      "tight-market-reliability-wins-131000559.html"
+      "tight-market-reliability-wins-131000559.html",
+      "top-three-nuclear-energy-stocks-140500901.html",
+      "ARGUS_46641_StockPicks_1775475287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "inspire-medical-insp-gaining-strength-135606675.html",
+      "tapestry-ceo-says-shes-committed-to-fixing-kate-spade-pushing-coach-forward-135621020.html",
+      "veteran-analyst-drops-surprise-verdict-140700991.html"
     ],
-    "last_run": "2026-04-06T13:35:06.760933+00:00",
+    "last_run": "2026-04-06T14:25:11.936793+00:00",
     "seeded": true
   }
 }
