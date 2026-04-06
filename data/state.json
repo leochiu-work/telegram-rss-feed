@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "china-expands-digital-yuan-programme-114527858.html",
-      "stock-market-today-dow-sp-500-nasdaq-futures-stumble-after-trump-says-war-with-iran-not-yet-over-224909008.html",
-      "trump-officials-consider-auto-enrolling-120000187.html",
-      "how-to-keep-your-crypto-safe-120000773.html",
-      "moniepoint-buys-kenya-sumac-microfinance-120343002.html",
       "rocket-companies-rkt-upgraded-improving-131837080.html",
       "why-timessquare-capital-u-small-131926739.html",
       "bank-america-securities-maintains-buy-132143944.html",
@@ -510,9 +505,14 @@
       "ARGUS_3181_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "existential-alarm-bell-bad-mike-111500195.html",
       "bill-ackman-urges-us-investors-110700724.html",
-      "borderlands-mexico-tariff-pressure-shows-110000003.html"
+      "borderlands-mexico-tariff-pressure-shows-110000003.html",
+      "wall-streets-most-consequential-company-122600288.html",
+      "don-t-care-charlie-munger-113900501.html",
+      "mark-cuban-health-care-billing-120000363.html",
+      "foxconn-first-quarter-revenue-jumps-074035924.html",
+      "chinas-middle-class-shadow-saving-123000937.html"
     ],
-    "last_run": "2026-04-06T20:17:31.112207+00:00",
+    "last_run": "2026-04-06T21:16:21.804242+00:00",
     "seeded": true
   }
 }
