@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "everyone-gen-z-saving-less-140044974.html",
-      "netflix-just-admitted-needs-more-140003570.html",
-      "boycott-brewing-against-target-hurt-140003151.html",
-      "l3harris-technologies-quarterly-earnings-preview-140323333.html",
-      "nvidia-marvell-deal-3-reasons-140248226.html",
       "bitfarms-conference-bitf-rebrand-keel-152018354.html",
       "cathie-wood-adds-48k-shares-151831529.html",
       "jpmorgan-cuts-pt-centene-corporation-151856656.html",
@@ -510,9 +505,14 @@
       "jamie-dimon-highlights-iran-war-private-credit-and-ai-driven-job-losses-as-major-us-risks-in-his-annual-letter-100130113.html",
       "jpmorgans-dimon-warns-iran-war-100501443.html",
       "spacexs-ipo-could-supercharge-the-entire-space-industry-101227330.html",
-      "mayfair-gold-acquire-three-properties-101305330.html"
+      "mayfair-gold-acquire-three-properties-101305330.html",
+      "big-techs-second-quarter-just-started-and-its-already-facing-major-challenges-103340081.html",
+      "heres-exactly-plan-market-crashes-105600205.html",
+      "scammers-stole-rewrote-couples-tax-110000842.html",
+      "moody-raises-ryder-debt-level-110000375.html",
+      "gold-price-today-monday-april-6-gold-strengthens-after-improved-jobs-report-and-mixed-war-news-110339214.html"
     ],
-    "last_run": "2026-04-06T10:29:15.678334+00:00",
+    "last_run": "2026-04-06T11:22:38.823362+00:00",
     "seeded": true
   }
 }
