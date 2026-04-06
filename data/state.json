@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "william-blair-downgrades-adobe-adbe-141220129.html",
-      "morgan-stanley-defends-memory-stocks-141309232.html",
-      "trumps-fresh-iran-threats-investors-064515350.html",
-      "wall-street-upgrades-cheniere-energy-142035153.html",
-      "logan-sketches-path-shrink-size-141736169.html",
       "can-you-pay-rent-with-a-credit-card-000451795.html",
       "card-spending-at-furniture-department-stores-fall-as-gas-station-sales-surge-bank-of-america-150805244.html",
       "how-many-credit-cards-is-too-many-191232220.html",
@@ -510,9 +505,14 @@
       "ARGUS_3068_AnalystReport_1775493751000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "dividend-stock-down-8-makes-133500383.html",
       "tesla-stock-keeps-falling-10-143002004.html",
-      "1-stat-proves-nvidia-remains-133240716.html"
+      "1-stat-proves-nvidia-remains-133240716.html",
+      "wes-moss-says-american-expats-150046548.html",
+      "ARGUS_46643_MarketUpdate_1775492851000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "apollo-apo-funds-acquire-gatehouse-183114049.html",
+      "nvidia-ceo-jensen-huang-says-145844839.html",
+      "everyone-warns-state-investing-bad-144605995.html"
     ],
-    "last_run": "2026-04-06T22:14:18.790324+00:00",
+    "last_run": "2026-04-06T23:15:35.530526+00:00",
     "seeded": true
   }
 }
