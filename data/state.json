@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mag-7-stocks-sp500-rally-big-tech-ai-outlook-7b134293?siteid=yhoof2&yptr=yahoo",
-      "gas-tops-4-and-diesel-is-over-5-how-an-extended-war-with-iran-could-push-prices-higher-225053638.html",
-      "gold-ira-vs-traditional-ira-whats-the-difference-211000312.html",
-      "gold-ira-vs-physical-gold-224654072.html",
-      "gold-alternatives-how-to-invest-in-silver-platinum-and-palladium-145904446.html",
       "needham-reiterates-buy-alphabet-inc-223448220.html",
       "microsoft-corporation-msft-strong-buy-223339528.html",
       "corn-holds-higher-tuesday-222630735.html",
@@ -510,9 +505,14 @@
       "store-credit-cards-224240291.html",
       "amazon-prime-rewards-visa-card-235422013.html",
       "micron-stock-price-analyst-traget-c5b89194?siteid=yhoof2&yptr=yahoo",
-      "alexander-hamiltons-241-year-old-bank-just-got-tapped-for-trump-accounts-170931150.html"
+      "alexander-hamiltons-241-year-old-bank-just-got-tapped-for-trump-accounts-170931150.html",
+      "fabrinet-fn-one-best-strong-091159105.html",
+      "elderly-couple-sold-home-without-093000800.html",
+      "celestica-inc-cls-among-best-091417593.html",
+      "datadog-inc-ddog-initiated-150-091548813.html",
+      "one-energy-stock-id-buy-092000473.html"
     ],
-    "last_run": "2026-04-06T17:21:07.992335+00:00",
+    "last_run": "2026-04-06T18:25:11.488941+00:00",
     "seeded": true
   }
 }
