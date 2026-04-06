@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "strategy-inc-mstr-shares-down-115425802.html",
-      "blackstone-bets-golfer-tommy-fleetwood-120000392.html",
-      "core-scientific-corz-shares-slightly-115517062.html",
-      "coinbase-coin-stock-slightly-jim-115536802.html",
-      "jpmorgan-aims-boost-small-business-120232610.html",
       "copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
       "amplitech-group-price-target-lowered-131040114.html",
       "jacobs-solutions-j-poised-thrive-131625842.html",
@@ -510,9 +505,14 @@
       "jim-cramer-says-think-microsoft-225549670.html",
       "veteran-analyst-sends-message-tesla-180300715.html",
       "prediction-ai-robotics-375-billion-180200804.html",
-      "spacex-filed-confidentially-ipo-report-180204581.html"
+      "spacex-filed-confidentially-ipo-report-180204581.html",
+      "1-artificial-intelligence-ai-stock-192000731.html",
+      "jim-cramer-palantir-think-ll-225624382.html",
+      "jim-cramer-snap-inc-nothing-225612662.html",
+      "eyes-ai-wedbush-keeps-600-191200232.html",
+      "goldman-sachs-blunt-message-gold-191226631.html"
     ],
-    "last_run": "2026-04-06T05:01:51.113668+00:00",
+    "last_run": "2026-04-06T06:45:52.609775+00:00",
     "seeded": true
   }
 }
