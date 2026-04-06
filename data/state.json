@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "61-counting-15-000-bonus-183000033.html",
-      "u-energy-corp-useg-announces-182729514.html",
-      "allbirds-the-tech-bro-favorite-once-valued-at-4-billion-just-sold-its-assets-for-next-to-nothing-605e3216?siteid=yhoof2&yptr=yahoo",
-      "permianville-royalty-trust-pvl-reports-182628044.html",
-      "empire-petroleum-ep-participate-louisiana-182639304.html",
       "options-traders-pick-pharma-stock-194026346.html",
       "apellis-pharma-skyrockets-biogen-deal-193840636.html",
       "dollar-declines-president-trump-signals-193703673.html",
@@ -510,9 +505,14 @@
       "ARGUS_46641_StockPicks_1775475287000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "inspire-medical-insp-gaining-strength-135606675.html",
       "tapestry-ceo-says-shes-committed-to-fixing-kate-spade-pushing-coach-forward-135621020.html",
-      "veteran-analyst-drops-surprise-verdict-140700991.html"
+      "veteran-analyst-drops-surprise-verdict-140700991.html",
+      "willscot-holdings-corporation-wsc-good-150520343.html",
+      "sprouts-farmers-market-inc-sfm-150539810.html",
+      "procore-technologies-inc-pcor-good-150606996.html",
+      "plug-power-advances-4-biggest-150725720.html",
+      "tech-stocks-today-big-techs-q2-outlook-and-openais-major-policy-proposals-144220403.html"
     ],
-    "last_run": "2026-04-06T14:25:11.936793+00:00",
+    "last_run": "2026-04-06T15:21:18.500537+00:00",
     "seeded": true
   }
 }
