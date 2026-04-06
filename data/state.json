@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "alcoa-stock-surging-iran-war-141019320.html",
-      "while-p-500-struggles-3-140911137.html",
-      "airjoule-technologies-q4-earnings-call-141034377.html",
-      "nvidia-nvda-stock-discount-could-141031241.html",
-      "ocean-majan-secures-financing-scale-141156148.html",
       "ubs-cuts-pt-southwest-airlines-151804592.html",
       "53-2026-does-century-aluminum-152328004.html",
       "esab-corp-esab-apeears-well-071852185.html",
@@ -510,9 +505,14 @@
       "jim-cramer-boeing-thing-going-225636621.html",
       "prediction-tesla-stock-buy-2029-201100703.html",
       "stock-market-crash-coming-3-202000435.html",
-      "microsoft-ai-openai-7ae5ffe2?siteid=yhoof2&yptr=yahoo"
+      "microsoft-ai-openai-7ae5ffe2?siteid=yhoof2&yptr=yahoo",
+      "jim-cramer-believes-eli-lilly-225731590.html",
+      "jim-cramer-aecom-m-surprised-225722372.html",
+      "jim-cramer-vizsla-silver-corp-225711375.html",
+      "billionaire-philippe-laffont-sold-coreweave-212000163.html",
+      "spacex-ipo-test-brutal-truth-213239533.html"
     ],
-    "last_run": "2026-04-06T07:37:44.513138+00:00",
+    "last_run": "2026-04-06T08:38:43.590101+00:00",
     "seeded": true
   }
 }
