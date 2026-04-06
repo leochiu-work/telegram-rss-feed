@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "copy-best-cd-rates-today-march-31-2026-lock-in-up-to-4-1-5-apy-today-100000313.html",
-      "amplitech-group-price-target-lowered-131040114.html",
-      "jacobs-solutions-j-poised-thrive-131625842.html",
-      "platinum-international-fund-uber-technologies-131426545.html",
-      "heres-solana-price-prediction-april-130900691.html",
       "alcoa-stock-surging-iran-war-141019320.html",
       "while-p-500-struggles-3-140911137.html",
       "airjoule-technologies-q4-earnings-call-141034377.html",
@@ -510,9 +505,14 @@
       "jim-cramer-palantir-think-ll-225624382.html",
       "jim-cramer-snap-inc-nothing-225612662.html",
       "eyes-ai-wedbush-keeps-600-191200232.html",
-      "goldman-sachs-blunt-message-gold-191226631.html"
+      "goldman-sachs-blunt-message-gold-191226631.html",
+      "jim-cramer-bentley-systems-m-225658190.html",
+      "jim-cramer-boeing-thing-going-225636621.html",
+      "prediction-tesla-stock-buy-2029-201100703.html",
+      "stock-market-crash-coming-3-202000435.html",
+      "microsoft-ai-openai-7ae5ffe2?siteid=yhoof2&yptr=yahoo"
     ],
-    "last_run": "2026-04-06T06:45:52.609775+00:00",
+    "last_run": "2026-04-06T07:37:44.513138+00:00",
     "seeded": true
   }
 }
