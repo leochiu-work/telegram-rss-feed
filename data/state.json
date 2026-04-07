@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "mortgage-rates-rise-for-5th-straight-week-above-6-mortgage-and-refinance-interest-rates-today-100000623.html",
-      "jet-fuel-prices-are-up-100-oil-prices-keep-surging-and-airlines-are-paying-the-price-160448588.html",
-      "canada-logistics-market-heats-dcs-160544204.html",
-      "ubs-message-palantir-investors-160720421.html",
-      "starbucks-offering-baristas-managers-1200-bonuses-in-a-push-to-boost-sales-and-make-customers-happy-161048195.html",
       "xrp-price-xrp-just-posted-165231269.html",
       "cheche-group-inc-q4-2025-164334084.html",
       "airsculpt-technologies-inc-q4-2025-164601400.html",
@@ -510,9 +505,14 @@
       "clark-howard-calls-credit-score-125058638.html",
       "etf-might-double-again-spacex-131046464.html",
       "self-employment-tax-shock-many-130007365.html",
-      "ford-justify-record-ceo-compensation-130500672.html"
+      "ford-justify-record-ceo-compensation-130500672.html",
+      "jade-warshaw-130k-breadwinner-couple-141549170.html",
+      "while-wall-street-worries-cheap-140500436.html",
+      "gasoline-fuel-prices-climb-san-francisco-first-city-at-8-diesel--IdjKqVvIr4ZqWtVDCL2z?siteid=yhoof2&yptr=yahoo",
+      "best-dividend-etf-buy-april-134200535.html",
+      "worried-surging-oil-prices-cause-135000618.html"
     ],
-    "last_run": "2026-04-07T00:42:25.147167+00:00",
+    "last_run": "2026-04-07T01:39:45.570583+00:00",
     "seeded": true
   }
 }
