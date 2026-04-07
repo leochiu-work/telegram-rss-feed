@@ -11,11 +11,6 @@
   },
   "https://finance.yahoo.com/news/rssindex": {
     "seen_guids": [
-      "openai-just-raised-a-historic-amount-of-money-here-are-2-stunning-numbers-you-shouldnt-forget-133202041.html",
-      "uber-holds-5-82-stake-133002718.html",
-      "super-micro-computer-stock-bounces-132651499.html",
-      "tiktok-targets-brazilian-market-dual-132641785.html",
-      "kia-sell-lower-priced-electric-132608783.html",
       "artisan-mid-cap-value-fund-150052635.html",
       "commodity-roundup-march-top-performers-150039399.html",
       "concerns-over-regulatory-challenges-affecting-145834255.html",
@@ -510,9 +505,14 @@
       "best-cd-rates-today-april-7-2026-lock-in-up-to-4-1-5-apy-today-100000909.html",
       "americans-are-uniquely-vulnerable-to-iran-war-volatility-after-years-of-buying-stocks-100044862.html",
       "morning-brief-a-sharp-warning-from-goldman-sachs-100056994.html",
-      "analysis-blockbuster-spacex-listing-could-100746304.html"
+      "analysis-blockbuster-spacex-listing-could-100746304.html",
+      "waaree-subsidiary-begins-operations-3gw-111232347.html",
+      "apples-iphone-sales-continue-to-surge-as-iphone-17-outpaces-iphone-16-104946177.html",
+      "save-pessimist-invest-optimist-bill-110000991.html",
+      "asml-shares-fall-us-congress-110612320.html",
+      "gold-price-today-tuesday-april-7-gold-price-holds-as-war-deadline-looms-110339758.html"
     ],
-    "last_run": "2026-04-07T10:26:47.466833+00:00",
+    "last_run": "2026-04-07T11:24:11.423557+00:00",
     "seeded": true
   }
 }
